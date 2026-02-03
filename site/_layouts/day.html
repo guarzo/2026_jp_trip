@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#dc2626">
+  <title>Day {{ page.day_number }}: {{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="manifest" href="{{ '/manifest.json' | relative_url }}">
+  {% seo %}
+</head>
+<body>
+  {% include header.html %}
+
+  <main class="container day-page">
+    <nav class="day-nav">
+      {% if page.day_number > 1 %}
+        {% assign prev_num = page.day_number | minus: 1 %}
+        {% assign prev_padded = prev_num | prepend: '00' | slice: -2, 2 %}
+        <a href="{{ '/days/day-' | append: prev_padded | append: '/' | relative_url }}" class="day-nav-link prev">
+          &larr; Day {{ prev_num }}
+        </a>
+      {% else %}
+        <span class="day-nav-link prev disabled"></span>
+      {% endif %}
+
+      <span class="day-nav-current">
+        <strong>Day {{ page.day_number }}</strong>
+        <small>{{ page.date_display }}</small>
+      </span>
+
+      {% if page.day_number < 15 %}
+        {% assign next_num = page.day_number | plus: 1 %}
+        {% assign next_padded = next_num | prepend: '00' | slice: -2, 2 %}
+        <a href="{{ '/days/day-' | append: next_padded | append: '/' | relative_url }}" class="day-nav-link next">
+          Day {{ next_num }} &rarr;
+        </a>
+      {% else %}
+        <span class="day-nav-link next disabled"></span>
+      {% endif %}
+    </nav>
+
+    <header class="day-header">
+      <h1>{{ page.title }}</h1>
+      <p class="day-location">{{ page.location }}</p>
+      {% if page.highlights %}
+      <div class="day-highlights">
+        {% for highlight in page.highlights %}
+        <span class="highlight-tag">{{ highlight }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </header>
+
+    <article class="day-content">
+      {{ content }}
+    </article>
+
+    {% if page.reservations %}
+    <section class="day-reservations">
+      <h2>Reservations Needed</h2>
+      <ul>
+        {% for res in page.reservations %}
+        <li><strong>{{ res.name }}</strong> — {{ res.note }}</li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+
+    <section class="day-comments">
+      <h2>Family Notes</h2>
+      <p class="comments-prompt">Add notes, suggestions, or memories below!</p>
+      <div class="giscus"></div>
+    </section>
+  </main>
+
+  {% include footer.html %}
+
+  <script src="{{ '/assets/js/app.js' | relative_url }}"></script>
+  <script src="https://giscus.app/client.js"
+    data-repo="YOUR_USERNAME/japan-trip-2026"
+    data-repo-id=""
+    data-category="Comments"
+    data-category-id=""
+    data-mapping="pathname"
+    data-strict="0"
+    data-reactions-enabled="1"
+    data-emit-metadata="0"
+    data-input-position="top"
+    data-theme="light"
+    data-lang="en"
+    crossorigin="anonymous"
+    async>
+  </script>
+</body>
+</html>

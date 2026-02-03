@@ -1,0 +1,21 @@
+<header class="site-header">
+  <div class="header-container">
+    <a href="{{ '/' | relative_url }}" class="site-logo">
+      <span class="logo-flag">🇯🇵</span>
+      <span class="logo-text">Japan 2026</span>
+    </a>
+
+    <button class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">
+      <span class="menu-icon"></span>
+    </button>
+
+    <nav class="site-nav" id="site-nav">
+      <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
+      <a href="{{ '/itinerary/' | relative_url }}" {% if page.url contains 'itinerary' %}class="active"{% endif %}>Itinerary</a>
+      <a href="{{ '/reservations/' | relative_url }}" {% if page.url contains 'reservations' %}class="active"{% endif %}>Reservations</a>
+      <a href="{{ '/packing/' | relative_url }}" {% if page.url contains 'packing' %}class="active"{% endif %}>Packing</a>
+      <a href="{{ '/pokemon/' | relative_url }}" {% if page.url contains 'pokemon' %}class="active"{% endif %}>Pokemon</a>
+      <a href="{{ '/emergency/' | relative_url }}" {% if page.url contains 'emergency' %}class="active"{% endif %}>Emergency</a>
+    </nav>
+  </div>
+</header>

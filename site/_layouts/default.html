@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#dc2626">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="manifest" href="{{ '/manifest.json' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/assets/images/icon-192.png' | relative_url }}">
+  {% seo %}
+</head>
+<body>
+  {% include header.html %}
+
+  <main class="container">
+    {{ content }}
+  </main>
+
+  {% include footer.html %}
+
+  <script src="{{ '/assets/js/app.js' | relative_url }}"></script>
+  {% if page.layout == 'day' or page.comments %}
+  <script src="https://giscus.app/client.js"
+    data-repo="YOUR_USERNAME/japan-trip-2026"
+    data-repo-id=""
+    data-category="Comments"
+    data-category-id=""
+    data-mapping="pathname"
+    data-strict="0"
+    data-reactions-enabled="1"
+    data-emit-metadata="0"
+    data-input-position="top"
+    data-theme="light"
+    data-lang="en"
+    crossorigin="anonymous"
+    async>
+  </script>
+  {% endif %}
+</body>
+</html>

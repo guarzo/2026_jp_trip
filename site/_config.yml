@@ -1,0 +1,53 @@
+title: "Japan 2026"
+description: "Family Trip Coordination — Tokyo, Kyoto, Osaka"
+baseurl: "" # Update if deploying to a subpath
+url: "" # Update with your GitHub Pages URL
+
+# Trip details
+trip_start: 2026-07-14
+trip_end: 2026-07-28
+trip_nights: 14
+
+# Family members (used in templates)
+family_members:
+  - name: "Dad"
+    emoji: "👨"
+  - name: "Mom"
+    emoji: "👩"
+  - name: "Teen 1"
+    emoji: "🧑"
+  - name: "Teen 2"
+    emoji: "🧑"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins (GitHub Pages supported)
+plugins:
+  - jekyll-seo-tag
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+
+# Collections for day pages
+collections:
+  days:
+    output: true
+    permalink: /days/:name/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "days"
+    values:
+      layout: "day"
+  - scope:
+      path: "pages"
+    values:
+      layout: "default"
