@@ -3,11 +3,15 @@ day_number: 7
 title: "Arashiyama"
 date_display: "Mon, July 20"
 location: "Kyoto"
+hero_image: "https://www.japan-guide.com/g18/3912_top.jpg"
+hero_alt: "Togetsukyo Bridge and the scenic Arashiyama district"
 highlights:
   - Bamboo Grove
   - Monkey Park
   - Rest Day
 ---
+
+<img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
 
 ## Early Morning
 

@@ -3,11 +3,15 @@ day_number: 8
 title: "Kyoto → Osaka + Dotonbori"
 date_display: "Tue, July 21"
 location: "Kyoto → Osaka"
+hero_image: "https://www.japan-guide.com/g21/4001_01.jpg"
+hero_alt: "The vibrant neon lights of Dotonbori, Osaka"
 highlights:
   - Train to Osaka
   - Dotonbori
   - Street Food
 ---
+
+<img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
 
 ## Morning
 

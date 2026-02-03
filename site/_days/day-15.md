@@ -3,11 +3,15 @@ day_number: 15
 title: "Akihabara + Depart"
 date_display: "Tue, July 28"
 location: "Tokyo → Home"
+hero_image: "https://www.japan-guide.com/g18/3003_01.jpg"
+hero_alt: "Akihabara Electric Town - anime, games, and electronics paradise"
 highlights:
   - Final Shopping
   - Akihabara
   - Departure
 ---
+
+<img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
 
 ## Morning
 

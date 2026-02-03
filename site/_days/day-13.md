@@ -3,11 +3,15 @@ day_number: 13
 title: "Osaka → Tokyo + Ikebukuro"
 date_display: "Sun, July 26"
 location: "Osaka → Tokyo"
+hero_image: "https://www.japan-guide.com/g19/2018_01.jpg"
+hero_alt: "Shinkansen bullet train - back to Tokyo!"
 highlights:
   - Shinkansen
   - Pokemon Center MEGA
   - Sunshine City
 ---
+
+<img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
 
 ## Morning
 

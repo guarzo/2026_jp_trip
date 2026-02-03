@@ -3,11 +3,15 @@ day_number: 5
 title: "Fushimi Inari + Higashiyama"
 date_display: "Sat, July 18"
 location: "Kyoto"
+hero_image: "https://www.japan-guide.com/g18/3915_top.jpg"
+hero_alt: "The iconic vermillion torii gates of Fushimi Inari Shrine"
 highlights:
   - Shrine Hike
   - Traditional Streets
   - Gion Evening
 ---
+
+<img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
 
 ## Early Morning
 

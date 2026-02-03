@@ -2,7 +2,13 @@
   "permissions": {
     "allow": [
       "Bash(gh api:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "WebSearch",
+      "WebFetch(domain:commons.wikimedia.org)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:unsplash.com)",
+      "WebFetch(domain:www.japan-guide.com)",
+      "WebFetch(domain:tdrexplorer.com)"
     ]
   }
 }

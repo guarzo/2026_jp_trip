@@ -3,6 +3,8 @@ day_number: 10
 title: "Universal Studios Japan"
 date_display: "Thu, July 23"
 location: "Osaka"
+hero_image: "https://tdrexplorer.com/wp-content/uploads/2021/02/super-nintendo-world-area-photos-22-800x533.jpeg"
+hero_alt: "Super Nintendo World at Universal Studios Japan"
 highlights:
   - USJ Full Day
   - Nintendo World
@@ -13,6 +15,8 @@ reservations:
   - name: Express Pass
     note: Strongly recommended for July
 ---
+
+<img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
 
 <div class="alert alert-warning">
 <p class="alert-title">Decision Needed: Are we doing USJ?</p>

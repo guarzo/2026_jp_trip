@@ -3,10 +3,14 @@ day_number: 1
 title: "Arrive Tokyo"
 date_display: "Tue, July 14"
 location: "Tokyo"
+hero_image: "https://www.japan-guide.com/g22/3004_03.jpg"
+hero_alt: "Sensoji Temple in Asakusa - welcome to Tokyo!"
 highlights:
   - Arrival Day
   - Easy Reset
 ---
+
+<img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
 
 ## Evening
 

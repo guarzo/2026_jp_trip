@@ -3,11 +3,15 @@ day_number: 2
 title: "Shibuya + Harajuku"
 date_display: "Wed, July 15"
 location: "Tokyo"
+hero_image: "https://www.japan-guide.com/g18/3007_01.jpg"
+hero_alt: "Shibuya Crossing - the world's busiest pedestrian intersection"
 highlights:
   - Pokemon Center
   - Youth Culture
   - Arcades
 ---
+
+<img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
 
 ## Morning
 

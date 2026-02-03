@@ -3,11 +3,15 @@ day_number: 4
 title: "Shinkansen to Kyoto + Gion Matsuri"
 date_display: "Fri, July 17"
 location: "Tokyo → Kyoto"
+hero_image: "https://www.japan-guide.com/g18/3942_top.jpg"
+hero_alt: "Gion Matsuri - one of Japan's most famous festivals"
 highlights:
   - Bullet Train
   - Gion Matsuri
   - Festival Night
 ---
+
+<img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
 
 ## Morning
 

@@ -3,9 +3,11 @@ layout: default
 title: Home
 ---
 
-<section class="hero">
-  <h1 class="hero-title">Japan Family Adventure</h1>
-  <p class="hero-subtitle">Tokyo &bull; Kyoto &bull; Osaka</p>
+<img src="https://www.japan-guide.com/g18/3915_top.jpg" alt="The iconic torii gates of Fushimi Inari" class="day-hero" style="margin-bottom: 0; border-radius: 12px 12px 0 0;">
+
+<section class="hero" style="background: linear-gradient(135deg, rgba(220,38,38,0.9), rgba(185,28,28,0.9)); color: white; padding: 1.5rem; border-radius: 0 0 12px 12px; margin-top: 0;">
+  <h1 class="hero-title" style="color: white;">Japan Family Adventure</h1>
+  <p class="hero-subtitle" style="color: rgba(255,255,255,0.9);">Tokyo &bull; Kyoto &bull; Osaka</p>
 </section>
 
 <div class="countdown">
