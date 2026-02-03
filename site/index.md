@@ -21,6 +21,10 @@ title: Home
     <span class="quick-link-icon">📅</span>
     <span class="quick-link-label">Itinerary</span>
   </a>
+  <a href="{{ '/logistics/' | relative_url }}" class="quick-link">
+    <span class="quick-link-icon">✈️</span>
+    <span class="quick-link-label">Logistics</span>
+  </a>
   <a href="{{ '/reservations/' | relative_url }}" class="quick-link">
     <span class="quick-link-icon">✅</span>
     <span class="quick-link-label">Reservations</span>

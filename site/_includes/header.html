@@ -12,6 +12,7 @@
     <nav class="site-nav" id="site-nav">
       <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
       <a href="{{ '/itinerary/' | relative_url }}" {% if page.url contains 'itinerary' %}class="active"{% endif %}>Itinerary</a>
+      <a href="{{ '/logistics/' | relative_url }}" {% if page.url contains 'logistics' %}class="active"{% endif %}>Logistics</a>
       <a href="{{ '/reservations/' | relative_url }}" {% if page.url contains 'reservations' %}class="active"{% endif %}>Reservations</a>
       <a href="{{ '/packing/' | relative_url }}" {% if page.url contains 'packing' %}class="active"{% endif %}>Packing</a>
       <a href="{{ '/pokemon/' | relative_url }}" {% if page.url contains 'pokemon' %}class="active"{% endif %}>Pokemon</a>
