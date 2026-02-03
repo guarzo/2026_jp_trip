@@ -49,26 +49,38 @@ permalink: /emergency/
 
 Show these to taxi drivers. Tap "Copy" to paste into maps.
 
-### Tokyo Hotel
+### Tokyo Hotel (Jul 14-17, Jul 26-28)
+
+**MIMARU Tokyo Asakusa Station** *(update if different)*
 
 <div class="japanese-text" id="tokyo-hotel">
-（ホテル名・住所を入力）
+MIMARU東京 浅草駅
+〒111-0032
+東京都台東区浅草1-2-7
 </div>
-<button class="copy-btn" data-copy="（ホテル名・住所を入力）">Copy</button>
+<button class="copy-btn" data-copy="MIMARU東京 浅草駅 〒111-0032 東京都台東区浅草1-2-7">Copy</button>
 
-### Kyoto Hotel
+### Kyoto Hotel (Jul 17-21)
+
+**MIMARU Kyoto Station** *(update if different)*
 
 <div class="japanese-text" id="kyoto-hotel">
-（ホテル名・住所を入力）
+MIMARU京都 STATION
+〒600-8216
+京都府京都市下京区東塩小路町590-2
 </div>
-<button class="copy-btn" data-copy="（ホテル名・住所を入力）">Copy</button>
+<button class="copy-btn" data-copy="MIMARU京都 STATION 〒600-8216 京都府京都市下京区東塩小路町590-2">Copy</button>
 
-### Osaka Hotel
+### Osaka Hotel (Jul 21-26)
+
+**MIMARU Osaka Namba Station** *(update if different)*
 
 <div class="japanese-text" id="osaka-hotel">
-（ホテル名・住所を入力）
+MIMARU大阪 難波STATION
+〒542-0076
+大阪府大阪市中央区難波3-1-15
 </div>
-<button class="copy-btn" data-copy="（ホテル名・住所を入力）">Copy</button>
+<button class="copy-btn" data-copy="MIMARU大阪 難波STATION 〒542-0076 大阪府大阪市中央区難波3-1-15">Copy</button>
 
 ---
 
@@ -101,27 +113,27 @@ Show these to taxi drivers. Tap "Copy" to paste into maps.
 
 ## Medical / Allergy Info
 
-**Add your family's specific info here:**
+**Fill in your family's specific info:**
 
-### Family Member 1
+### Papa
 - Allergies:
 - Medications:
 - Blood type:
 - Notes:
 
-### Family Member 2
+### Mama
 - Allergies:
 - Medications:
 - Blood type:
 - Notes:
 
-### Family Member 3
+### Bubu (16)
 - Allergies:
 - Medications:
 - Blood type:
 - Notes:
 
-### Family Member 4
+### Gaby (14)
 - Allergies:
 - Medications:
 - Blood type:

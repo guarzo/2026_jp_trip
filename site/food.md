@@ -87,16 +87,16 @@ Specific places we want to try (add as we research):
 
 ## Family Member Requests
 
-### Dad wants to try:
+### Papa wants to try:
 -
 
-### Mom wants to try:
+### Mama wants to try:
 -
 
-### Teen 1 wants to try:
+### Bubu wants to try:
 -
 
-### Teen 2 wants to try:
+### Gaby wants to try:
 -
 
 ---

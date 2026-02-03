@@ -281,6 +281,60 @@ What to carry daily:
 
 ---
 
+## Personal Items — Bubu
+
+<ul class="checklist" data-list-id="bubu">
+  <li class="checklist-item">
+    <input type="checkbox" id="bubu-1">
+    <label for="bubu-1">Pokemon card binder</label>
+  </li>
+  <li class="checklist-item">
+    <input type="checkbox" id="bubu-2">
+    <label for="bubu-2">Target card list</label>
+  </li>
+  <li class="checklist-item">
+    <input type="checkbox" id="bubu-3">
+    <label for="bubu-3">Nintendo Switch games</label>
+  </li>
+  <li class="checklist-item">
+    <input type="checkbox" id="bubu-4">
+    <label for="bubu-4">Headphones</label>
+  </li>
+  <li class="checklist-item">
+    <input type="checkbox" id="bubu-5">
+    <label for="bubu-5">Personal spending money</label>
+  </li>
+</ul>
+
+---
+
+## Personal Items — Gaby
+
+<ul class="checklist" data-list-id="gaby">
+  <li class="checklist-item">
+    <input type="checkbox" id="gaby-1">
+    <label for="gaby-1">Pokemon card binder</label>
+  </li>
+  <li class="checklist-item">
+    <input type="checkbox" id="gaby-2">
+    <label for="gaby-2">Target card list</label>
+  </li>
+  <li class="checklist-item">
+    <input type="checkbox" id="gaby-3">
+    <label for="gaby-3">Nintendo Switch games</label>
+  </li>
+  <li class="checklist-item">
+    <input type="checkbox" id="gaby-4">
+    <label for="gaby-4">Headphones</label>
+  </li>
+  <li class="checklist-item">
+    <input type="checkbox" id="gaby-5">
+    <label for="gaby-5">Personal spending money</label>
+  </li>
+</ul>
+
+---
+
 ## Notes
 
 - **Laundry:** All recommended hotels have laundry facilities. Pack for ~5 days and wash mid-trip.

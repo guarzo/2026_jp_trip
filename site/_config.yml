@@ -1,7 +1,7 @@
 title: "Japan 2026"
 description: "Family Trip Coordination — Tokyo, Kyoto, Osaka"
-baseurl: "" # Update if deploying to a subpath
-url: "" # Update with your GitHub Pages URL
+baseurl: ""
+url: "https://jp.dpao.la"
 
 # Trip details
 trip_start: 2026-07-14
@@ -10,14 +10,16 @@ trip_nights: 14
 
 # Family members (used in templates)
 family_members:
-  - name: "Dad"
+  - name: "Papa"
     emoji: "👨"
-  - name: "Mom"
+  - name: "Mama"
     emoji: "👩"
-  - name: "Teen 1"
-    emoji: "🧑"
-  - name: "Teen 2"
-    emoji: "🧑"
+  - name: "Bubu"
+    emoji: "👦"
+    age: 16
+  - name: "Gaby"
+    emoji: "👧"
+    age: 14
 
 # Build settings
 markdown: kramdown

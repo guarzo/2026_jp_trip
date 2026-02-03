@@ -4,7 +4,7 @@ A GitHub Pages site for coordinating our family trip to Japan (July 14-28, 2026)
 
 ## Quick Links
 
-- **Live Site:** [your-username.github.io/japan-trip-2026](https://your-username.github.io/japan-trip-2026)
+- **Live Site:** [jp.dpao.la](https://jp.dpao.la)
 - **Itinerary:** Tokyo → Kyoto → Osaka
 - **Duration:** 14 nights
 

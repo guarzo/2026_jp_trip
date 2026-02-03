@@ -7,7 +7,8 @@
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <link rel="manifest" href="{{ '/manifest.json' | relative_url }}">
-  <link rel="apple-touch-icon" href="{{ '/assets/images/icon-192.png' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/assets/images/icon-192.svg' | relative_url }}">
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/icon-192.svg' | relative_url }}">
   {% seo %}
 </head>
 <body>
@@ -22,10 +23,10 @@
   <script src="{{ '/assets/js/app.js' | relative_url }}"></script>
   {% if page.layout == 'day' or page.comments %}
   <script src="https://giscus.app/client.js"
-    data-repo="YOUR_USERNAME/japan-trip-2026"
-    data-repo-id=""
-    data-category="Comments"
-    data-category-id=""
+    data-repo="guarzo/2026_jp_trip"
+    data-repo-id="R_kgDORH54Qg"
+    data-category="General"
+    data-category-id="DIC_kwDORH54Qs4C11f5"
     data-mapping="pathname"
     data-strict="0"
     data-reactions-enabled="1"
