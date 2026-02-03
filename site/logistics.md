@@ -118,85 +118,92 @@ All transportation and accommodation details in one place.
 
 ## Hotels
 
-<div class="logistics-card">
-  <h3><span class="icon">🏨</span> Tokyo (Arrival)</h3>
+### Tokyo (July 14-17 & July 26-28)
 
+**Dates:** 3 nights (arrival) + 2 nights (final) = 5 nights total
+
+<div class="logistics-card">
+  <h3><span class="icon">🏨</span> Booked Hotel</h3>
   <div class="hotel-card">
-    <h4>MIMARU Tokyo Asakusa Station</h4>
-    <p class="hotel-dates">July 14-17, 2026 (3 nights)</p>
+    <h4>TBD</h4>
     <div class="segment-details">
       <p><strong>Status:</strong> <span class="status status-pending">Pending</span></p>
       <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
-      <p><strong>Check-in:</strong> 3:00 PM</p>
-      <p><strong>Check-out:</strong> 11:00 AM</p>
-    </div>
-    <div class="hotel-address">
-      MIMARU東京 浅草駅<br>
-      〒111-0032<br>
-      東京都台東区浅草1-2-7
+      <p><strong>Check-in:</strong> 3:00 PM | <strong>Check-out:</strong> 11:00 AM</p>
     </div>
   </div>
 </div>
 
-<div class="logistics-card">
-  <h3><span class="icon">🏨</span> Kyoto</h3>
+**Recommended Options:**
 
+| Hotel | Area | Why | Link |
+|-------|------|-----|------|
+| **MIMARU Tokyo Asakusa Station** | Asakusa | 1 min from station, family rooms with kitchen, near Sensoji | [Book](https://mimaruhotels.com/en/hotel/asakusa-station/) |
+| **MIMARU SUITES Tokyo Asakusa** | Asakusa | 2-bedroom suites, more space for family | [Book](https://mimaruhotels.com/en/hotel/suites-tokyo-asakusa/) |
+| **MIMARU Tokyo Shinjuku West** | Shinjuku | Big city energy, great transit hub, near arcades | [Book](https://mimaruhotels.com/en/hotel/shinjuku-west/) |
+
+---
+
+### Kyoto (July 17-21)
+
+**Dates:** 4 nights
+
+<div class="logistics-card">
+  <h3><span class="icon">🏨</span> Booked Hotel</h3>
   <div class="hotel-card">
-    <h4>MIMARU Kyoto Station</h4>
-    <p class="hotel-dates">July 17-21, 2026 (4 nights)</p>
+    <h4>TBD</h4>
     <div class="segment-details">
       <p><strong>Status:</strong> <span class="status status-pending">Pending</span></p>
       <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
-      <p><strong>Check-in:</strong> 3:00 PM</p>
-      <p><strong>Check-out:</strong> 11:00 AM</p>
-    </div>
-    <div class="hotel-address">
-      MIMARU京都 STATION<br>
-      〒600-8216<br>
-      京都府京都市下京区東塩小路町590-2
+      <p><strong>Check-in:</strong> 3:00 PM | <strong>Check-out:</strong> 11:00 AM</p>
     </div>
   </div>
 </div>
 
-<div class="logistics-card">
-  <h3><span class="icon">🏨</span> Osaka</h3>
+**Recommended Options:**
 
+| Hotel | Area | Why | Link |
+|-------|------|-----|------|
+| **MIMARU Kyoto Station** | Kyoto Station | Best for rail access, easy day trips | [Book](https://mimaruhotels.com/en/hotel/kyoto-station/) |
+| **MIMARU Kyoto Kawaramachi Gojo** | Higashiyama | Near Kiyomizu-dera & Gion, largest MIMARU in Kyoto, has Pokemon rooms! | [Book](https://mimaruhotels.com/en/hotel/kawaramachi-gojo/) |
+| **Tokyu Stay Kyoto Sanjo-Karasuma** | Downtown | Washer/dryer in room, great location, walking distance to sights | [Book](https://www.tokyustay.co.jp/en/hotel/kyoto-sanjo-karasuma/) |
+
+---
+
+### Osaka (July 21-26)
+
+**Dates:** 5 nights
+
+<div class="logistics-card">
+  <h3><span class="icon">🏨</span> Booked Hotel</h3>
   <div class="hotel-card">
-    <h4>MIMARU Osaka Namba Station</h4>
-    <p class="hotel-dates">July 21-26, 2026 (5 nights)</p>
+    <h4>TBD</h4>
     <div class="segment-details">
       <p><strong>Status:</strong> <span class="status status-pending">Pending</span></p>
       <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
-      <p><strong>Check-in:</strong> 3:00 PM</p>
-      <p><strong>Check-out:</strong> 11:00 AM</p>
-    </div>
-    <div class="hotel-address">
-      MIMARU大阪 難波STATION<br>
-      〒542-0076<br>
-      大阪府大阪市中央区難波3-1-15
+      <p><strong>Check-in:</strong> 3:00 PM | <strong>Check-out:</strong> 11:00 AM</p>
     </div>
   </div>
 </div>
 
-<div class="logistics-card">
-  <h3><span class="icon">🏨</span> Tokyo (Final)</h3>
+**Recommended Options:**
 
-  <div class="hotel-card">
-    <h4>MIMARU Tokyo Asakusa Station</h4>
-    <p class="hotel-dates">July 26-28, 2026 (2 nights)</p>
-    <div class="segment-details">
-      <p><strong>Status:</strong> <span class="status status-pending">Pending</span></p>
-      <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
-      <p><strong>Check-in:</strong> 3:00 PM</p>
-      <p><strong>Check-out:</strong> 11:00 AM</p>
-    </div>
-    <div class="hotel-address">
-      MIMARU東京 浅草駅<br>
-      〒111-0032<br>
-      東京都台東区浅草1-2-7
-    </div>
-  </div>
-</div>
+| Hotel | Area | Why | Link |
+|-------|------|-----|------|
+| **MIMARU Osaka Namba Station** | Namba | 4 min walk to Namba, near Dotonbori & card shops, 100+ board games! | [Book](https://mimaruhotels.com/en/hotel/namba-station/) |
+| **MIMARU Osaka Namba North** | Namba | Slightly quieter, still walkable to everything | [Book](https://mimaruhotels.com/en/hotel/namba-north/) |
+
+---
+
+### Why MIMARU?
+
+MIMARU apartment hotels are ideal for families because:
+- **Spacious rooms** (35-60 m²) with separate sleeping/living areas
+- **Full kitchens** — cook breakfast, save money, accommodate dietary needs
+- **Washer/dryer** — pack lighter, do laundry mid-trip
+- **Family-friendly** — bunk beds, kids play areas, board games
+- **Great locations** — near stations and attractions
+- **English-speaking staff** from 35+ countries
 
 ---
 
@@ -204,10 +211,10 @@ All transportation and accommodation details in one place.
 
 | Segment | Dates | Nights | Location |
 |---------|-------|--------|----------|
-| Tokyo 1 | Jul 14-17 | 3 | Asakusa |
-| Kyoto | Jul 17-21 | 4 | Station area |
-| Osaka | Jul 21-26 | 5 | Namba |
-| Tokyo 2 | Jul 26-28 | 2 | Asakusa |
+| Tokyo 1 | Jul 14-17 | 3 | TBD |
+| Kyoto | Jul 17-21 | 4 | TBD |
+| Osaka | Jul 21-26 | 5 | TBD |
+| Tokyo 2 | Jul 26-28 | 2 | TBD |
 | **Total** | | **14** | |
 
 ---
