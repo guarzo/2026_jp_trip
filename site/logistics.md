@@ -106,13 +106,31 @@ All transportation and accommodation details in one place.
   </div>
 </div>
 
-### JR Pass
+### JR Pass — Skip It
 
 <div class="alert alert-info">
-  <p class="alert-title">Do we need a JR Pass?</p>
-  <p>Calculate if it's worth it based on your shinkansen trips. The 7-day JR Pass costs ~¥50,000/adult. Compare to individual tickets.</p>
-  <p><strong>Decision:</strong> <span class="conf-number">—</span></p>
+  <p class="alert-title">Decision: Buy individual tickets instead</p>
+  <p>The JR Pass price increased significantly in 2023 and no longer makes sense for our itinerary.</p>
 </div>
+
+**The math:**
+
+| Option | Cost (family of 4) |
+|--------|-------------------|
+| Individual shinkansen tickets | ~¥115,000 |
+| 7-day JR Pass × 4 | ¥200,000 |
+
+We only have 2 long shinkansen trips (Tokyo↔Kyoto, Osaka↔Tokyo). The JR Pass would cost nearly double.
+
+**Notes:**
+- Kids 12+ pay adult prices (no child discount for our teens)
+- JR Pass doesn't cover Nozomi (fastest train) — we'd have to take Hikari (+15 min)
+- Kyoto↔Osaka is a short trip on regular trains, not shinkansen
+
+**What to do instead:**
+- **Shinkansen:** Book reserved seats at JR ticket counters or via [SmartEX app](https://smart-ex.jp/en/)
+- **Local trains:** Get IC cards (Suica/Pasmo) at the airport — load with cash, tap to ride
+- **Kyoto↔Osaka:** Use JR Special Rapid or Hankyu/Keihan lines (cheap, no reservation needed)
 
 ---
 

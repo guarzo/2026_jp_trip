@@ -55,31 +55,32 @@ title: Home
 </div>
 
 <div class="alert alert-info">
-  <p class="alert-title">Pokemon Cafe (Tokyo)</p>
-  <p>Opens 31 days before. If dining ~July 15-16, book on June 14-15 at 6 PM JST.</p>
+  <p class="alert-title">Ghibli Museum (Day 2 — July 15)</p>
+  <p>Advance reservation required. Book a late morning slot (11 AM or 12 PM). Check official site for July ticket release dates.</p>
 </div>
 
 <div class="alert alert-info">
-  <p class="alert-title">Ghibli Museum</p>
-  <p>Advance reservation required. Check official site for July ticket release dates.</p>
+  <p class="alert-title">Pokemon Cafe (Tokyo)</p>
+  <p>Opens 31 days before. If dining ~July 15-16, book on June 14-15 at 6 PM JST.</p>
 </div>
 
 <h2 class="section-heading">🗳️ Open Decisions</h2>
 
 Vote on these by commenting on the [Feedback page]({{ '/feedback/' | relative_url }}) or react to the GitHub Issues:
 
-- **USJ Day:** Must-do or skip? (Day 10, July 23)
 - **Pokemon Cafe:** Tokyo, Osaka, or both?
 - **Sumidagawa Fireworks swap:** Stay in Osaka for Tenjin Matsuri (Jul 25) or go to Tokyo for fireworks?
+- **teamLab Planets:** Add it to a Tokyo day?
 
 <h2 class="section-heading">🗾 Trip Overview</h2>
 
 | Dates | Location | Nights | Highlights |
 |-------|----------|--------|------------|
-| Jul 14–19 | **Tokyo** | 6 | Shibuya, Harajuku, Ghibli, Pokemon, Akihabara |
-| Jul 20–24 | **Kyoto** | 5 | Gion Matsuri, Fushimi Inari, Arashiyama |
-| Jul 25–27 | **Osaka** | 3 | Dotonbori, USJ, Tenjin Matsuri, Pokemon hunting |
-| Jul 28 | **Depart** | — | Final Akihabara run, fly home |
+| Jul 14–17 | **Tokyo** | 3 | Ghibli Museum, Shibuya, Harajuku, Pokemon Center |
+| Jul 17–21 | **Kyoto** | 4 | Gion Matsuri, Fushimi Inari, Arashiyama, Manga Museum |
+| Jul 21–26 | **Osaka** | 5 | Dotonbori, Nara deer, Tenjin Matsuri, card hunting |
+| Jul 26–28 | **Tokyo** | 2 | Pokemon Center MEGA, Akihabara, PokePark KANTO |
+| Jul 28 | **Depart** | — | Relaxed morning, fly home |
 
 <div class="offline-banner">
   📴 You're offline — cached pages still available

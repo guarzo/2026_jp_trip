@@ -27,7 +27,7 @@ Strategy for finding the best cards and merch without overpaying.
 | Store | Location | Best For | Notes |
 |-------|----------|----------|-------|
 | **Pokemon Center MEGA TOKYO** | Ikebukuro / Sunshine City | Largest selection | Day 13 planned |
-| **Pokemon Center SHIBUYA** | Shibuya PARCO | Trendy exclusives | Day 2 planned |
+| **Pokemon Center SHIBUYA** | Shibuya PARCO | Trendy exclusives | Day 3 planned |
 | **Pokemon Center TOKYO DX** | Nihombashi Takashimaya | Premium + Cafe | Near Tokyo Station |
 
 ### Osaka
@@ -40,9 +40,9 @@ Strategy for finding the best cards and merch without overpaying.
 
 ## Card Shop Hunting Zones
 
-### Akihabara (Tokyo) — Day 15
+### Akihabara (Tokyo) — Day 13
 
-**The plan:** Spend 2-3 focused hours in the Radio Kaikan area.
+**The plan:** After Pokemon Center MEGA, head to Akihabara for 2-3 focused hours in the Radio Kaikan area.
 
 Key shops to find:
 - Card Labo
@@ -113,12 +113,11 @@ Before you go, note typical US/home prices for comparison:
 
 | Day | Date | Location | Focus |
 |-----|------|----------|-------|
-| 2 | Wed 7/15 | Shibuya | Pokemon Center SHIBUYA (first stop!) |
+| 3 | Thu 7/16 | Shibuya | Pokemon Center SHIBUYA (first Pokemon stop!) |
 | 8 | Tue 7/21 | Namba | Reconnaissance — get bearings |
 | 9 | Wed 7/22 | Osaka | **Main hunting day** — PC Osaka DX + Nipponbashi shops |
 | 12 | Sat 7/25 | Osaka | Second pass — buy anything you hesitated on |
-| 13 | Sun 7/26 | Ikebukuro | Pokemon Center MEGA TOKYO + nearby shops |
-| 15 | Tue 7/28 | Akihabara | **Final sweep** — Radio Kaikan area singles |
+| 13 | Sun 7/26 | Ikebukuro + Akihabara | Pokemon Center MEGA + **Akihabara final sweep** |
 
 ---
 

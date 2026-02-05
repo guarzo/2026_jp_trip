@@ -31,11 +31,11 @@ Update status as reservations are made.
     <span class="status status-pending">Pending</span>
   </div>
   <div class="reservation-details">
-    <div class="detail"><strong>Trip Date:</strong> Thu, July 16</div>
+    <div class="detail"><strong>Trip Date:</strong> Wed, July 15 (Day 2)</div>
     <div class="detail"><strong>Book By:</strong> Check official site</div>
     <div class="detail"><strong>Owner:</strong> —</div>
   </div>
-  <p class="reservation-note">Advance reservation only. No tickets sold at the museum.</p>
+  <p class="reservation-note">Advance reservation only. No tickets sold at the museum. Book an 11 AM or 12 PM slot for jet-lag friendly timing.</p>
 </div>
 
 <div class="reservation-card critical">
@@ -149,7 +149,7 @@ Once booked, update here:
 <div class="confirmation-box">
   <h4>Ghibli Museum</h4>
   <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
-  <p><strong>Date/Time:</strong> Thu 7/16, ___:___</p>
+  <p><strong>Date/Time:</strong> Wed 7/15, ___:___ (aim for 11 AM or 12 PM)</p>
 </div>
 
 <div class="confirmation-box">
