@@ -1,48 +1,54 @@
 ---
 day_number: 15
-title: "Akihabara + Depart"
+title: "Departure Day"
 date_display: "Tue, July 28"
 location: "Tokyo → Home"
-hero_image: "https://www.japan-guide.com/g18/3003_01.jpg"
-hero_alt: "Akihabara Electric Town - anime, games, and electronics paradise"
+hero_image: "https://www.japan-guide.com/g18/2164_12.jpg"
+hero_alt: "Narita Express - heading home"
 highlights:
-  - Final Shopping
-  - Akihabara
-  - Departure
+  - Packing
+  - Airport
+  - Sayonara
 ---
 
 <img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
 
+<div class="alert alert-info">
+<p class="alert-title">No Rush This Morning</p>
+<p>You did your Akihabara shopping yesterday — today is just packing and getting to the airport. Relax!</p>
+</div>
+
 ## Morning
 
 <div class="activity-block">
-<div class="activity-time">🌅 Morning — FINAL CARD SWEEP</div>
+<div class="activity-time">🌅 Morning</div>
 
 <div class="activity-card">
-<h3>Akihabara Card Shopping</h3>
-<p>Your last chance to hunt for singles! Hit the Radio Kaikan area and surrounding card shops.</p>
-<p><strong>Strategy:</strong></p>
+<h3>Sleep In + Breakfast</h3>
+<p>No early wake-up needed! Enjoy a final hotel breakfast or konbini run.</p>
+</div>
+
+<div class="activity-card">
+<h3>Final Packing</h3>
+<p>Take your time packing everything up. You've accumulated a lot over 2 weeks!</p>
+<p><strong>Packing tips:</strong></p>
 <ul>
-<li>You know prices now from Osaka — use that knowledge</li>
-<li>Focus on your remaining target list cards</li>
-<li>Don't buy just to buy — be selective</li>
-<li>Stock up on supplies (sleeves, toploaders) if needed</li>
+<li>Valuable cards in carry-on (NEVER checked luggage!)</li>
+<li>Keep receipts together for customs</li>
+<li>Wear your heaviest items on the plane</li>
+<li>Leave room for airport snacks/last purchases</li>
 </ul>
-<p><strong>Key shops:</strong> Card Labo, FullComp, Hobby Station, various shops in Radio Kaikan</p>
-<div class="activity-meta">
-<a href="https://maps.google.com/?q=Radio+Kaikan+Akihabara">📍 Radio Kaikan Area</a>
-<span>⏱️ 2-3 hours</span>
-</div>
 </div>
 
 <div class="activity-card">
-<h3>Akihabara Highlights (if time)</h3>
-<p>Beyond card shops, Akihabara has:</p>
+<h3>Hotel Check-out</h3>
+<p>Double-check the room before leaving:</p>
 <ul>
-<li><strong>Arcades</strong> — Multi-floor game centers</li>
-<li><strong>Electronics</strong> — Yodobashi Camera is massive</li>
-<li><strong>Anime/manga shops</strong> — Figures, merch, etc.</li>
-<li><strong>Gachapon</strong> — Streets lined with capsule machines</li>
+<li>Check all drawers and closets</li>
+<li>Check the safe</li>
+<li>Check bathroom counters</li>
+<li>Check under beds and behind furniture</li>
+<li>Chargers still plugged in?</li>
 </ul>
 </div>
 
@@ -51,35 +57,23 @@ highlights:
 ## Afternoon
 
 <div class="activity-block">
-<div class="activity-time">☀️ Afternoon</div>
-
-<div class="activity-card">
-<h3>Final Packing</h3>
-<p>Head back to the hotel to finish packing. Make sure everything fits!</p>
-<p><strong>Packing tips:</strong></p>
-<ul>
-<li>Valuable cards in carry-on (never checked luggage!)</li>
-<li>Keep receipts together for customs</li>
-<li>Wear your heaviest items on the plane</li>
-<li>Leave room for airport snacks/last purchases</li>
-</ul>
-</div>
+<div class="activity-time">✈️ Afternoon — Airport Time</div>
 
 <div class="activity-card">
 <h3>Airport Transfer</h3>
-<p>Head to the airport with plenty of time. Options depend on your flight:</p>
+<p>Head to the airport with plenty of time.</p>
 <p><strong>To Narita (NRT):</strong></p>
 <ul>
-<li>Narita Express from major stations (~1 hour)</li>
+<li>Narita Express from Tokyo/Shinjuku (~1 hour)</li>
 <li>Limousine Bus from hotels/stations</li>
+<li>Allow 3 hours before international flights</li>
 </ul>
 <p><strong>To Haneda (HND):</strong></p>
 <ul>
-<li>Tokyo Monorail from Hamamatsucho</li>
-<li>Keikyu Line from Shinagawa</li>
-<li>~30-45 minutes from central Tokyo</li>
+<li>Tokyo Monorail from Hamamatsucho (~15 min)</li>
+<li>Keikyu Line from Shinagawa (~15 min)</li>
+<li>Allow 2.5 hours before international flights</li>
 </ul>
-<p><strong>Tip:</strong> International flights = arrive 3 hours early</p>
 </div>
 
 </div>
@@ -87,13 +81,13 @@ highlights:
 ## At the Airport
 
 <div class="activity-block">
-<div class="activity-time">✈️ Airport</div>
+<div class="activity-time">🛫 Airport</div>
 
 <div class="activity-card">
 <h3>Last Purchases</h3>
-<p>Japanese airports have great shopping!</p>
+<p>Japanese airports have great shopping! After security:</p>
 <ul>
-<li>Duty-free sweets and snacks</li>
+<li>Duty-free sweets and snacks (Tokyo Banana, Royce chocolate)</li>
 <li>Last-minute gifts</li>
 <li>Pokemon/anime merch shops in terminals</li>
 <li>Regional food specialties</li>
@@ -110,25 +104,15 @@ highlights:
 
 ---
 
-## Final Card Shopping Checklist
-
-Before you leave Akihabara:
-
-- [ ] All target list cards purchased (or confirmed unavailable)
-- [ ] Extra sleeves for protection during travel
-- [ ] Toploaders for valuable pulls
-- [ ] Everything safely stored
-
----
-
 ## Departure Checklist
 
 - [ ] All bags packed
-- [ ] Nothing left in hotel room (check drawers, safe, bathroom)
+- [ ] Nothing left in hotel room
 - [ ] Passport accessible
 - [ ] Flight info handy
 - [ ] Cards secured in carry-on
 - [ ] Phone charged
+- [ ] Snacks for the plane
 
 ---
 

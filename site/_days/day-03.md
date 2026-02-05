@@ -1,29 +1,59 @@
 ---
 day_number: 3
-title: "Ghibli Museum + Kichijoji"
+title: "Shibuya + Harajuku"
 date_display: "Thu, July 16"
-location: "Tokyo (Mitaka)"
+location: "Tokyo"
+hero_image: "https://www.japan-guide.com/g18/3007_01.jpg"
+hero_alt: "Shibuya Crossing - the world's busiest pedestrian intersection"
 highlights:
-  - Ghibli Museum
-  - Inokashira Park
-  - Relaxed Day
-reservations:
-  - name: Ghibli Museum
-    note: Timed entry required — MUST book in advance
+  - Pokemon Center
+  - Youth Culture
+  - Arcades
 ---
+
+<img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
 
 ## Morning
 
 <div class="activity-block">
-<div class="activity-time">🌅 Morning</div>
+<div class="activity-time">🌅 Morning (if you're up for it)</div>
 
 <div class="activity-card">
-<h3>Ghibli Museum</h3>
-<p>A magical museum dedicated to Studio Ghibli films. No photos inside, which makes it even more special — just be present and enjoy.</p>
-<p><strong>Highlights:</strong> Catbus room (kids can climb in!), rooftop robot soldier, mini theater with exclusive short films, beautiful architecture</p>
+<h3>Optional: Quick Sensoji Visit</h3>
+<p>If you're staying in Asakusa and wake up with energy, Sensoji Temple is right there. Walk through the Thunder Gate, browse Nakamise street, see Tokyo's oldest temple.</p>
+<p><strong>Skip if:</strong> You visited last night, or you'd rather sleep in. No pressure — Shibuya is the main event today.</p>
 <div class="activity-meta">
-<a href="https://maps.google.com/?q=Ghibli+Museum+Mitaka">📍 Get Directions</a>
-<span>⏱️ 2-3 hours</span>
+<a href="https://maps.google.com/?q=Sensoji+Temple+Asakusa">📍 Sensoji Temple</a>
+<span>⏱️ 30-60 min</span>
+</div>
+</div>
+
+</div>
+
+## Late Morning
+
+<div class="activity-block">
+<div class="activity-time">☀️ Late Morning (head to Shibuya ~10-11 AM)</div>
+
+<div class="activity-card">
+<h3>Shibuya Crossing</h3>
+<p>The world's busiest pedestrian crossing. Best viewed from the Starbucks overlooking the intersection, or just dive in and cross it yourself!</p>
+<div class="activity-meta">
+<a href="https://maps.google.com/?q=Shibuya+Crossing+Tokyo">📍 Get Directions</a>
+</div>
+</div>
+
+<div class="activity-card">
+<h3>Hachiko Statue</h3>
+<p>The famous loyal dog statue — quick photo op right outside Shibuya Station.</p>
+</div>
+
+<div class="activity-card">
+<h3>Pokemon Center SHIBUYA</h3>
+<p>Located in Shibuya PARCO (floors 5-6). Great first "big hit" Pokemon stop! Trendy exclusives and limited items.</p>
+<div class="activity-meta">
+<a href="https://maps.google.com/?q=Pokemon+Center+Shibuya+PARCO">📍 Get Directions</a>
+<span>⏱️ 1-2 hours</span>
 </div>
 </div>
 
@@ -32,21 +62,20 @@ reservations:
 ## Afternoon
 
 <div class="activity-block">
-<div class="activity-time">☀️ Afternoon</div>
+<div class="activity-time">☀️ Afternoon (heat-friendly — all indoor/shaded)</div>
 
 <div class="activity-card">
-<h3>Inokashira Park</h3>
-<p>Beautiful park right next to the museum. Rent a swan boat, walk around the pond, enjoy the shade.</p>
-<p>Great decompression after the museum — peaceful and green.</p>
+<h3>Harajuku / Takeshita Street</h3>
+<p>Walk from Shibuya to Harajuku (or take one stop). Explore Takeshita Street for wild fashion, crepes, and people-watching.</p>
+<p><strong>Good for:</strong> Unique shops, street fashion, cafes, teen culture — the kids will love this!</p>
 <div class="activity-meta">
-<a href="https://maps.google.com/?q=Inokashira+Park">📍 Get Directions</a>
+<a href="https://maps.google.com/?q=Takeshita+Street+Harajuku">📍 Takeshita Street</a>
 </div>
 </div>
 
 <div class="activity-card">
-<h3>Kichijoji Town</h3>
-<p>Charming neighborhood with great shopping and food. Wander the covered shopping streets, find a cafe, get some snacks.</p>
-<p><strong>Good for:</strong> Vintage shops, cafes, relaxed vibe, local feel</p>
+<h3>Omotesando</h3>
+<p>The "Champs-Élysées of Tokyo" — upscale shopping street with cool architecture. Good for window shopping and cafes.</p>
 </div>
 
 </div>
@@ -57,8 +86,14 @@ reservations:
 <div class="activity-time">🌙 Evening</div>
 
 <div class="activity-card">
-<h3>Dinner + Pack for Kyoto</h3>
-<p>Early-ish dinner, then head back to the hotel to pack. Tomorrow you're taking the shinkansen to Kyoto!</p>
+<h3>Shibuya Arcades + Gacha</h3>
+<p>Head back to Shibuya for dinner and evening arcades. Look for multi-floor game centers.</p>
+<p><strong>Try:</strong> Crane games (UFO catchers), rhythm games, photo booths (purikura), gacha machines</p>
+</div>
+
+<div class="activity-card">
+<h3>Pack for Kyoto</h3>
+<p>After dinner, head back to the hotel and pack up. Tomorrow you're taking the shinkansen to Kyoto!</p>
 <p><strong>Tip:</strong> Pack a small day bag separately for the train — you'll want snacks and entertainment accessible.</p>
 </div>
 
@@ -66,27 +101,17 @@ reservations:
 
 ---
 
-## Getting There
+## Pokemon Shopping Block
 
-**From central Tokyo to Ghibli Museum:**
-- Take JR Chuo Line to Mitaka Station (~20-30 min from Shinjuku)
-- Walk through Inokashira Park to the museum (~15 min) OR take the Ghibli bus from the station
-
----
-
-## Reservations Required
-
-<div class="alert alert-warning">
-<p class="alert-title">Ghibli Museum — MUST BOOK AHEAD</p>
-<p>Tickets are NOT sold at the museum. You must have a timed-entry reservation purchased in advance.</p>
-<p>Check the official site for when July 2026 tickets become available.</p>
-</div>
+**Focus:** Shibuya PARCO area
+- Pokemon Center SHIBUYA (official merch + current products)
+- Nearby shopping streets for accessories
+- This is your first "price discovery" day — note prices for comparison later
 
 ---
 
-## Tips
+## Reservations
 
-- **Arrive on time** — Your ticket is for a specific entry window
-- **No photos inside** — Enjoy the experience without screens
-- **Cafe on site** — But can be crowded; Kichijoji has lots of options too
-- **Gift shop** — Unique items not available elsewhere
+**None required** (unless you want to add a themed cafe)
+
+Optional: Pokemon Cafe Tokyo reservation would be for around this time — check if booked!

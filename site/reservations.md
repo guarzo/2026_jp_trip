@@ -57,19 +57,6 @@ Update status as reservations are made.
 
 <div class="reservation-card recommended">
   <div class="reservation-header">
-    <h3>USJ + Express Pass</h3>
-    <span class="status status-pending">Pending</span>
-  </div>
-  <div class="reservation-details">
-    <div class="detail"><strong>Trip Date:</strong> Thu, July 23</div>
-    <div class="detail"><strong>Book By:</strong> 2+ weeks ahead</div>
-    <div class="detail"><strong>Owner:</strong> —</div>
-  </div>
-  <p class="reservation-note">July lines are brutal without Express Pass. Book both tickets together.</p>
-</div>
-
-<div class="reservation-card recommended">
-  <div class="reservation-header">
     <h3>Pokemon Cafe Osaka</h3>
     <span class="status status-pending">Pending</span>
   </div>
@@ -134,10 +121,6 @@ Set reminders for these dates:
     <div class="timeline-action">Book PokePark KANTO (6 PM JST)</div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">Early June 2026</div>
-    <div class="timeline-action">Book USJ tickets + Express Pass</div>
-  </div>
-  <div class="timeline-item">
     <div class="timeline-date">June 14, 2026</div>
     <div class="timeline-action">Book Pokemon Cafe Tokyo (6 PM JST)</div>
   </div>
@@ -181,8 +164,3 @@ Once booked, update here:
   <p><strong>Date/Time:</strong> —</p>
 </div>
 
-<div class="confirmation-box">
-  <h4>USJ + Express Pass</h4>
-  <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
-  <p><strong>Date/Time:</strong> Thu 7/23</p>
-</div>

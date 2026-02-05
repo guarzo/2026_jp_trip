@@ -13,19 +13,20 @@ highlights:
 
 <img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
 
-## Early Morning
+## Morning
 
 <div class="activity-block">
-<div class="activity-time">🌅 Early Morning (6:30-7:00 AM start!)</div>
+<div class="activity-time">🌅 Morning (aim for 10 AM)</div>
 
 <div class="activity-card">
 <h3>Fushimi Inari Shrine</h3>
-<p>The iconic shrine with thousands of orange torii gates. Come EARLY to beat the heat and crowds — this is non-negotiable in July!</p>
-<p><strong>The hike:</strong> Full loop to the summit is ~2-3 hours. For families, doing the first 30-45 minutes gets you great photos without exhausting everyone.</p>
-<p><strong>Tip:</strong> The shrine is open 24/7 and free. Early morning light through the gates is magical.</p>
+<p>The iconic shrine with thousands of orange torii gates winding up the mountain. Yes, it will be crowded by mid-morning, but it's still absolutely worth seeing — the scale is incredible.</p>
+<p><strong>The hike:</strong> Full loop to the summit is ~2-3 hours. For families, doing the first 30-45 minutes gets you great photos without exhausting everyone. The higher you go, the fewer people you'll encounter.</p>
+<p><strong>Heat strategy:</strong> The torii gates provide partial shade. Bring water, take breaks at the small rest stops along the path, and turn back whenever you've had enough.</p>
+<p><strong>Tip:</strong> The shrine is open 24/7 and free.</p>
 <div class="activity-meta">
 <a href="https://maps.google.com/?q=Fushimi+Inari+Shrine">📍 Get Directions</a>
-<span>⏱️ 1-3 hours depending on how far you go</span>
+<span>⏱️ 1-2 hours (partial climb recommended)</span>
 </div>
 </div>
 
@@ -77,14 +78,15 @@ highlights:
 
 | Time | Activity | Heat Level |
 |------|----------|------------|
-| 6:30-9:00 AM | Fushimi Inari | Bearable |
-| 9:00-11:00 AM | Travel + early Higashiyama | Getting warm |
-| 11:00 AM - 3:00 PM | Indoor shops, cafes, AC breaks | Hot — stay inside! |
-| 3:00-6:00 PM | More exploring (with shade breaks) | Still hot |
+| 10:00-12:00 PM | Fushimi Inari (partial climb) | Hot but shaded |
+| 12:00-3:00 PM | Lunch + indoor shops in Higashiyama | AC breaks! |
+| 3:00-5:00 PM | Kiyomizu-dera + traditional streets | Still hot |
 | 6:00 PM+ | Gion evening walk | Cooling down |
+
+**Realistic expectation:** You won't beat the crowds at 10 AM, but Fushimi Inari is still magical even with people around. The higher you climb, the fewer tourists. Focus on enjoying it rather than getting the "perfect empty shot."
 
 ---
 
 ## No Reservations Needed
 
-All sites today are open access. Just show up early for Fushimi Inari!
+All sites today are open access.

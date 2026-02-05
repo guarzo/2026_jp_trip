@@ -13,15 +13,15 @@ highlights:
 
 <img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
 
-## Early Morning
+## Morning
 
 <div class="activity-block">
-<div class="activity-time">🌅 Early Morning (Get there by 7-8 AM!)</div>
+<div class="activity-time">🌅 Morning (start ~10 AM)</div>
 
 <div class="activity-card">
 <h3>Arashiyama Bamboo Grove</h3>
-<p>The famous towering bamboo forest. Arrive EARLY — by mid-morning it's packed with tourists and loses the magic.</p>
-<p><strong>Reality check:</strong> It's beautiful but can feel crowded and "Instagram-y." Early morning is when it's actually peaceful.</p>
+<p>The famous towering bamboo forest. Yes, it will be crowded by mid-morning — that's the reality of visiting one of Japan's most photographed spots without a 6 AM wake-up call.</p>
+<p><strong>Reality check:</strong> It's still beautiful and worth seeing! The bamboo towers overhead and the light filtering through is impressive even with crowds. Walk through, take it in, and don't stress about the "perfect empty shot."</p>
 <p><strong>Walk through:</strong> The grove itself is a short walk (10-15 min), but the surrounding area has more to explore.</p>
 <div class="activity-meta">
 <a href="https://maps.google.com/?q=Arashiyama+Bamboo+Grove">📍 Get Directions</a>
@@ -93,7 +93,7 @@ Just arrive early for the bamboo grove!
 
 ## Beat the Heat
 
-- Early bamboo grove visit when it's coolest
-- Monkey park has shade on the hike
-- River area has cafes with AC
+- Bamboo grove has natural shade from the bamboo
+- Monkey park hike has tree cover
+- River area has cafes with AC — perfect for a kakigori break
 - This is a good "lighter" day after several busy ones

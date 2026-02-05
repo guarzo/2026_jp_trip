@@ -28,9 +28,9 @@ Click any day for full details, maps, and family notes.
     <span class="itinerary-day-date">Wed 7/15</span>
   </div>
   <div class="itinerary-content">
-    <h3><a href="{{ '/days/day-02/' | relative_url }}">Shibuya + Harajuku</a></h3>
-    <p>Pokemon Center Shibuya, crossing, youth culture, arcades</p>
-    <span class="itinerary-location">Tokyo</span>
+    <h3><a href="{{ '/days/day-02/' | relative_url }}">Ghibli Museum + Kichijoji</a></h3>
+    <p>Jet lag recovery day — late morning museum, park, relaxed afternoon</p>
+    <span class="itinerary-location">Tokyo (Mitaka)</span>
   </div>
 </li>
 
@@ -40,9 +40,9 @@ Click any day for full details, maps, and family notes.
     <span class="itinerary-day-date">Thu 7/16</span>
   </div>
   <div class="itinerary-content">
-    <h3><a href="{{ '/days/day-03/' | relative_url }}">Ghibli Museum + Kichijoji</a></h3>
-    <p>Timed museum entry, Inokashira Park, relaxed afternoon</p>
-    <span class="itinerary-location">Tokyo (Mitaka)</span>
+    <h3><a href="{{ '/days/day-03/' | relative_url }}">Shibuya + Harajuku</a></h3>
+    <p>Pokemon Center Shibuya, crossing, youth culture, arcades</p>
+    <span class="itinerary-location">Tokyo</span>
   </div>
 </li>
 
@@ -65,7 +65,7 @@ Click any day for full details, maps, and family notes.
   </div>
   <div class="itinerary-content">
     <h3><a href="{{ '/days/day-05/' | relative_url }}">Fushimi Inari + Higashiyama</a></h3>
-    <p>Early shrine hike, Kiyomizu-dera, Gion evening</p>
+    <p>Torii gates hike, Kiyomizu-dera, Gion evening walk</p>
     <span class="itinerary-location">Kyoto</span>
   </div>
 </li>
@@ -89,7 +89,7 @@ Click any day for full details, maps, and family notes.
   </div>
   <div class="itinerary-content">
     <h3><a href="{{ '/days/day-07/' | relative_url }}">Arashiyama</a></h3>
-    <p>Bamboo grove (early!), monkey park, cafes, rest night</p>
+    <p>Bamboo grove, monkey park, river cafes, rest night</p>
     <span class="itinerary-location">Kyoto</span>
   </div>
 </li>
@@ -124,9 +124,9 @@ Click any day for full details, maps, and family notes.
     <span class="itinerary-day-date">Thu 7/23</span>
   </div>
   <div class="itinerary-content">
-    <h3><a href="{{ '/days/day-10/' | relative_url }}">Universal Studios Japan</a></h3>
-    <p>Full day at USJ (if we decide to go)</p>
-    <span class="itinerary-location">Osaka</span>
+    <h3><a href="{{ '/days/day-10/' | relative_url }}">Nara Day Trip</a></h3>
+    <p>Deer park, giant Buddha, relaxed temple town</p>
+    <span class="itinerary-location">Osaka → Nara → Osaka</span>
   </div>
 </li>
 
@@ -160,8 +160,8 @@ Click any day for full details, maps, and family notes.
     <span class="itinerary-day-date">Sun 7/26</span>
   </div>
   <div class="itinerary-content">
-    <h3><a href="{{ '/days/day-13/' | relative_url }}">Osaka → Tokyo + Ikebukuro</a></h3>
-    <p>Shinkansen back, Pokemon Center MEGA Tokyo, Sunshine City</p>
+    <h3><a href="{{ '/days/day-13/' | relative_url }}">Osaka → Tokyo + Shopping</a></h3>
+    <p>Shinkansen back, Pokemon Center MEGA, Akihabara card sweep</p>
     <span class="itinerary-location">Osaka → Tokyo</span>
   </div>
 </li>
@@ -184,8 +184,8 @@ Click any day for full details, maps, and family notes.
     <span class="itinerary-day-date">Tue 7/28</span>
   </div>
   <div class="itinerary-content">
-    <h3><a href="{{ '/days/day-15/' | relative_url }}">Akihabara + Depart</a></h3>
-    <p>Final card shopping sweep, pack up, airport</p>
+    <h3><a href="{{ '/days/day-15/' | relative_url }}">Departure Day</a></h3>
+    <p>Sleep in, pack up, airport — no rush!</p>
     <span class="itinerary-location">Tokyo → Home</span>
   </div>
 </li>
@@ -198,8 +198,8 @@ Click any day for full details, maps, and family notes.
 
 July in Japan is hot and humid. Our daily pattern:
 
-- **Early morning (6-9 AM):** Outdoor sights (shrines, parks)
-- **Midday (11 AM - 3 PM):** Air-conditioned spaces (museums, malls, arcades)
+- **Morning (~10 AM):** Get moving at a realistic hour
+- **Midday (11 AM - 3 PM):** Air-conditioned spaces (museums, malls, arcades, shops)
 - **Evening:** Street food, walks when it cools down
 
 Always carry: water, small towel, portable fan, electrolytes.
