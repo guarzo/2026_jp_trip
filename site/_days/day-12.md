@@ -1,114 +1,113 @@
 ---
 day_number: 12
-title: "Tenjin Matsuri"
-date_display: "Sat, July 25"
-location: "Osaka"
+title: "PokePark KANTO"
+date_display: "Wed, July 29"
+location: "Tokyo"
 highlights:
-  - Tenjin Matsuri
-  - Boats
-  - Fireworks
+  - PokePark
+  - Theme Park
+  - Anchor Day
+reservations:
+  - name: PokePark KANTO
+    note: MUST book 2 months ahead at 6 PM JST — DO NOT MISS
 ---
 
-## Daytime
+<div class="alert alert-warning">
+<p class="alert-title">CRITICAL RESERVATION</p>
+<p>PokePark tickets sell out fast! Book the moment your date opens — approximately 2 months ahead, at 6:00 PM JST.</p>
+<p><strong>For July 29:</strong> Book in late May 2026</p>
+</div>
+
+## All Day
 
 <div class="activity-block">
-<div class="activity-time">☀️ Daytime</div>
+<div class="activity-time">☀️ All Day — THE ANCHOR</div>
 
 <div class="activity-card">
-<h3>Morning: Card Shop Second Pass</h3>
-<p>Before the festival takes over, head back to Nipponbashi for any cards you were unsure about on Day 9.</p>
-<p><strong>This is your last Osaka shopping chance!</strong></p>
-<p>Buy anything you hesitated on — you won't be back to these shops.</p>
-</div>
-
-<div class="activity-card">
-<h3>Afternoon: Rest + Prepare</h3>
-<p>Tonight will be long and crowded. Take it easy in the afternoon.</p>
+<h3>PokePark KANTO</h3>
+<p>This is it — the reason we saved this day! An immersive Pokemon theme park experience.</p>
+<p><strong>What to expect:</strong></p>
 <ul>
-<li>Rest at the hotel</li>
-<li>Eat an early dinner (finding food during the festival is challenging)</li>
-<li>Charge devices — you'll want photos!</li>
-</ul>
-</div>
-
-</div>
-
-## Evening — TENJIN MATSURI
-
-<div class="activity-block">
-<div class="activity-time">🌙 Evening — THE FESTIVAL</div>
-
-<div class="activity-card">
-<h3>Tenjin Matsuri</h3>
-<p>One of Japan's top three festivals! July 25 is the main day with the boat procession and fireworks.</p>
-<p><strong>Key elements:</strong></p>
-<ul>
-<li><strong>Funatogyo (boat procession)</strong> — Boats carrying mikoshi travel down the river</li>
-<li><strong>Fireworks</strong> — Shot over the river, reflecting on the water</li>
-<li><strong>Festival stalls</strong> — Food and games along the riverbanks</li>
-<li><strong>Incredible crowds</strong> — Millions attend!</li>
+<li>Themed areas based on Pokemon regions</li>
+<li>Attractions and rides</li>
+<li>Character meet-and-greets</li>
+<li>Exclusive merchandise</li>
+<li>Themed food and drinks</li>
 </ul>
 <div class="activity-meta">
-<a href="https://maps.google.com/?q=Tenmangu+Shrine+Osaka">📍 Tenmangu Shrine Area</a>
+<a href="https://maps.google.com/?q=PokePark+KANTO">📍 Get Directions</a>
+<span>⏱️ Full day</span>
 </div>
 </div>
 
 <div class="activity-card">
-<h3>Where to Watch</h3>
-<p><strong>Main areas:</strong></p>
+<h3>Why Wednesday?</h3>
+<p>Weekday = (slightly) smaller crowds compared to weekends. Take advantage!</p>
+</div>
+
+<div class="activity-card">
+<h3>Tips for the Day</h3>
 <ul>
-<li><strong>Tenmangu Shrine</strong> — The spiritual center</li>
-<li><strong>Along the river (Okawa)</strong> — For the boat procession</li>
-<li><strong>Sakuranomiya Park</strong> — Good for fireworks viewing</li>
+<li><strong>Arrive early</strong> — Be there when gates open</li>
+<li><strong>Have a game plan</strong> — Know what you want to see/do first</li>
+<li><strong>Budget for merch</strong> — Exclusive items are tempting!</li>
+<li><strong>Stay hydrated</strong> — July heat applies here too</li>
+<li><strong>Comfortable shoes</strong> — Lots of walking</li>
 </ul>
-<p><strong>Tip:</strong> Stake out a spot early for fireworks. The crowds are massive!</p>
 </div>
+
+</div>
+
+## Evening
+
+<div class="activity-block">
+<div class="activity-time">🌙 Evening</div>
 
 <div class="activity-card">
-<h3>Festival Schedule (Approximate)</h3>
-<table>
-<tr><th>Time</th><th>Event</th></tr>
-<tr><td>Late afternoon</td><td>Land procession from shrine</td></tr>
-<tr><td>~6:00 PM</td><td>Boats depart</td></tr>
-<tr><td>~7:00-9:00 PM</td><td>Boat procession on the river</td></tr>
-<tr><td>~7:30-8:30 PM</td><td>Fireworks</td></tr>
-</table>
-<p><em>Check current year's schedule closer to the date!</em></p>
+<h3>Light Dinner + Packing</h3>
+<p>You'll be tired! Find a simple dinner near the hotel.</p>
+<p><strong>Tomorrow is departure day</strong> — get packing tonight!</p>
+<ul>
+<li>Organize cards (sleeved, toploaded)</li>
+<li>Check luggage space for everything</li>
+<li>Valuable cards go in carry-on (NEVER checked luggage!)</li>
+<li>Keep receipts together for customs</li>
+</ul>
 </div>
 
 </div>
 
 ---
 
-## Alternative: Sumidagawa Fireworks (Tokyo)
+## Reservation Details
 
-<div class="alert alert-info">
-<p class="alert-title">Optional Swap</p>
-<p>July 25 is also Tokyo's Sumidagawa Fireworks — one of Japan's biggest fireworks displays.</p>
-<p>If you'd rather see Sumidagawa, you'd need to be in Tokyo today instead of Osaka.</p>
-<p><strong>Vote on the <a href="/feedback/">Feedback page</a> if you haven't decided!</strong></p>
+<div class="alert alert-danger">
+<p class="alert-title">Booking Process</p>
+<ol>
+<li>Check the official PokePark website for exact sale dates</li>
+<li>Sales typically open <strong>2 months before</strong> the visit date</li>
+<li>Sales begin at <strong>6:00 PM JST</strong></li>
+<li>Be online and ready — tickets go FAST</li>
+<li>Have payment info ready</li>
+<li>Book for all 4 family members at once</li>
+</ol>
 </div>
 
 ---
 
-## Pokemon Shopping Block
+## What to Bring
 
-**Earlier in the day** — Quick second pass at Nipponbashi shops. Last chance for Osaka purchases!
-
----
-
-## Festival Survival Tips
-
-- **Eat before you go** — Festival food lines are long
-- **Bring cash** — Stalls are cash-only
-- **Arrive early for fireworks spot** — Like, hours early
-- **Wear comfortable shoes** — You'll be standing a lot
-- **Stay hydrated** — It's still July!
-- **Have a meeting point** — In case you get separated (it's CROWDED)
-- **Plan your exit** — Trains will be packed after fireworks
+- [ ] PokePark tickets (printed or on phone)
+- [ ] Portable charger
+- [ ] Sunscreen + hat
+- [ ] Water bottle
+- [ ] Extra cash for merch/food
+- [ ] Comfortable shoes
+- [ ] Small bag (may need locker for bigger bags)
+- [ ] Camera!
 
 ---
 
-## No Reservations Needed
+## This is the Day!
 
-Just show up and experience the festival!
+The whole trip has been building to this. Enjoy every moment!

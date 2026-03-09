@@ -4,9 +4,9 @@ baseurl: ""
 url: "https://jp.dpao.la"
 
 # Trip details
-trip_start: 2026-07-14
-trip_end: 2026-07-28
-trip_nights: 14
+trip_start: 2026-07-18
+trip_end: 2026-07-30
+trip_nights: 12
 
 # Family members (used in templates)
 family_members:

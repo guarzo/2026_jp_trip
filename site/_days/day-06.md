@@ -1,41 +1,48 @@
 ---
 day_number: 6
-title: "Kyoto Craft + Manga Culture"
-date_display: "Sun, July 19"
+title: "Arashiyama + Manga Museum"
+date_display: "Thu, July 23"
 location: "Kyoto"
+hero_image: "https://www.japan-guide.com/g18/3912_top.jpg"
+hero_alt: "Togetsukyo Bridge and the scenic Arashiyama district"
 highlights:
-  - Workshop Option
-  - Nishiki Market
+  - Bamboo Grove
+  - Monkey Park
   - Manga Museum
 ---
+
+<img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
 
 ## Morning
 
 <div class="activity-block">
-<div class="activity-time">🌅 Morning</div>
+<div class="activity-time">🌅 Morning (start ~9:30 AM)</div>
 
 <div class="activity-card">
-<h3>Option A: Craft Workshop</h3>
-<p>Book a traditional craft experience — great for the art-focused members of the family!</p>
-<p><strong>Options:</strong></p>
-<ul>
-<li><strong>Kyo-yuzen dyeing</strong> — Traditional Kyoto fabric dyeing</li>
-<li><strong>Pottery / Ceramics</strong> — Make your own Kiyomizu-yaki</li>
-<li><strong>Wagashi</strong> — Japanese sweet making</li>
-<li><strong>Furoshiki</strong> — Wrapping cloth techniques</li>
-</ul>
-<p><strong>Book ahead:</strong> Many workshops require reservations</p>
-</div>
-
-<div class="activity-card">
-<h3>Option B: Nishiki Market</h3>
-<p>If skipping the workshop, spend the morning at "Kyoto's Kitchen" — a covered shopping street packed with food vendors.</p>
-<p><strong>Try:</strong> Pickles, mochi, tamagoyaki (sweet omelet), matcha treats, fresh tofu</p>
-<p><strong>Tip:</strong> It's covered, so good for hot/rainy weather!</p>
+<h3>Arashiyama Bamboo Grove</h3>
+<p>The famous towering bamboo forest. Yes, it will be crowded by mid-morning — that's the reality of visiting one of Japan's most photographed spots. It's still beautiful and worth seeing! The bamboo towers overhead and the light filtering through is impressive even with crowds.</p>
+<p><strong>Walk through:</strong> The grove itself is a short walk (10-15 min), but the surrounding area has more to explore.</p>
 <div class="activity-meta">
-<a href="https://maps.google.com/?q=Nishiki+Market+Kyoto">📍 Nishiki Market</a>
-<span>⏱️ 1-2 hours</span>
+<a href="https://maps.google.com/?q=Arashiyama+Bamboo+Grove">📍 Get Directions</a>
+<span>⏱️ 30 min - 1 hour for the grove area</span>
 </div>
+</div>
+
+<div class="activity-card">
+<h3>Iwatayama Monkey Park</h3>
+<p>Hike up a hill to hang out with wild Japanese macaques. You can feed them from inside a hut (they roam free, you're "caged")!</p>
+<p><strong>The hike:</strong> ~20 minute uphill walk. Worth it for the monkeys AND the view of Kyoto.</p>
+<p><strong>Tip:</strong> Don't make eye contact or show teeth — monkeys see it as aggression!</p>
+<div class="activity-meta">
+<a href="https://maps.google.com/?q=Iwatayama+Monkey+Park">📍 Get Directions</a>
+<span>⏱️ 1-2 hours total</span>
+<span>💴 ~550¥</span>
+</div>
+</div>
+
+<div class="activity-card">
+<h3>River Area + Kakigori</h3>
+<p>The Arashiyama area along the river is pleasant for strolling. Find a cafe, get some kakigori (shaved ice), rest before heading back to central Kyoto.</p>
 </div>
 
 </div>
@@ -70,9 +77,9 @@ highlights:
 <div class="activity-time">🌙 Evening</div>
 
 <div class="activity-card">
-<h3>Riverside Walk</h3>
+<h3>Riverside Walk + Rest Night</h3>
 <p>As it cools down, take a relaxed walk along the Kamogawa River. Locals sit on the banks to enjoy the evening breeze.</p>
-<p><strong>Starting point:</strong> Sanjo or Shijo bridges</p>
+<p><strong>Tomorrow:</strong> Gion Matsuri parade morning, then on to Osaka! Consider doing laundry tonight and packing up.</p>
 <div class="activity-meta">
 <a href="https://maps.google.com/?q=Kamogawa+River+Sanjo">📍 Kamogawa River</a>
 </div>
@@ -82,14 +89,25 @@ highlights:
 
 ---
 
-## Reservations
+## Getting to Arashiyama
 
-**If doing a craft workshop:** Book at least a few days ahead, ideally before the trip.
+From central Kyoto, several options:
+- **JR Sagano Line** from Kyoto Station to Saga-Arashiyama (~15 min)
+- **Hankyu Line** to Arashiyama Station
+- **Keifuku Randen** tram line (scenic, old-school)
+
+---
+
+## No Reservations Needed
 
 **Manga Museum:** No reservation needed — just show up!
 
 ---
 
-## Teen Win Day
+## Why This Day Works
 
-The manga museum is specifically great for the teens — let them browse and read at their own pace while adults take a break too!
+- Arashiyama is best early morning before peak heat
+- Monkey park has tree cover for shade
+- Manga Museum is the perfect AC escape for afternoon heat
+- Teens get monkeys AND 300,000 manga volumes in one day
+- Evening is light — good pace before tomorrow's big festival day

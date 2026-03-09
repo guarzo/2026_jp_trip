@@ -13,7 +13,7 @@ title: Home
 <div class="countdown">
   <span class="countdown-number" id="countdown-days">--</span>
   <span class="countdown-label">days to go!</span>
-  <p class="countdown-dates">July 14 – 28, 2026</p>
+  <p class="countdown-dates">July 18 – 30, 2026</p>
 </div>
 
 <nav class="quick-links">
@@ -50,37 +50,41 @@ title: Home
 <h2 class="section-heading">⚠️ Upcoming Booking Deadlines</h2>
 
 <div class="alert alert-warning">
-  <p class="alert-title">PokePark KANTO</p>
-  <p>Tickets open 2 months ahead at 6 PM JST. Target booking: late May 2026 for July 27.</p>
+  <p class="alert-title">PokePark KANTO (Day 12 — July 29)</p>
+  <p>Tickets open 2 months ahead at 6 PM JST. Target booking: late May 2026.</p>
 </div>
 
 <div class="alert alert-info">
-  <p class="alert-title">Ghibli Museum (Day 2 — July 15)</p>
+  <p class="alert-title">Ghibli Museum (Day 2 — July 19)</p>
   <p>Advance reservation required. Book a late morning slot (11 AM or 12 PM). Check official site for July ticket release dates.</p>
 </div>
 
 <div class="alert alert-info">
-  <p class="alert-title">Pokemon Cafe (Tokyo)</p>
-  <p>Opens 31 days before. If dining ~July 15-16, book on June 14-15 at 6 PM JST.</p>
+  <p class="alert-title">Pokemon Cafe Osaka (Day 9 — July 26)</p>
+  <p>Opens 31 days before. Book on June 25 at 6 PM JST.</p>
 </div>
 
-<h2 class="section-heading">🗳️ Open Decisions</h2>
-
-Vote on these by commenting on the [Feedback page]({{ '/feedback/' | relative_url }}) or react to the GitHub Issues:
-
-- **Pokemon Cafe:** Tokyo, Osaka, or both?
-- **Sumidagawa Fireworks swap:** Stay in Osaka for Tenjin Matsuri (Jul 25) or go to Tokyo for fireworks?
-- **teamLab Planets:** Add it to a Tokyo day?
+<div class="alert alert-info">
+  <p class="alert-title">Gion Matsuri Paid Seating (Day 7 — July 24)</p>
+  <p>Guarantees front-row parade views with shade. Check official Gion Matsuri site for booking.</p>
+</div>
 
 <h2 class="section-heading">🗾 Trip Overview</h2>
 
 | Dates | Location | Nights | Highlights |
 |-------|----------|--------|------------|
-| Jul 14–17 | **Tokyo** | 3 | Ghibli Museum, Shibuya, Harajuku, Pokemon Center |
-| Jul 17–21 | **Kyoto** | 4 | Gion Matsuri, Fushimi Inari, Arashiyama, Manga Museum |
-| Jul 21–26 | **Osaka** | 5 | Dotonbori, Nara deer, Tenjin Matsuri, card hunting |
-| Jul 26–28 | **Tokyo** | 2 | Pokemon Center MEGA, Akihabara, PokePark KANTO |
-| Jul 28 | **Depart** | — | Relaxed morning, fly home |
+| Jul 18–21 | **Tokyo** | 3 | Sensoji, Ghibli Museum, teamLab Planets, Shibuya, Pokemon Center |
+| Jul 21–24 | **Kyoto** | 3 | Fushimi Inari, Arashiyama, Manga Museum, Gion Matsuri Parade |
+| Jul 24–28 | **Osaka** | 4 | Dotonbori, Tenjin Matsuri, Pokemon Center DX + Cafe, Nara deer |
+| Jul 28–30 | **Tokyo** | 2 | Pokemon Center MEGA, Akihabara, PokePark KANTO |
+| Jul 30 | **Depart** | — | Relaxed morning, DL294 at 3:15 PM |
+
+<h2 class="section-heading">✈️ Flights</h2>
+
+| | Flight | Route | Departs | Arrives |
+|--|--------|-------|---------|---------|
+| **Out** | DL295 | Atlanta → Tokyo | Fri Jul 17, 11:15 AM | **Sat Jul 18, 2:15 PM** |
+| **Return** | DL294 | Tokyo → Atlanta | Thu Jul 30, 3:15 PM | Thu Jul 30, 3:05 PM |
 
 <div class="offline-banner">
   📴 You're offline — cached pages still available

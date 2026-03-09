@@ -11,46 +11,31 @@ Use this page to discuss the trip, vote on decisions, and share ideas!
 
 ---
 
-## Open Decisions
+## Decided
 
-### ~~1. Universal Studios Japan~~ — DECIDED: Skip
+### ~~Universal Studios Japan~~ — Skip
 
 <div class="alert alert-info">
-<p><strong>Decision:</strong> We're skipping USJ this trip. Day 10 is now a relaxed Nara day trip (deer park + giant Buddha). We can always do USJ at the US parks another time!</p>
+<p><strong>Decision:</strong> We're skipping USJ this trip. Day 10 is now a relaxed Nara day trip (deer park + giant Buddha).</p>
 </div>
 
----
+### ~~Pokemon Cafe~~ — Osaka (Day 9)
 
-### 2. Pokemon Cafe — Where?
+<div class="alert alert-info">
+<p><strong>Decision:</strong> Pokemon Cafe Osaka on Day 9 (July 26), paired with Pokemon Center Osaka DX. Book June 25 at 6 PM JST.</p>
+</div>
 
-Options:
-- **Tokyo only** (Day 3 Shibuya area, or pair with Day 13 Ikebukuro)
-- **Osaka only** (Day 9, pair with Pokemon Center Osaka DX)
-- **Both!** (if we can get reservations)
+### ~~teamLab Planets~~ — Added (Day 3)
 
-**Your vote:** Comment with your preference
+<div class="alert alert-info">
+<p><strong>Decision:</strong> Added to Day 3 (July 20) morning, before Shibuya/Harajuku afternoon. Closing permanently in 2027!</p>
+</div>
 
----
+### ~~Gion Matsuri Seating~~ — Paid Seats (Day 7)
 
-### 3. Sumidagawa Fireworks Swap?
-
-**Sat 7/25** we're currently planned to be in Osaka for Tenjin Matsuri (boats + fireworks).
-
-**Alternative:** Go back to Tokyo for Sumidagawa Fireworks (one of Japan's biggest).
-
-**Trade-off:** Miss Tenjin's biggest night, but Sumidagawa is legendary.
-
-**Your vote:** Comment with "Tenjin" or "Sumidagawa"
-
----
-
-### 4. teamLab Planets — Add it?
-
-Immersive digital art museum in Tokyo. Very popular, ~2 hours.
-
-**When:** Would need to fit into Tokyo days (Day 2-3 or Day 13). Day 14 is PokePark, Day 15 is departure.
-
-**Your vote:** Comment if interested + when you'd want to go
+<div class="alert alert-info">
+<p><strong>Decision:</strong> Booking paid seating for July 24 parade. Guaranteed views with shade, no need to arrive hours early with the kids.</p>
+</div>
 
 ---
 

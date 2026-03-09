@@ -1,7 +1,7 @@
 ---
 day_number: 10
 title: "Nara Day Trip"
-date_display: "Thu, July 23"
+date_display: "Mon, July 27"
 location: "Osaka → Nara → Osaka"
 hero_image: "https://www.japan-guide.com/g18/4102_top.jpg"
 hero_alt: "Friendly deer in Nara Park with Todai-ji Temple in the background"
@@ -96,12 +96,12 @@ highlights:
 <div class="activity-card">
 <h3>Return to Osaka</h3>
 <p>Head back to Osaka in the late afternoon. Train takes ~45 minutes.</p>
-<p><strong>Tomorrow:</strong> Gion Matsuri parade day trip to Kyoto — rest up!</p>
+<p><strong>Tomorrow:</strong> Shinkansen back to Tokyo — last Osaka evening!</p>
 </div>
 
 <div class="activity-card">
 <h3>Dinner in Osaka</h3>
-<p>Easy dinner in Namba or Dotonbori. Maybe revisit a favorite spot or try something new.</p>
+<p>Last Osaka dinner! Revisit a favorite spot or try something new in Dotonbori.</p>
 </div>
 
 </div>
@@ -112,7 +112,7 @@ highlights:
 
 - **Uniquely Japanese** — Where else can you bow to wild deer?
 - **Low-stress** — No reservations, no timed entries, just show up and enjoy
-- **Perfect pace** — After several busy days, wandering a park is refreshing
+- **Perfect pace** — After the Tenjin Matsuri late night, wandering a park is refreshing
 - **Teen-friendly** — The deer interaction is genuinely fun at any age
 - **AC breaks** — Temples and shops have air conditioning when you need it
 

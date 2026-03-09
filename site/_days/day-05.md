@@ -1,7 +1,7 @@
 ---
 day_number: 5
 title: "Fushimi Inari + Higashiyama"
-date_display: "Sat, July 18"
+date_display: "Wed, July 22"
 location: "Kyoto"
 hero_image: "https://www.japan-guide.com/g18/3915_top.jpg"
 hero_alt: "The iconic vermillion torii gates of Fushimi Inari Shrine"
@@ -82,8 +82,6 @@ highlights:
 | 12:00-3:00 PM | Lunch + indoor shops in Higashiyama | AC breaks! |
 | 3:00-5:00 PM | Kiyomizu-dera + traditional streets | Still hot |
 | 6:00 PM+ | Gion evening walk | Cooling down |
-
-**Realistic expectation:** You won't beat the crowds at 10 AM, but Fushimi Inari is still magical even with people around. The higher you climb, the fewer tourists. Focus on enjoying it rather than getting the "perfect empty shot."
 
 ---
 

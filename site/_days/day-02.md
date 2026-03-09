@@ -1,7 +1,7 @@
 ---
 day_number: 2
 title: "Ghibli Museum + Kichijoji"
-date_display: "Wed, July 15"
+date_display: "Sun, July 19"
 location: "Tokyo (Mitaka)"
 hero_image: "https://www.japan-guide.com/g18/3041_top.jpg"
 hero_alt: "The magical Ghibli Museum in Mitaka"
@@ -18,7 +18,7 @@ reservations:
 
 <div class="alert alert-info">
 <p class="alert-title">Jet Lag Recovery Day</p>
-<p>You just flew across the world! Ghibli Museum is perfect for Day 2 — it's calm, magical, and forces you to get out at a reasonable hour without being exhausting.</p>
+<p>You just flew across the world yesterday! Ghibli Museum is perfect for Day 2 — it's calm, magical, and forces you to get out at a reasonable hour without being exhausting.</p>
 </div>
 
 ## Late Morning
@@ -78,14 +78,6 @@ reservations:
 <p><strong>Goal:</strong> Be in bed by 9-10 PM to lock in your sleep schedule.</p>
 </div>
 
-<div class="activity-card">
-<h3>Optional: Evening Sensoji Walk</h3>
-<p>If you have energy and are staying in Asakusa, Sensoji Temple is beautiful in the evening when it's less crowded and lit up. Just a thought if you're not quite ready for bed.</p>
-<div class="activity-meta">
-<a href="https://maps.google.com/?q=Sensoji+Temple+Asakusa">📍 Sensoji Temple</a>
-</div>
-</div>
-
 </div>
 
 ---
@@ -115,4 +107,4 @@ reservations:
 - Timed entry gives you a reason to wake up without a brutal early start
 - Kichijoji is low-key and local-feeling
 - Natural light in the park helps reset your body clock
-- Back to hotel at a reasonable hour to rest up for Shibuya/Harajuku tomorrow
+- Back to hotel at a reasonable hour to rest up for teamLab + Shibuya tomorrow

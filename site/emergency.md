@@ -49,38 +49,29 @@ permalink: /emergency/
 
 Show these to taxi drivers. Tap "Copy" to paste into maps.
 
-### Tokyo Hotel (Jul 14-17, Jul 26-28)
+### Tokyo Hotel (Jul 18-21, Jul 28-30)
 
-**MIMARU Tokyo Asakusa Station** *(update if different)*
+**TBD** *(update once booked)*
 
 <div class="japanese-text" id="tokyo-hotel">
-MIMARU東京 浅草駅
-〒111-0032
-東京都台東区浅草1-2-7
+— Update with hotel address in Japanese once booked —
 </div>
-<button class="copy-btn" data-copy="MIMARU東京 浅草駅 〒111-0032 東京都台東区浅草1-2-7">Copy</button>
 
-### Kyoto Hotel (Jul 17-21)
+### Kyoto Hotel (Jul 21-24)
 
-**MIMARU Kyoto Station** *(update if different)*
+**TBD** *(update once booked)*
 
 <div class="japanese-text" id="kyoto-hotel">
-MIMARU京都 STATION
-〒600-8216
-京都府京都市下京区東塩小路町590-2
+— Update with hotel address in Japanese once booked —
 </div>
-<button class="copy-btn" data-copy="MIMARU京都 STATION 〒600-8216 京都府京都市下京区東塩小路町590-2">Copy</button>
 
-### Osaka Hotel (Jul 21-26)
+### Osaka Hotel (Jul 24-28)
 
-**MIMARU Osaka Namba Station** *(update if different)*
+**TBD** *(update once booked)*
 
 <div class="japanese-text" id="osaka-hotel">
-MIMARU大阪 難波STATION
-〒542-0076
-大阪府大阪市中央区難波3-1-15
+— Update with hotel address in Japanese once booked —
 </div>
-<button class="copy-btn" data-copy="MIMARU大阪 難波STATION 〒542-0076 大阪府大阪市中央区難波3-1-15">Copy</button>
 
 ---
 
@@ -204,14 +195,14 @@ Japan has excellent lost-and-found. If you lose something:
 
 ---
 
-## WiFi Backup
+## Connectivity Backup
 
-If your portable WiFi fails:
+If your eSIM has issues:
 
 1. **Convenience stores** — Free WiFi (7-Eleven, FamilyMart, Lawson)
 2. **Train stations** — JR stations have free WiFi
 3. **Starbucks** — Free WiFi
-4. **Buy a SIM** — Electronics stores, airport
+4. **Buy a local SIM** — Electronics stores, airport
 
 ---
 

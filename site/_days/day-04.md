@@ -1,14 +1,14 @@
 ---
 day_number: 4
-title: "Shinkansen to Kyoto + Gion Matsuri"
-date_display: "Fri, July 17"
+title: "Shinkansen to Kyoto"
+date_display: "Tue, July 21"
 location: "Tokyo → Kyoto"
-hero_image: "https://www.japan-guide.com/g18/3942_top.jpg"
-hero_alt: "Gion Matsuri - one of Japan's most famous festivals"
+hero_image: "https://www.japan-guide.com/g19/2018_01.jpg"
+hero_alt: "Shinkansen bullet train heading to Kyoto"
 highlights:
   - Bullet Train
-  - Gion Matsuri
-  - Festival Night
+  - Ekiben Lunch
+  - Kyoto Arrival
 ---
 
 <img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
@@ -49,7 +49,7 @@ highlights:
 
 <div class="activity-card">
 <h3>Light Kyoto Stroll</h3>
-<p>Easy walk to get oriented. If staying near Kawaramachi/Gion, explore the riverside or peek at the festival preparations.</p>
+<p>Easy walk to get oriented. Explore the riverside, neighborhood streets, and get a feel for Kyoto's pace — it's noticeably different from Tokyo.</p>
 </div>
 
 </div>
@@ -57,43 +57,24 @@ highlights:
 ## Evening
 
 <div class="activity-block">
-<div class="activity-time">🌙 Evening — GION MATSURI!</div>
+<div class="activity-time">🌙 Evening</div>
 
 <div class="activity-card">
-<h3>Gion Matsuri Evening Events</h3>
-<p>July 17 is one of the biggest nights of Gion Matsuri! The mikoshi (portable shrine) processions happen in the evening.</p>
-<p><strong>What to expect:</strong> Festival atmosphere, street food stalls (yatai), locals in yukata, incredible energy</p>
-<p><strong>Where:</strong> Shijo-dori and surrounding streets in central Kyoto</p>
-<div class="activity-meta">
-<a href="https://maps.google.com/?q=Shijo+Kawaramachi+Kyoto">📍 Festival Area</a>
-</div>
+<h3>Dinner + Rest</h3>
+<p>Find a local spot for dinner. Kyoto is famous for kaiseki (traditional multi-course), but tonight can be casual — you have three full Kyoto days ahead.</p>
+<p><strong>Tomorrow:</strong> Fushimi Inari and Higashiyama!</p>
 </div>
 
 </div>
 
 ---
 
-## About Gion Matsuri
+## No Reservations Needed
 
-Gion Matsuri is one of Japan's most famous festivals, running throughout July with peak events on:
-- **July 17:** Yamaboko Junko parade (morning) + evening festivities
-- **July 24:** Second parade + evening events
-
-You're arriving on the 17th — perfect timing for the evening atmosphere!
-
----
-
-## Reservations
-
-**Optional:** Paid street-side seats for the parade (if you want guaranteed views for July 24's morning parade)
+Just book your shinkansen reserved seats via the SmartEX app or at the JR ticket counter.
 
 ---
 
 ## Packing Tip
 
-**For the festival:**
-- Comfortable walking shoes (you'll be on your feet)
-- Small bag for purchases
-- Cash for street food stalls
-- Portable fan (it's July!)
-- Camera with good low-light capability
+If you're staying at a MIMARU, grab groceries near the hotel for breakfast supplies — the kitchen saves time and money in the mornings.

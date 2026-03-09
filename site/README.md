@@ -1,12 +1,12 @@
 # Japan Family Trip 2026
 
-A GitHub Pages site for coordinating our family trip to Japan (July 14-28, 2026).
+A GitHub Pages site for coordinating our family trip to Japan (July 18-30, 2026).
 
 ## Quick Links
 
 - **Live Site:** [jp.dpao.la](https://jp.dpao.la)
 - **Itinerary:** Tokyo → Kyoto → Osaka
-- **Duration:** 14 nights
+- **Duration:** 12 nights
 
 ## Features
 

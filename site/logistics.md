@@ -17,13 +17,14 @@ All transportation and accommodation details in one place.
 
   <div class="logistics-segment">
     <div class="segment-header">
-      <h4>To Tokyo</h4>
-      <span class="segment-date">Tue, July 14, 2026</span>
+      <h4>Atlanta → Tokyo</h4>
+      <span class="segment-date">Fri, July 17, 2026 (arrive Sat, July 18)</span>
     </div>
     <div class="segment-details">
-      <p><strong>Flight:</strong> <span class="conf-number">—</span></p>
-      <p><strong>Departure:</strong> —</p>
-      <p><strong>Arrival:</strong> — (NRT/HND)</p>
+      <p><strong>Flight:</strong> Delta DL295</p>
+      <p><strong>Departure:</strong> Atlanta (ATL) — 11:15 AM, Fri Jul 17</p>
+      <p><strong>Arrival:</strong> Tokyo — 2:15 PM, Sat Jul 18 (next day)</p>
+      <p><strong>Duration:</strong> ~14 hours</p>
       <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
     </div>
   </div>
@@ -34,13 +35,14 @@ All transportation and accommodation details in one place.
 
   <div class="logistics-segment">
     <div class="segment-header">
-      <h4>From Tokyo/Osaka</h4>
-      <span class="segment-date">Tue, July 28, 2026</span>
+      <h4>Tokyo → Atlanta</h4>
+      <span class="segment-date">Thu, July 30, 2026</span>
     </div>
     <div class="segment-details">
-      <p><strong>Flight:</strong> <span class="conf-number">—</span></p>
-      <p><strong>Departure:</strong> — (NRT/HND/KIX)</p>
-      <p><strong>Arrival:</strong> —</p>
+      <p><strong>Flight:</strong> Delta DL294</p>
+      <p><strong>Departure:</strong> Tokyo — 3:15 PM, Thu Jul 30</p>
+      <p><strong>Arrival:</strong> Atlanta (ATL) — 3:05 PM, Thu Jul 30 (same day)</p>
+      <p><strong>Duration:</strong> ~13 hours</p>
       <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
     </div>
   </div>
@@ -56,7 +58,7 @@ All transportation and accommodation details in one place.
   <div class="logistics-segment">
     <div class="segment-header">
       <h4>Tokyo → Kyoto</h4>
-      <span class="segment-date">Fri, July 17 (Day 4)</span>
+      <span class="segment-date">Tue, July 21 (Day 4)</span>
     </div>
     <div class="segment-route">
       <span>Tokyo Station</span>
@@ -74,7 +76,7 @@ All transportation and accommodation details in one place.
   <div class="logistics-segment">
     <div class="segment-header">
       <h4>Kyoto → Osaka</h4>
-      <span class="segment-date">Tue, July 21 (Day 8)</span>
+      <span class="segment-date">Fri, July 24 (Day 7)</span>
     </div>
     <div class="segment-route">
       <span>Kyoto Station</span>
@@ -91,7 +93,7 @@ All transportation and accommodation details in one place.
   <div class="logistics-segment">
     <div class="segment-header">
       <h4>Osaka → Tokyo</h4>
-      <span class="segment-date">Sun, July 26 (Day 13)</span>
+      <span class="segment-date">Tue, July 28 (Day 11)</span>
     </div>
     <div class="segment-route">
       <span>Shin-Osaka</span>
@@ -136,7 +138,7 @@ We only have 2 long shinkansen trips (Tokyo↔Kyoto, Osaka↔Tokyo). The JR Pass
 
 ## Hotels
 
-### Tokyo (July 14-17 & July 26-28)
+### Tokyo (July 18-21 & July 28-30)
 
 **Dates:** 3 nights (arrival) + 2 nights (final) = 5 nights total
 
@@ -162,9 +164,9 @@ We only have 2 long shinkansen trips (Tokyo↔Kyoto, Osaka↔Tokyo). The JR Pass
 
 ---
 
-### Kyoto (July 17-21)
+### Kyoto (July 21-24)
 
-**Dates:** 4 nights
+**Dates:** 3 nights
 
 <div class="logistics-card">
   <h3><span class="icon">🏨</span> Booked Hotel</h3>
@@ -188,9 +190,9 @@ We only have 2 long shinkansen trips (Tokyo↔Kyoto, Osaka↔Tokyo). The JR Pass
 
 ---
 
-### Osaka (July 21-26)
+### Osaka (July 24-28)
 
-**Dates:** 5 nights
+**Dates:** 4 nights
 
 <div class="logistics-card">
   <h3><span class="icon">🏨</span> Booked Hotel</h3>
@@ -229,23 +231,23 @@ MIMARU apartment hotels are ideal for families because:
 
 | Segment | Dates | Nights | Location |
 |---------|-------|--------|----------|
-| Tokyo 1 | Jul 14-17 | 3 | TBD |
-| Kyoto | Jul 17-21 | 4 | TBD |
-| Osaka | Jul 21-26 | 5 | TBD |
-| Tokyo 2 | Jul 26-28 | 2 | TBD |
-| **Total** | | **14** | |
+| Tokyo 1 | Jul 18-21 | 3 | TBD |
+| Kyoto | Jul 21-24 | 3 | TBD |
+| Osaka | Jul 24-28 | 4 | TBD |
+| Tokyo 2 | Jul 28-30 | 2 | TBD |
+| **Total** | | **12** | |
 
 ---
 
 ## Connectivity
 
 <div class="logistics-segment">
-  <h4>Portable WiFi / SIM</h4>
+  <h4>eSIM (one per phone)</h4>
   <div class="segment-details">
-    <p><strong>Provider:</strong> <span class="conf-number">—</span></p>
-    <p><strong>Pickup:</strong> —</p>
-    <p><strong>Return:</strong> —</p>
-    <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
+    <p><strong>Provider:</strong> Ubigi or Airalo (recommended)</p>
+    <p><strong>Setup:</strong> Install and activate before departure — eSIM activates when you land</p>
+    <p><strong>Coverage:</strong> 4 individual eSIMs (Papa, Mama, Bubu, Gaby)</p>
+    <p><strong>Why eSIM over pocket WiFi:</strong> Everyone stays connected even when separated. No device to charge, carry, or return. Teens can navigate independently.</p>
   </div>
 </div>
 
@@ -253,7 +255,7 @@ MIMARU apartment hotels are ideal for families because:
 
 ## Airport Transfers
 
-### Arrival (July 14)
+### Arrival (July 18)
 
 **Narita (NRT) to Tokyo:**
 - Narita Express to Tokyo/Shinjuku (~1 hour)
@@ -263,7 +265,9 @@ MIMARU apartment hotels are ideal for families because:
 - Tokyo Monorail to Hamamatsucho (~15 min)
 - Keikyu Line to Shinagawa (~15 min)
 
-### Departure (July 28)
+### Departure (July 30)
+
+**DL294 departs 3:15 PM — be at airport by 12:00-12:30 PM**
 
 **Tokyo to Narita (NRT):**
 - Narita Express from Tokyo Station (~1 hour)

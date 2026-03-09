@@ -1,61 +1,37 @@
 ---
 day_number: 11
-title: "Kyoto Day Trip: Gion Matsuri Parade"
-date_display: "Fri, July 24"
-location: "Osaka → Kyoto → Osaka"
+title: "Osaka → Tokyo + Pokemon MEGA"
+date_display: "Tue, July 28"
+location: "Osaka → Tokyo"
+hero_image: "https://www.japan-guide.com/g19/2018_01.jpg"
+hero_alt: "Shinkansen bullet train - back to Tokyo!"
 highlights:
-  - Float Parade
-  - Festival
-  - Kyoto Return
-reservations:
-  - name: Paid Parade Seating
-    note: Optional — guarantees front-row views
+  - Shinkansen
+  - Pokemon Center MEGA
+  - Akihabara
 ---
 
-## Early Morning
-
-<div class="activity-block">
-<div class="activity-time">🌅 Early Morning</div>
-
-<div class="activity-card">
-<h3>Train to Kyoto (Early!)</h3>
-<p>The Yamaboko Junko parade starts in the morning. Leave Osaka early to get a good spot!</p>
-<p><strong>Train:</strong> JR or Hankyu from Osaka/Namba to Kyoto (~30-50 min)</p>
-<p><strong>Target arrival:</strong> 8:00-8:30 AM to secure viewing position</p>
-</div>
-
-</div>
+<img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
 
 ## Morning
 
 <div class="activity-block">
-<div class="activity-time">☀️ Morning — THE PARADE</div>
+<div class="activity-time">🌅 Morning</div>
 
 <div class="activity-card">
-<h3>Gion Matsuri Yamaboko Junko</h3>
-<p>The main event! Giant decorated floats (yamaboko) are pulled through the streets. Some are several stories tall with musicians inside.</p>
-<p><strong>Route:</strong> The parade goes along Shijo-dori and Kawaramachi-dori</p>
-<p><strong>Timing:</strong> Parade typically runs ~9:00 AM - 12:00 PM</p>
-<p><strong>Best spots:</strong></p>
-<ul>
-<li>Intersection of Shijo and Kawaramachi (the turning point — floats pivot here!)</li>
-<li>Along Shijo-dori</li>
-<li>Paid seating areas (if you booked)</li>
-</ul>
+<h3>Shinkansen to Tokyo</h3>
+<p>Back to Tokyo! Take the bullet train from Shin-Osaka Station.</p>
+<p><strong>Duration:</strong> ~2.5 hours to Tokyo Station</p>
+<p><strong>Tip:</strong> Get an ekiben (train bento) for the ride!</p>
 <div class="activity-meta">
-<a href="https://maps.google.com/?q=Shijo+Kawaramachi+Kyoto">📍 Parade Area</a>
+<span>🚄 Shin-Osaka → Tokyo</span>
+<span>⏱️ ~2h 30m</span>
 </div>
 </div>
 
 <div class="activity-card">
-<h3>Float Highlights</h3>
-<p>Each float has its own history and decorations. Some have tapestries from centuries ago!</p>
-<p><strong>Watch for:</strong></p>
-<ul>
-<li>The musicians playing traditional instruments</li>
-<li>The turning maneuver (floats pivot on wet bamboo)</li>
-<li>Float attendants in traditional costume</li>
-</ul>
+<h3>Hotel Check-in</h3>
+<p>Drop bags at the hotel and head out. You have a fun afternoon ahead!</p>
 </div>
 
 </div>
@@ -63,17 +39,22 @@ reservations:
 ## Afternoon
 
 <div class="activity-block">
-<div class="activity-time">☀️ Afternoon</div>
+<div class="activity-time">☀️ Afternoon — POKEMON TIME</div>
 
 <div class="activity-card">
-<h3>Cool Off in Kyoto</h3>
-<p>After the parade, escape the heat. Kyoto has great cafes and indoor spots.</p>
-<p><strong>Ideas:</strong></p>
+<h3>Pokemon Center MEGA TOKYO</h3>
+<p>The largest Pokemon Center in Tokyo! Located in Sunshine City, Ikebukuro.</p>
+<p><strong>What to look for:</strong></p>
 <ul>
-<li>Air-conditioned cafe for lunch</li>
-<li>Department store browsing (Takashimaya, Daimaru)</li>
-<li>Return to any Kyoto spot you wanted more time at</li>
+<li>Massive selection of merchandise</li>
+<li>Tokyo/Ikebukuro exclusives</li>
+<li>Current sealed products</li>
+<li>Compare prices to what you saw in Osaka</li>
 </ul>
+<div class="activity-meta">
+<a href="https://maps.google.com/?q=Pokemon+Center+MEGA+Tokyo+Ikebukuro">📍 Get Directions</a>
+<span>⏱️ 1-2 hours</span>
+</div>
 </div>
 
 </div>
@@ -81,41 +62,54 @@ reservations:
 ## Evening
 
 <div class="activity-block">
-<div class="activity-time">🌙 Evening</div>
+<div class="activity-time">🎮 Evening — AKIHABARA</div>
 
 <div class="activity-card">
-<h3>Return to Osaka</h3>
-<p>Head back to Osaka in the late afternoon/early evening.</p>
+<h3>Akihabara Card Shopping + Arcades</h3>
+<p>Head from Ikebukuro to Akihabara (~20 min by train) for your final card hunting session and evening fun.</p>
+<p><strong>Card strategy:</strong></p>
+<ul>
+<li>You know prices now from Osaka — use that knowledge</li>
+<li>Focus on remaining target list cards</li>
+<li>Stock up on supplies (sleeves, toploaders) if needed</li>
+</ul>
+<p><strong>Key shops:</strong> Card Labo, FullComp, Hobby Station, various shops in Radio Kaikan</p>
+<div class="activity-meta">
+<a href="https://maps.google.com/?q=Radio+Kaikan+Akihabara">📍 Radio Kaikan Area</a>
+</div>
 </div>
 
 <div class="activity-card">
-<h3>Tenjin Matsuri Preview</h3>
-<p>Tonight is the eve of Tenjin Matsuri! There may be some early festival energy in Osaka.</p>
-<p>Rest up — tomorrow is the big day!</p>
+<h3>Akihabara Beyond Cards</h3>
+<ul>
+<li><strong>Arcades</strong> — Multi-floor game centers</li>
+<li><strong>Electronics</strong> — Yodobashi Camera is massive</li>
+<li><strong>Anime/manga shops</strong> — Figures, merch, etc.</li>
+<li><strong>Gachapon</strong> — Streets lined with capsule machines</li>
+</ul>
+</div>
+
+<div class="activity-card">
+<h3>Dinner + Early Night</h3>
+<p>Grab dinner in Akihabara before heading back. Don't stay out too late — PokePark tomorrow!</p>
 </div>
 
 </div>
 
 ---
 
-## Parade Viewing Tips
+## Pokemon Shopping Block
 
-- **Arrive early** — Good spots fill up fast
-- **Bring:**
-  - Water and snacks
-  - Portable fan
-  - Hat or umbrella for shade
-  - Small folding stool (if you have one)
-- **Paid seating:** Guarantees a spot, provides shade, worth considering for a family
+**Focus:** Official merchandise + final card hunting
 
----
-
-## Reservations
-
-**Paid Parade Seating:** Optional but recommended for families. Check the official Gion Matsuri website for booking info.
+- [ ] Pokemon Center MEGA for official merch
+- [ ] Akihabara for final card singles
+- [ ] Any Tokyo exclusives
+- [ ] Gifts/souvenirs
+- [ ] Extra sleeves/toploaders for travel protection
 
 ---
 
-## What Makes This Special
+## No Reservations Needed
 
-July 24 is one of the two main parade days (the other is July 17, when you arrived in Kyoto). The floats are incredible — some are designated Important Cultural Properties!
+Just show up and shop!

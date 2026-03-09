@@ -1,14 +1,14 @@
 ---
 day_number: 8
-title: "Kyoto → Osaka + Dotonbori"
-date_display: "Tue, July 21"
-location: "Kyoto → Osaka"
+title: "Tenjin Matsuri"
+date_display: "Sat, July 25"
+location: "Osaka"
 hero_image: "https://www.japan-guide.com/g21/4001_01.jpg"
-hero_alt: "The vibrant neon lights of Dotonbori, Osaka"
+hero_alt: "The vibrant energy of Osaka's festivals"
 highlights:
-  - Train to Osaka
-  - Dotonbori
-  - Street Food
+  - Card Shop Recon
+  - Tenjin Matsuri
+  - Fireworks
 ---
 
 <img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
@@ -16,18 +16,22 @@ highlights:
 ## Morning
 
 <div class="activity-block">
-<div class="activity-time">🌅 Morning</div>
+<div class="activity-time">🌅 Morning — Card Shop Reconnaissance</div>
 
 <div class="activity-card">
-<h3>Train to Osaka</h3>
-<p>Short and easy trip from Kyoto to Osaka — about 30-50 minutes depending on which train you take.</p>
-<p><strong>Options:</strong></p>
+<h3>Nipponbashi / Den-Den Town Walkthrough</h3>
+<p>Before the festival takes over the city, head to Nipponbashi to scout the card shops. This is reconnaissance — note locations, peek at prices, identify your targets.</p>
+<p><strong>What to do:</strong></p>
 <ul>
-<li><strong>JR Special Rapid</strong> — Kyoto → Osaka Station (~30 min)</li>
-<li><strong>Hankyu Line</strong> — Kawaramachi → Umeda (~45 min, if you're near Kawaramachi)</li>
-<li><strong>Keihan Line</strong> — If heading to Namba area</li>
+<li>Walk past the main card shops (Card Labo, Hobby Station, smaller shops)</li>
+<li>Note which shops have your target cards</li>
+<li>Compare prices — don't buy yet (tomorrow is the focused hunting day)</li>
+<li>Note which shops are cash-only</li>
 </ul>
-<p><strong>Tip:</strong> No need for shinkansen — regular trains are fine for this route!</p>
+<div class="activity-meta">
+<a href="https://maps.google.com/?q=Nipponbashi+Osaka">📍 Nipponbashi Area</a>
+<span>⏱️ 1-2 hours</span>
+</div>
 </div>
 
 </div>
@@ -35,78 +39,79 @@ highlights:
 ## Afternoon
 
 <div class="activity-block">
-<div class="activity-time">☀️ Afternoon</div>
+<div class="activity-time">☀️ Afternoon — Rest + Prepare</div>
 
 <div class="activity-card">
-<h3>Hotel Check-in</h3>
-<p>Head to Namba area hotel, drop bags, get oriented.</p>
-<p>If you're at a MIMARU, you'll have a kitchen — consider grabbing groceries for breakfast supplies!</p>
+<h3>Rest at Hotel</h3>
+<p>Tonight will be long and crowded. Take it easy in the afternoon.</p>
+<ul>
+<li>Rest at the hotel</li>
+<li>Eat an early dinner (finding food during the festival is challenging)</li>
+<li>Charge devices — you'll want photos!</li>
+</ul>
 </div>
 
-<div class="activity-card">
-<h3>Light Namba Shopping</h3>
-<p>Get your bearings in the neighborhood. Walk around, find key landmarks, note card shop locations for tomorrow.</p>
-<p><strong>Reconnaissance for:</strong> Nipponbashi/Den-Den Town card shops, Pokemon Center location, good food spots</p>
 </div>
 
-</div>
-
-## Evening
+## Evening — TENJIN MATSURI
 
 <div class="activity-block">
-<div class="activity-time">🌙 Evening — THE MAIN EVENT</div>
+<div class="activity-time">🌙 Evening — THE FESTIVAL</div>
 
 <div class="activity-card">
-<h3>Dotonbori Street Food Tour</h3>
-<p>This is what Osaka is famous for! The neon-lit street along the canal is packed with food, energy, and fun.</p>
-<p><strong>Must-try foods:</strong></p>
+<h3>Tenjin Matsuri</h3>
+<p>One of Japan's top three festivals! July 25 is the main day with the boat procession and fireworks.</p>
+<p><strong>Key elements:</strong></p>
 <ul>
-<li><strong>Takoyaki</strong> — Octopus balls (Osaka's signature)</li>
-<li><strong>Okonomiyaki</strong> — Savory pancake</li>
-<li><strong>Kushikatsu</strong> — Deep-fried skewers (no double-dipping!)</li>
-<li><strong>Gyoza</strong></li>
-<li><strong>Cheesecake</strong> — Rikuro's jiggly cheesecake</li>
+<li><strong>Funatogyo (boat procession)</strong> — Boats carrying mikoshi travel down the river</li>
+<li><strong>Fireworks</strong> — Shot over the river, reflecting on the water</li>
+<li><strong>Festival stalls</strong> — Food and games along the riverbanks</li>
+<li><strong>Incredible crowds</strong> — Millions attend!</li>
 </ul>
 <div class="activity-meta">
-<a href="https://maps.google.com/?q=Dotonbori+Osaka">📍 Dotonbori</a>
+<a href="https://maps.google.com/?q=Tenmangu+Shrine+Osaka">📍 Tenmangu Shrine Area</a>
 </div>
 </div>
 
 <div class="activity-card">
-<h3>Glico Running Man</h3>
-<p>The famous neon sign — obligatory photo op!</p>
+<h3>Where to Watch</h3>
+<p><strong>Main areas:</strong></p>
+<ul>
+<li><strong>Tenmangu Shrine</strong> — The spiritual center</li>
+<li><strong>Along the river (Okawa)</strong> — For the boat procession</li>
+<li><strong>Sakuranomiya Park</strong> — Good for fireworks viewing</li>
+</ul>
+<p><strong>Tip:</strong> Stake out a spot early for fireworks. The crowds are massive!</p>
 </div>
 
 <div class="activity-card">
-<h3>Don Quijote (Donki)</h3>
-<p>The massive discount store with a ferris wheel on top. Great for random Japanese snacks, souvenirs, weird finds.</p>
-<div class="activity-meta">
-<a href="https://maps.google.com/?q=Don+Quijote+Dotonbori">📍 Don Quijote Dotonbori</a>
-</div>
+<h3>Festival Schedule (Approximate)</h3>
+<table>
+<tr><th>Time</th><th>Event</th></tr>
+<tr><td>Late afternoon</td><td>Land procession from shrine</td></tr>
+<tr><td>~6:00 PM</td><td>Boats depart</td></tr>
+<tr><td>~7:00-9:00 PM</td><td>Boat procession on the river</td></tr>
+<tr><td>~7:30-8:30 PM</td><td>Fireworks</td></tr>
+</table>
+<p><em>Check current year's schedule closer to the date!</em></p>
 </div>
 
 </div>
 
 ---
 
-## Pokemon Shopping Note
+## Festival Survival Tips
 
-Today is **reconnaissance** — walk past the card shops in Nipponbashi, note their locations, peek at prices. Tomorrow is the focused shopping day!
+- **Eat before you go** — Festival food lines are long
+- **Bring cash** — Stalls are cash-only
+- **Arrive early for fireworks spot** — Like, hours early
+- **Wear comfortable shoes** — You'll be standing a lot
+- **Stay hydrated** — It's still July!
+- **Have a meeting point** — In case you get separated (it's CROWDED)
+- **Plan your exit** — Trains will be packed after fireworks
 
 ---
 
 ## No Reservations Needed
 
-Just show up hungry!
-
----
-
-## Osaka Vibe
-
-Osaka is known for:
-- **Food** — "Kuidaore" means "eat till you drop"
-- **Friendly locals** — More outgoing than Tokyo
-- **Comedy** — Japan's humor capital
-- **Direct communication** — Osakans are famously straightforward
-
-Enjoy the energy shift from Kyoto!
+Just show up and experience the festival!

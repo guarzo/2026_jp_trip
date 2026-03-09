@@ -1,7 +1,7 @@
 // Service Worker for Japan Trip 2026
 // Provides offline access to critical pages
 
-const CACHE_NAME = 'japan-trip-v1';
+const CACHE_NAME = 'japan-trip-v2';
 
 const OFFLINE_URLS = [
   '/',
@@ -23,8 +23,6 @@ const OFFLINE_URLS = [
   '/days/day-11/',
   '/days/day-12/',
   '/days/day-13/',
-  '/days/day-14/',
-  '/days/day-15/',
   '/assets/css/style.css',
   '/assets/js/app.js'
 ];

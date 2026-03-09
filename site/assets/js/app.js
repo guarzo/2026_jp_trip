@@ -30,7 +30,7 @@
   const countdownEl = document.getElementById('countdown-days');
 
   if (countdownEl) {
-    const tripStart = new Date('2026-07-14T00:00:00');
+    const tripStart = new Date('2026-07-18T00:00:00');
 
     function updateCountdown() {
       const now = new Date();
@@ -38,11 +38,11 @@
 
       if (diff <= 0) {
         // Trip has started or passed
-        const tripEnd = new Date('2026-07-28T23:59:59');
+        const tripEnd = new Date('2026-07-30T23:59:59');
         if (now <= tripEnd) {
           // During the trip
           const dayOfTrip = Math.ceil((now - tripStart) / (1000 * 60 * 60 * 24)) + 1;
-          countdownEl.textContent = 'Day ' + Math.min(dayOfTrip, 15);
+          countdownEl.textContent = 'Day ' + Math.min(dayOfTrip, 13);
           const labelEl = document.querySelector('.countdown-label');
           if (labelEl) labelEl.textContent = 'of the trip!';
         } else {

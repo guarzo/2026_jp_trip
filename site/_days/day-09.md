@@ -1,15 +1,15 @@
 ---
 day_number: 9
-title: "Pokemon + Card Hunting Day"
-date_display: "Wed, July 22"
+title: "Pokemon Center + Cafe + Card Hunting"
+date_display: "Sun, July 26"
 location: "Osaka"
 highlights:
   - Pokemon Center
+  - Pokemon Cafe
   - Card Shops
-  - Arcades
 reservations:
   - name: Pokemon Cafe Osaka
-    note: Optional — book 31 days ahead if you want it
+    note: MUST book 31 days ahead (June 25) at 6 PM JST
 ---
 
 ## Morning
@@ -34,9 +34,11 @@ reservations:
 </div>
 
 <div class="activity-card">
-<h3>Pokemon Cafe (if reserved)</h3>
-<p>If you booked it, the cafe is in the same building. Themed food and drinks, character appearances at tables!</p>
-<p><strong>Note:</strong> Reservation required 31 days ahead. If you didn't get it, no worries — the center is the main attraction.</p>
+<h3>Pokemon Cafe</h3>
+<p>Same building as Pokemon Center DX! Themed food and drinks, character appearances at tables. A highlight for the whole family.</p>
+<div class="activity-meta">
+<span>⏱️ ~1.5 hours</span>
+</div>
 </div>
 
 </div>
@@ -48,15 +50,15 @@ reservations:
 
 <div class="activity-card">
 <h3>Nipponbashi / Den-Den Town Card Shop Walk</h3>
-<p>This is the main event for singles! Plan to visit 3-5 shops minimum.</p>
+<p>This is the main event for singles! You did recon yesterday — now it's time to buy. Plan to visit 3-5 shops minimum.</p>
 <p><strong>Strategy:</strong></p>
 <ol>
-<li>Walk the area first, note prices on your target list cards</li>
-<li>Don't buy on the first pass (unless it's a steal)</li>
-<li>Compare across shops</li>
-<li>Return to best-priced shop to purchase</li>
+<li>You already know where things are from yesterday's recon</li>
+<li>Hit the shops with the best prices on your target cards first</li>
+<li>Compare across shops for anything new</li>
+<li>Don't hesitate — this is your main card hunting day</li>
 </ol>
-<p><strong>Shops to find:</strong> Card Labo, Hobby Station, various smaller shops in the area</p>
+<p><strong>Shops to hit:</strong> Card Labo, Hobby Station, various smaller shops in the area</p>
 <div class="activity-meta">
 <a href="https://maps.google.com/?q=Nipponbashi+Osaka">📍 Nipponbashi Area</a>
 <span>⏱️ 2-3 hours</span>
@@ -77,11 +79,6 @@ reservations:
 </div>
 
 <div class="activity-card">
-<h3>Shopping Sweep</h3>
-<p>Any last items from shops that are closing? Make your final purchases for the day.</p>
-</div>
-
-<div class="activity-card">
 <h3>Dinner in Namba</h3>
 <p>Head back toward Dotonbori or find a local spot. You've earned a good meal!</p>
 </div>
@@ -99,24 +96,15 @@ Before you go out today:
 - [ ] Toploaders
 - [ ] Cash (many shops are cash-only or cash-preferred)
 - [ ] Phone for photos of prices/locations
-- [ ] Small notebook for price notes
-
----
-
-## Price Discovery Notes
-
-Use this space to track prices as you shop:
-
-| Card | Shop 1 | Shop 2 | Shop 3 | Bought? |
-|------|--------|--------|--------|---------|
-| | ¥ | ¥ | ¥ | |
-| | ¥ | ¥ | ¥ | |
-| | ¥ | ¥ | ¥ | |
+- [ ] Notes from yesterday's recon
 
 ---
 
 ## Reservations
 
-**Pokemon Cafe Osaka:** If you wanted this, reservation should have been made ~Jun 21 (31 days prior).
-
-**Card shops:** No reservations — just walk in!
+<div class="alert alert-warning">
+<p class="alert-title">Pokemon Cafe Osaka — MUST BOOK AHEAD</p>
+<p>Reservation required. Opens 31 days ahead at 6 PM JST.</p>
+<p><strong>Booking date:</strong> June 25, 2026 at 6 PM JST</p>
+<p>Book for all 4 family members!</p>
+</div>

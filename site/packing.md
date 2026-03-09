@@ -27,7 +27,7 @@ Interactive checklist — your progress saves automatically in your browser.
   </li>
   <li class="checklist-item">
     <input type="checkbox" id="ess-4">
-    <label for="ess-4">JR Pass (if using) — exchange voucher</label>
+    <label for="ess-4">Travel insurance documents</label>
   </li>
   <li class="checklist-item">
     <input type="checkbox" id="ess-5">
@@ -43,7 +43,7 @@ Interactive checklist — your progress saves automatically in your browser.
   </li>
   <li class="checklist-item">
     <input type="checkbox" id="ess-8">
-    <label for="ess-8">Portable WiFi / SIM card info</label>
+    <label for="ess-8">eSIMs installed and activated (one per phone)</label>
   </li>
 </ul>
 
@@ -247,7 +247,7 @@ What to carry daily:
   </li>
   <li class="checklist-item">
     <input type="checkbox" id="day-3">
-    <label for="day-3">Portable WiFi</label>
+    <label for="day-3">Phone with eSIM</label>
   </li>
   <li class="checklist-item">
     <input type="checkbox" id="day-4">
