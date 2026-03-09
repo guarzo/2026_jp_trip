@@ -269,6 +269,11 @@ MIMARU apartment hotels are ideal for families because:
 
 **DL294 departs 3:15 PM — be at airport by 12:00-12:30 PM**
 
+**At the airport (Japan side):**
+- Tax-free purchases will be verified against passport records
+- Keep all tax-free paperwork accessible until after US customs
+- Allow extra time if checking inventory-heavy suitcases
+
 **Tokyo to Narita (NRT):**
 - Narita Express from Tokyo Station (~1 hour)
 - Allow 3 hours before international flights

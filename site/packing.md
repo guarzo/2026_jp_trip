@@ -31,11 +31,7 @@ Interactive checklist — your progress saves automatically in your browser.
   </li>
   <li class="checklist-item">
     <input type="checkbox" id="ess-5">
-    <label for="ess-5">Travel insurance documents</label>
-  </li>
-  <li class="checklist-item">
-    <input type="checkbox" id="ess-6">
-    <label for="ess-6">Credit cards (notify bank of travel)</label>
+    <label for="ess-5">Credit cards (notify bank of travel)</label>
   </li>
   <li class="checklist-item">
     <input type="checkbox" id="ess-7">
@@ -132,23 +128,35 @@ Interactive checklist — your progress saves automatically in your browser.
 <ul class="checklist" data-list-id="pokemon">
   <li class="checklist-item">
     <input type="checkbox" id="poke-1">
-    <label for="poke-1">Card sleeves (bring extras for purchases)</label>
+    <label for="poke-1">Card sleeves — penny sleeves (500+) and premium sleeves for hits</label>
   </li>
   <li class="checklist-item">
     <input type="checkbox" id="poke-2">
-    <label for="poke-2">Toploaders</label>
+    <label for="poke-2">Toploaders (50+)</label>
   </li>
   <li class="checklist-item">
     <input type="checkbox" id="poke-3">
-    <label for="poke-3">Small binder for valuable singles</label>
+    <label for="poke-3">Binders for high-value singles</label>
   </li>
   <li class="checklist-item">
     <input type="checkbox" id="poke-4">
-    <label for="poke-4">Target list printout (from Pokemon page)</label>
+    <label for="poke-4">Target list + price reference printout (from Pokemon page)</label>
   </li>
   <li class="checklist-item">
     <input type="checkbox" id="poke-5">
-    <label for="poke-5">Price reference notes</label>
+    <label for="poke-5">1-2 empty suitcases or collapsible bags for inventory</label>
+  </li>
+  <li class="checklist-item">
+    <input type="checkbox" id="poke-6">
+    <label for="poke-6">Bubble wrap / padding for sealed boxes</label>
+  </li>
+  <li class="checklist-item">
+    <input type="checkbox" id="poke-7">
+    <label for="poke-7">Packing tape</label>
+  </li>
+  <li class="checklist-item">
+    <input type="checkbox" id="poke-8">
+    <label for="poke-8">Receipt envelope / organizer (separate business vs personal)</label>
   </li>
 </ul>
 
@@ -339,4 +347,5 @@ What to carry daily:
 
 - **Laundry:** All recommended hotels have laundry facilities. Pack for ~5 days and wash mid-trip.
 - **Buy there:** Many toiletries are cheaper/better in Japan (cooling sheets, face wipes, etc.)
-- **Leave room:** Save luggage space for purchases!
+- **Leave room:** Bring 1-2 empty suitcases for Pokemon card inventory. Pack clothes light — you have laundry.
+- **Tax-free receipts:** Keep tax-free paperwork stapled to passport until clearing US customs

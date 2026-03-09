@@ -106,13 +106,24 @@ highlights:
 
 ## Departure Checklist
 
-- [ ] All bags packed
+- [ ] All bags packed (inventory suitcases secured)
 - [ ] Nothing left in hotel room
-- [ ] Passport accessible
+- [ ] Passport accessible (with tax-free receipts attached)
 - [ ] Flight info handy
-- [ ] Cards secured in carry-on
+- [ ] High-value cards in carry-on (NEVER checked luggage)
+- [ ] Business receipts organized and accessible for US customs
+- [ ] Customs declaration form filled out (separate personal vs business)
 - [ ] Phone charged
 - [ ] Snacks for the plane
+
+## Customs Reminder
+
+<div class="alert alert-warning">
+<p class="alert-title">US Customs Declaration</p>
+<p><strong>Personal exemption:</strong> $800 per person ($3,200 family total).</p>
+<p><strong>Business inventory:</strong> Declare separately regardless of value. Have receipts organized. Declare honestly — it protects you and your business.</p>
+<p><strong>Japan side:</strong> Tax-free items will be verified against your passport records at departure. Keep all tax-free paperwork until you clear US customs.</p>
+</div>
 
 ---
 

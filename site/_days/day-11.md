@@ -73,7 +73,8 @@ highlights:
 <li>Focus on remaining target list cards</li>
 <li>Stock up on supplies (sleeves, toploaders) if needed</li>
 </ul>
-<p><strong>Key shops:</strong> Card Labo, FullComp, Hobby Station, various shops in Radio Kaikan</p>
+<p><strong>Key shops:</strong> Hareruya 2 (5-floor Pokemon specialty!), Card Labo, FullComp, Hobby Station, Mandarake, Radio Kaikan building</p>
+<p><strong>Business tip:</strong> Check Yodobashi Camera Akihabara for sealed booster boxes at MSRP. Tax-free on purchases over ¥5,000 — have passport ready.</p>
 <div class="activity-meta">
 <a href="https://maps.google.com/?q=Radio+Kaikan+Akihabara">📍 Radio Kaikan Area</a>
 </div>

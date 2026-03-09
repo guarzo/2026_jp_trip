@@ -58,7 +58,8 @@ reservations:
 <li>Compare across shops for anything new</li>
 <li>Don't hesitate — this is your main card hunting day</li>
 </ol>
-<p><strong>Shops to hit:</strong> Card Labo, Hobby Station, various smaller shops in the area</p>
+<p><strong>Shops to hit:</strong> Card Labo, Hobby Station, Mandarake Namba (bulk/vintage), Book-Off (discounted sealed), various smaller shops</p>
+<p><strong>Business tip:</strong> Ask for tax-free on purchases over ¥5,000 per store. Have passport ready. Consolidate purchases at one store when possible.</p>
 <div class="activity-meta">
 <a href="https://maps.google.com/?q=Nipponbashi+Osaka">📍 Nipponbashi Area</a>
 <span>⏱️ 2-3 hours</span>
