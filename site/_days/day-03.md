@@ -78,6 +78,15 @@ reservations:
 </div>
 </div>
 
+<div class="activity-card">
+<h3>Kiddy Land (Omotesando)</h3>
+<p>A short walk from Takeshita Street on Omotesando avenue. Multi-floor toy store packed with character goods — Pokemon, Sanrio, Ghibli, Disney, and Japanese pop culture. The best place in Harajuku for kids!</p>
+<p><strong>Tip:</strong> Even just browsing is a blast. Budget some time here — it's hard to leave empty-handed.</p>
+<div class="activity-meta">
+<a href="https://maps.google.com/?q=Kiddyland+Harajuku">📍 Get Directions</a>
+</div>
+</div>
+
 </div>
 
 ## Evening

@@ -61,10 +61,18 @@ highlights:
 <div class="activity-time">🌙 Evening</div>
 
 <div class="activity-card">
-<h3>Gion / Pontocho Dinner Walk</h3>
-<p>As it cools down, walk through Gion (the geisha district) and Pontocho (narrow alley along the river with restaurants).</p>
-<p><strong>Gion:</strong> Traditional wooden machiya townhouses, possibly spot a geiko or maiko</p>
-<p><strong>Pontocho:</strong> Atmospheric dining alley — peek at menus and pick a spot</p>
+<h3>Gion Hanamikoji Street</h3>
+<p>As it cools down, walk through Gion's most famous street — Hanamikoji-dori. This is the iconic geisha district with beautifully preserved wooden machiya townhouses, traditional tea houses, and an atmosphere straight out of old Japan. You may spot a geiko or maiko heading to an evening engagement.</p>
+<div class="activity-meta">
+<a href="https://maps.google.com/?q=Hanamikoji+Street+Gion+Kyoto">📍 Hanamikoji Street</a>
+</div>
+</div>
+
+<div class="activity-card">
+<h3>Kawadoko River Dining</h3>
+<p>July is the season for Kawadoko — dining on wooden platforms built over the river! This is a uniquely Kyoto summer experience. Pontocho alley has several restaurants with Kawadoko terraces extending over the Kamogawa River.</p>
+<p><strong>What to expect:</strong> Enjoy dinner while sitting over the flowing water with a cool river breeze. Restaurants serve a range from casual to kaiseki (multi-course). The atmosphere at dusk is magical.</p>
+<p><strong>Tip:</strong> Reservations recommended for Kawadoko seating, especially on weekends. Ask for "Kawadoko" (川床) when booking.</p>
 <div class="activity-meta">
 <a href="https://maps.google.com/?q=Pontocho+Kyoto">📍 Pontocho</a>
 </div>

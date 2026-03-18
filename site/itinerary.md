@@ -76,8 +76,8 @@ Click any day for full details, maps, and family notes.
     <span class="itinerary-day-date">Thu 7/23</span>
   </div>
   <div class="itinerary-content">
-    <h3><a href="{{ '/days/day-06/' | relative_url }}">Arashiyama + Manga Museum</a></h3>
-    <p>Bamboo grove, monkey park, manga museum afternoon</p>
+    <h3><a href="{{ '/days/day-06/' | relative_url }}">Arashiyama + Nintendo + Manga</a></h3>
+    <p>Bamboo grove, monkey park, Nintendo Museum, manga museum</p>
     <span class="itinerary-location">Kyoto</span>
   </div>
 </li>

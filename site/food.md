@@ -72,7 +72,7 @@ Specific places we want to try (add as we research):
 
 | Restaurant | Area | What | Priority | Booked? |
 |------------|------|------|----------|---------|
-| | | | | |
+| Kawadoko restaurant (TBD) | Pontocho | River platform dining — July seasonal! | High | Pending |
 | | | | | |
 
 ### Osaka

@@ -21,7 +21,7 @@ highlights:
 <div class="activity-card">
 <h3>Airport → Hotel</h3>
 <p>Clear customs, pick up eSIMs if not already activated, get IC cards (Suica/Pasmo) for trains, and head to the hotel.</p>
-<p><strong>Get Yen:</strong> Airport ATM or convenience store ATM (7-Eleven works great with foreign cards)</p>
+<p><strong>Get Yen:</strong> Exchange dollars to yen at the airport — highly recommended! Many temples, shrines, and smaller shops are cash-only. Airport ATMs (7-Eleven) also work great with foreign cards.</p>
 </div>
 
 <div class="activity-card">
@@ -50,6 +50,12 @@ highlights:
 <a href="https://maps.google.com/?q=Sensoji+Temple+Asakusa">📍 Get Directions</a>
 <span>⏱️ 45-60 min</span>
 </div>
+</div>
+
+<div class="activity-card">
+<h3>Dinner Near Sensoji</h3>
+<p>The Asakusa area around Sensoji has excellent traditional restaurants — Sukiyaki, Tempura, Sushi, and more. If you're feeling up to it after the long flight, this is a great chance to have your first real Japanese meal in an atmospheric neighborhood.</p>
+<p><strong>If jet lag wins:</strong> No shame in grabbing konbini food and calling it early — convenience stores are everywhere and the food is genuinely great. You have 12 more days for sit-down meals!</p>
 </div>
 
 </div>

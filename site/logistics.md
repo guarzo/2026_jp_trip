@@ -108,6 +108,13 @@ All transportation and accommodation details in one place.
   </div>
 </div>
 
+### Cash — Bring Yen!
+
+<div class="alert alert-warning">
+  <p class="alert-title">Temples & Shrines Are Cash-Only</p>
+  <p>Many temples, shrines, and smaller traditional shops only accept cash. Exchange dollars to yen at the airport on arrival — rates are reasonable and it's the most convenient time to do it. You'll need cash for temple admissions, omamori (charms), shrine offerings, vending machines, and festival stalls.</p>
+</div>
+
 ### JR Pass — Skip It
 
 <div class="alert alert-info">

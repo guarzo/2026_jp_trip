@@ -53,6 +53,7 @@ reservations:
 <div class="activity-card">
 <h3>Inokashira Park</h3>
 <p>Beautiful park right next to the museum. Perfect for decompression — rent a swan boat, walk around the pond, find a shady bench.</p>
+<p><strong>Small zoo:</strong> The park has a small free zoo (Inokashira Park Zoo) with Japanese animals, birds, and a small aquatic section. Low-key and fun — a nice way to pass time without any pressure.</p>
 <p><strong>Tip:</strong> Great for resetting your internal clock. Natural light + gentle activity helps beat jet lag.</p>
 <div class="activity-meta">
 <a href="https://maps.google.com/?q=Inokashira+Park">📍 Get Directions</a>
