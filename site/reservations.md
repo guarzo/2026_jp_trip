@@ -81,6 +81,45 @@ Update status as reservations are made.
   <p class="reservation-note">Guaranteed front-row parade views with shade. Recommended for family comfort in July heat.</p>
 </div>
 
+<div class="reservation-card recommended">
+  <div class="reservation-header">
+    <h3>Asakusa Sumo Show + Chankonabe</h3>
+    <span class="status status-pending">Pending</span>
+  </div>
+  <div class="reservation-details">
+    <div class="detail"><strong>Trip Date:</strong> Sat, July 18 (Day 1)</div>
+    <div class="detail"><strong>Book By:</strong> A few weeks ahead on Klook</div>
+    <div class="detail"><strong>Owner:</strong> —</div>
+  </div>
+  <p class="reservation-note">Fixed evening show time. Dinner included. <a href="https://www.klook.com/en-US/activity/109994-asakusa-sumo-club-sumo-show-admission-chankonabe-tokyo/">Klook listing</a>.</p>
+</div>
+
+<div class="reservation-card recommended">
+  <div class="reservation-header">
+    <h3>Micro Pig Cafe (Asakusa)</h3>
+    <span class="status status-pending">Pending</span>
+  </div>
+  <div class="reservation-details">
+    <div class="detail"><strong>Trip Date:</strong> Sat, July 18 (Day 1)</div>
+    <div class="detail"><strong>Book By:</strong> 1–2 weeks ahead on Klook</div>
+    <div class="detail"><strong>Owner:</strong> —</div>
+  </div>
+  <p class="reservation-note">Late-afternoon timed slot (~5 PM) bridges check-in to Sensoji. <a href="https://www.klook.com/en-US/activity/174931-micro-pig-cafe-experience-in-aasakusa/">Klook listing</a>.</p>
+</div>
+
+<div class="reservation-card recommended">
+  <div class="reservation-header">
+    <h3>Capyneko Cafe (Harajuku)</h3>
+    <span class="status status-pending">Pending</span>
+  </div>
+  <div class="reservation-details">
+    <div class="detail"><strong>Trip Date:</strong> Mon, July 20 (Day 3)</div>
+    <div class="detail"><strong>Book By:</strong> 1–2 weeks ahead on Klook</div>
+    <div class="detail"><strong>Owner:</strong> —</div>
+  </div>
+  <p class="reservation-note">Capybara + cat interaction cafe. Pick an afternoon slot that lines up with the Harajuku block. <a href="https://www.klook.com/en-US/activity/207318-interaction-with-capybaras-and-cats-capyneko-cafe-harajuku/">Klook listing</a>.</p>
+</div>
+
 ---
 
 ## Booking Calendar
@@ -107,6 +146,10 @@ Set reminders for these dates:
   <div class="timeline-item">
     <div class="timeline-date">TBD</div>
     <div class="timeline-action">Book Gion Matsuri paid seating (check official site)</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">Early July 2026</div>
+    <div class="timeline-action">Book Klook items: Sumo show + chankonabe (Day 1), Micro Pig Cafe (Day 1), Capyneko Cafe (Day 3)</div>
   </div>
 </div>
 

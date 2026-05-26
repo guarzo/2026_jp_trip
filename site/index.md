@@ -69,11 +69,16 @@ title: Home
   <p>Guarantees front-row parade views with shade. Check official Gion Matsuri site for booking.</p>
 </div>
 
+<div class="alert alert-info">
+<p class="alert-title">Klook bookings — Day 1 & Day 3</p>
+<p>Asakusa Sumo Show + chankonabe and Micro Pig Cafe (Day 1), Capyneko Cafe Harajuku (Day 3). All open scheduling now — book once dates lock.</p>
+</div>
+
 <h2 class="section-heading">🗾 Trip Overview</h2>
 
 | Dates | Location | Nights | Highlights |
 |-------|----------|--------|------------|
-| Jul 18–21 | **Tokyo** | 3 | Sensoji, Ghibli Museum, teamLab Planets, Shibuya, Pokemon Center |
+| Jul 18–21 | **Tokyo** | 3 | Sensoji, Sumo show, Ghibli Museum, teamLab Planets, Capyneko, Pokemon Center |
 | Jul 21–24 | **Kyoto** | 3 | Fushimi Inari, Arashiyama, Manga Museum, Gion Matsuri Parade |
 | Jul 24–28 | **Osaka** | 4 | Dotonbori, Tenjin Matsuri, Pokemon Center DX + Cafe, Nara deer |
 | Jul 28–30 | **Tokyo** | 2 | Pokemon Center MEGA, Akihabara, PokePark KANTO |

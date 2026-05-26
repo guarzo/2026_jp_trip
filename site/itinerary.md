@@ -16,8 +16,8 @@ Click any day for full details, maps, and family notes.
     <span class="itinerary-day-date">Sat 7/18</span>
   </div>
   <div class="itinerary-content">
-    <h3><a href="{{ '/days/day-01/' | relative_url }}">Arrive Tokyo + Sensoji</a></h3>
-    <p>Land at 2:15 PM, check-in, konbini run, Sensoji Temple evening walk</p>
+    <h3><a href="{{ '/days/day-01/' | relative_url }}">Arrive Tokyo + Sensoji + Sumo Show</a></h3>
+    <p>Land at 2:15 PM, micro pig cafe, Sensoji evening, sumo show + chankonabe dinner</p>
     <span class="itinerary-location">Tokyo</span>
   </div>
 </li>
@@ -41,7 +41,7 @@ Click any day for full details, maps, and family notes.
   </div>
   <div class="itinerary-content">
     <h3><a href="{{ '/days/day-03/' | relative_url }}">teamLab Planets + Shibuya</a></h3>
-    <p>Immersive art morning, Pokemon Center Shibuya, Harajuku afternoon</p>
+    <p>Immersive art morning, Pokemon Center Shibuya, Capyneko Cafe + Harajuku afternoon</p>
     <span class="itinerary-location">Tokyo (Toyosu + Shibuya)</span>
   </div>
 </li>

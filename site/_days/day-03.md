@@ -8,10 +8,13 @@ hero_alt: "Shibuya Crossing - the world's busiest pedestrian intersection"
 highlights:
   - teamLab Planets
   - Pokemon Center
+  - Capyneko Cafe
   - Harajuku
 reservations:
   - name: teamLab Planets
     note: Timed entry required — book 1-2 weeks ahead
+  - name: Capyneko Cafe (Harajuku)
+    note: Timed entry — book afternoon slot via Klook
 ---
 
 <img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
@@ -75,6 +78,16 @@ reservations:
 <p><strong>Good for:</strong> Unique shops, street fashion, cafes, teen culture — the kids will love this!</p>
 <div class="activity-meta">
 <a href="https://maps.google.com/?q=Takeshita+Street+Harajuku">📍 Takeshita Street</a>
+</div>
+</div>
+
+<div class="activity-card">
+<h3>🐹 Capyneko Cafe (Harajuku)</h3>
+<p>Interactive cafe with capybaras and cats — calm, AC, and a perfect midday heat-shelter after walking Takeshita Street. Book a timed slot via Klook.</p>
+<p><strong>Tip:</strong> Slots are short (~30–45 min). Pick one that lines up with your Harajuku window so it slots in between Takeshita Street and Kiddy Land.</p>
+<div class="activity-meta">
+<a href="https://www.klook.com/en-US/activity/207318-interaction-with-capybaras-and-cats-capyneko-cafe-harajuku/">🎟️ Klook listing</a>
+<span>⏱️ ~30–45 min</span>
 </div>
 </div>
 
