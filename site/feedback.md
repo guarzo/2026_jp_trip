@@ -13,6 +13,12 @@ Use this page to discuss the trip, vote on decisions, and share ideas!
 
 ## Decided
 
+### ~~PokePark KANTO~~ → Mt. Fuji Day Trip (Day 12)
+
+<div class="alert alert-info">
+<p><strong>Decision:</strong> Swapped the PokePark KANTO day for a Mt. Fuji day trip to Kawaguchiko on Day 12 (July 29). Views are the priority — Kawaguchiko is the closest base to the mountain and gives the best odds of seeing it. Early start to beat the summer haze; Chureito Pagoda + Lake Kawaguchi for views, with Fuji-Q coasters / onsen as a teen-friendly bad-weather backup. Book the direct express train seats (mandatory reservation) once the date locks.</p>
+</div>
+
 ### ~~Universal Studios Japan~~ — Skip
 
 <div class="alert alert-info">

@@ -14,19 +14,6 @@ Update status as reservations are made.
 
 <div class="reservation-card critical">
   <div class="reservation-header">
-    <h3>PokePark KANTO</h3>
-    <span class="status status-pending">Pending</span>
-  </div>
-  <div class="reservation-details">
-    <div class="detail"><strong>Trip Date:</strong> Wed, July 29 (Day 12)</div>
-    <div class="detail"><strong>Book By:</strong> Late May 2026 at 6 PM JST</div>
-    <div class="detail"><strong>Owner:</strong> —</div>
-  </div>
-  <p class="reservation-note">Opens 2 months ahead at 6 PM JST. Be ready the moment it opens!</p>
-</div>
-
-<div class="reservation-card critical">
-  <div class="reservation-header">
     <h3>Ghibli Museum</h3>
     <span class="status status-pending">Pending</span>
   </div>
@@ -54,6 +41,19 @@ Update status as reservations are made.
 ---
 
 ## Strongly Recommended
+
+<div class="reservation-card recommended">
+  <div class="reservation-header">
+    <h3>Mt. Fuji Train Seats (Shinjuku ⇄ Kawaguchiko)</h3>
+    <span class="status status-pending">Pending</span>
+  </div>
+  <div class="reservation-details">
+    <div class="detail"><strong>Trip Date:</strong> Wed, July 29 (Day 12)</div>
+    <div class="detail"><strong>Book By:</strong> As soon as the date locks</div>
+    <div class="detail"><strong>Owner:</strong> —</div>
+  </div>
+  <p class="reservation-note">Direct Fuji Excursion limited express requires mandatory seat reservations and runs only a few times daily — book round-trip. Highway bus from Busta Shinjuku is the cheaper backup (reserve online, ~¥2,000). Aim for the earliest departure for the best Fuji views.</p>
+</div>
 
 <div class="reservation-card recommended">
   <div class="reservation-header">
@@ -128,8 +128,8 @@ Set reminders for these dates:
 
 <div class="booking-timeline">
   <div class="timeline-item">
-    <div class="timeline-date">Late May 2026</div>
-    <div class="timeline-action">Book PokePark KANTO (6 PM JST)</div>
+    <div class="timeline-date">When date locks</div>
+    <div class="timeline-action">Book Mt. Fuji train seats — Fuji Excursion express, round-trip (or reserve highway bus)</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">June 25, 2026</div>
@@ -160,9 +160,9 @@ Set reminders for these dates:
 Once booked, update here:
 
 <div class="confirmation-box">
-  <h4>PokePark KANTO</h4>
+  <h4>Mt. Fuji Train Seats (Shinjuku ⇄ Kawaguchiko)</h4>
   <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
-  <p><strong>Date/Time:</strong> Wed 7/29, ___:___</p>
+  <p><strong>Date/Time:</strong> Wed 7/29, out ___:___ / return ___:___</p>
 </div>
 
 <div class="confirmation-box">

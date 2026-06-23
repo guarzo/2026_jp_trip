@@ -148,9 +148,9 @@ Click any day for full details, maps, and family notes.
     <span class="itinerary-day-date">Wed 7/29</span>
   </div>
   <div class="itinerary-content">
-    <h3><a href="{{ '/days/day-12/' | relative_url }}">PokePark KANTO</a></h3>
-    <p>Full day at PokePark (anchor day!), light evening</p>
-    <span class="itinerary-location">Tokyo</span>
+    <h3><a href="{{ '/days/day-12/' | relative_url }}">Mt. Fuji Day Trip (Kawaguchiko)</a></h3>
+    <p>Early start for Fuji views — Chureito Pagoda, Lake Kawaguchi, ropeway, Fuji-Q/onsen backup</p>
+    <span class="itinerary-location">Tokyo → Kawaguchiko → Tokyo</span>
   </div>
 </li>
 

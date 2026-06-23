@@ -50,8 +50,8 @@ title: Home
 <h2 class="section-heading">⚠️ Upcoming Booking Deadlines</h2>
 
 <div class="alert alert-warning">
-  <p class="alert-title">PokePark KANTO (Day 12 — July 29)</p>
-  <p>Tickets open 2 months ahead at 6 PM JST. Target booking: late May 2026.</p>
+  <p class="alert-title">Mt. Fuji Train Seats (Day 12 — July 29)</p>
+  <p>The direct Fuji Excursion limited express (Shinjuku ⇄ Kawaguchiko) requires mandatory seat reservations and only runs a few times daily. Book once dates lock. Highway bus is the cheaper backup — reserve online.</p>
 </div>
 
 <div class="alert alert-info">
@@ -81,7 +81,7 @@ title: Home
 | Jul 18–21 | **Tokyo** | 3 | Sensoji, Sumo show, Ghibli Museum, teamLab Planets, Capyneko, Pokemon Center |
 | Jul 21–24 | **Kyoto** | 3 | Fushimi Inari, Arashiyama, Manga Museum, Gion Matsuri Parade |
 | Jul 24–28 | **Osaka** | 4 | Dotonbori, Tenjin Matsuri, Pokemon Center DX + Cafe, Nara deer |
-| Jul 28–30 | **Tokyo** | 2 | Pokemon Center MEGA, Akihabara, PokePark KANTO |
+| Jul 28–30 | **Tokyo** | 2 | Pokemon Center MEGA, Akihabara, Mt. Fuji day trip |
 | Jul 30 | **Depart** | — | Relaxed morning, DL294 at 3:15 PM |
 
 <h2 class="section-heading">✈️ Flights</h2>

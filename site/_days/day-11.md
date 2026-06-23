@@ -92,7 +92,7 @@ highlights:
 
 <div class="activity-card">
 <h3>Dinner + Early Night</h3>
-<p>Grab dinner in Akihabara before heading back. Don't stay out too late — PokePark tomorrow!</p>
+<p>Grab dinner in Akihabara before heading back. Don't stay out too late — early start for the Mt. Fuji day trip tomorrow!</p>
 </div>
 
 </div>
