@@ -47,41 +47,36 @@ title: Home
   </a>
 </nav>
 
-<h2 class="section-heading">⚠️ Upcoming Booking Deadlines</h2>
+<h2 class="section-heading">✅ Booking Status</h2>
+
+<div class="alert alert-info">
+  <p class="alert-title">Confirmed</p>
+  <p>Micro Pig Cafe (Day 2, Jul 19 · 12 PM) · teamLab Planets (Day 3, Jul 20 · 11:30 AM) · Capyneko Cafe (Day 3, Jul 20 · 4 PM) · Kyoto riverside terrace dinner (Day 6, Jul 23 · 7 PM, GSLCJ3) · Pokemon Center Osaka (Day 9) · Mt. Fuji guided tour (Day 12, Jul 29 · 8:30 AM) · Hotels: KOKO Asakusa, Nikko Princess Kyoto.</p>
+</div>
 
 <div class="alert alert-warning">
-  <p class="alert-title">Mt. Fuji Train Seats (Day 12 — July 29)</p>
-  <p>The direct Fuji Excursion limited express (Shinjuku ⇄ Kawaguchiko) requires mandatory seat reservations and only runs a few times daily. Book once dates lock. Highway bus is the cheaper backup — reserve online.</p>
+  <p class="alert-title">Still To Book</p>
+  <p>Shinkansen reserved seats: Tokyo → Kyoto (Day 4, Jul 21) and Shin-Osaka → Tokyo (Day 11, Jul 28). Book via SmartEX or at a JR counter.</p>
 </div>
 
 <div class="alert alert-info">
-  <p class="alert-title">Ghibli Museum (Day 2 — July 19)</p>
-  <p>Advance reservation required. Book a late morning slot (11 AM or 12 PM). Check official site for July ticket release dates.</p>
+  <p class="alert-title">Gion Matsuri (Day 7 — July 24)</p>
+  <p>Ato Matsuri parade starts 9:30 AM. Confirm seat details if you've reserved; otherwise stake out a shaded spot early.</p>
 </div>
 
 <div class="alert alert-info">
-  <p class="alert-title">Pokemon Cafe Osaka (Day 9 — July 26)</p>
-  <p>Opens 31 days before. Book on June 25 at 6 PM JST.</p>
-</div>
-
-<div class="alert alert-info">
-  <p class="alert-title">Gion Matsuri Paid Seating (Day 7 — July 24)</p>
-  <p>Guarantees front-row parade views with shade. Check official Gion Matsuri site for booking.</p>
-</div>
-
-<div class="alert alert-info">
-<p class="alert-title">Klook bookings — Day 1 & Day 3</p>
-<p>Asakusa Sumo Show + chankonabe and Micro Pig Cafe (Day 1), Capyneko Cafe Harajuku (Day 3). All open scheduling now — book once dates lock.</p>
+  <p class="alert-title">No longer happening</p>
+  <p>Sumo show, Ghibli Museum, Nintendo Museum, and Pokemon Cafe were all sold out / fully booked — removed from the plan and replaced with the updates above.</p>
 </div>
 
 <h2 class="section-heading">🗾 Trip Overview</h2>
 
 | Dates | Location | Nights | Highlights |
 |-------|----------|--------|------------|
-| Jul 18–21 | **Tokyo** | 3 | Sensoji, Sumo show, Ghibli Museum, teamLab Planets, Capyneko, Pokemon Center |
-| Jul 21–24 | **Kyoto** | 3 | Fushimi Inari, Arashiyama, Manga Museum, Gion Matsuri Parade |
-| Jul 24–28 | **Osaka** | 4 | Dotonbori, Tenjin Matsuri, Pokemon Center DX + Cafe, Nara deer |
-| Jul 28–30 | **Tokyo** | 2 | Pokemon Center MEGA, Akihabara, Mt. Fuji day trip |
+| Jul 18–21 | **Tokyo** | 3 | Sensoji, Micro Pig Cafe, teamLab Planets, Capyneko, Pokemon Center |
+| Jul 21–24 | **Kyoto** | 3 | Fushimi Inari, Arashiyama, Manga Museum, terrace dinner, Gion Matsuri |
+| Jul 24–28 | **Osaka** | 4 | Dotonbori, Tenjin Matsuri, Pokemon Center DX, Nara deer |
+| Jul 28–30 | **Tokyo** | 2 | Pokemon Center MEGA, Akihabara, Mt. Fuji guided tour |
 | Jul 30 | **Depart** | — | Relaxed morning, DL294 at 3:15 PM |
 
 <h2 class="section-heading">✈️ Flights</h2>

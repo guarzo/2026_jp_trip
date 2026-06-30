@@ -150,24 +150,23 @@ We only have 2 long shinkansen trips (Tokyo↔Kyoto, Osaka↔Tokyo). The JR Pass
 **Dates:** 3 nights (arrival) + 2 nights (final) = 5 nights total
 
 <div class="logistics-card">
-  <h3><span class="icon">🏨</span> Booked Hotel</h3>
+  <h3><span class="icon">🏨</span> Booked Hotel — First Stay (Jul 18–21)</h3>
   <div class="hotel-card">
-    <h4>TBD</h4>
+    <h4>KOKO Hotel Residence Asakusa Tawaramachi</h4>
     <div class="segment-details">
-      <p><strong>Status:</strong> <span class="status status-pending">Pending</span></p>
+      <p><strong>Status:</strong> <span class="status status-booked">Booked</span></p>
+      <p><strong>Area:</strong> Asakusa (Tawaramachi) — near Sensoji, Micro Pig Cafe, Sumida River</p>
+      <p><strong>Dates:</strong> Jul 18–21 (3 nights)</p>
       <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
       <p><strong>Check-in:</strong> 3:00 PM | <strong>Check-out:</strong> 11:00 AM</p>
     </div>
   </div>
 </div>
 
-**Recommended Options:**
-
-| Hotel | Area | Why | Link |
-|-------|------|-----|------|
-| **MIMARU Tokyo Asakusa Station** | Asakusa | 1 min from station, family rooms with kitchen, near Sensoji | [Book](https://mimaruhotels.com/en/hotel/asakusa-station/) |
-| **MIMARU SUITES Tokyo Asakusa** | Asakusa | 2-bedroom suites, more space for family | [Book](https://mimaruhotels.com/en/hotel/suites-tokyo-asakusa/) |
-| **MIMARU Tokyo Shinjuku West** | Shinjuku | Big city energy, great transit hub, near arcades | [Book](https://mimaruhotels.com/en/hotel/shinjuku-west/) |
+<div class="alert alert-info">
+  <p class="alert-title">Final Tokyo stay (Jul 28–30) — still TBD</p>
+  <p>The last 2 nights after returning from Osaka aren't booked yet. Asakusa keeps it consistent with the first stay; Ikebukuro/Shinjuku would cut the Day 11 Pokemon Center MEGA and Day 12 Mt. Fuji tour commutes.</p>
+</div>
 
 ---
 
@@ -178,22 +177,16 @@ We only have 2 long shinkansen trips (Tokyo↔Kyoto, Osaka↔Tokyo). The JR Pass
 <div class="logistics-card">
   <h3><span class="icon">🏨</span> Booked Hotel</h3>
   <div class="hotel-card">
-    <h4>TBD</h4>
+    <h4>Hotel Nikko Princess Kyoto</h4>
     <div class="segment-details">
-      <p><strong>Status:</strong> <span class="status status-pending">Pending</span></p>
+      <p><strong>Status:</strong> <span class="status status-booked">Booked</span></p>
+      <p><strong>Area:</strong> Shijo-Karasuma / downtown — central, walkable to Gion & Nishiki</p>
+      <p><strong>Dates:</strong> Jul 21–24 (3 nights)</p>
       <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
       <p><strong>Check-in:</strong> 3:00 PM | <strong>Check-out:</strong> 11:00 AM</p>
     </div>
   </div>
 </div>
-
-**Recommended Options:**
-
-| Hotel | Area | Why | Link |
-|-------|------|-----|------|
-| **MIMARU Kyoto Station** | Kyoto Station | Best for rail access, easy day trips | [Book](https://mimaruhotels.com/en/hotel/kyoto-station/) |
-| **MIMARU Kyoto Kawaramachi Gojo** | Higashiyama | Near Kiyomizu-dera & Gion, largest MIMARU in Kyoto, has Pokemon rooms! | [Book](https://mimaruhotels.com/en/hotel/kawaramachi-gojo/) |
-| **Tokyu Stay Kyoto Sanjo-Karasuma** | Downtown | Washer/dryer in room, great location, walking distance to sights | [Book](https://www.tokyustay.co.jp/en/hotel/kyoto-sanjo-karasuma/) |
 
 ---
 
@@ -238,8 +231,8 @@ MIMARU apartment hotels are ideal for families because:
 
 | Segment | Dates | Nights | Location |
 |---------|-------|--------|----------|
-| Tokyo 1 | Jul 18-21 | 3 | TBD |
-| Kyoto | Jul 21-24 | 3 | TBD |
+| Tokyo 1 | Jul 18-21 | 3 | KOKO Hotel Residence Asakusa Tawaramachi |
+| Kyoto | Jul 21-24 | 3 | Hotel Nikko Princess Kyoto |
 | Osaka | Jul 24-28 | 4 | TBD |
 | Tokyo 2 | Jul 28-30 | 2 | TBD |
 | **Total** | | **12** | |

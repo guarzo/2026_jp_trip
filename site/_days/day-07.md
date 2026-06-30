@@ -1,30 +1,30 @@
 ---
 day_number: 7
-title: "Gion Matsuri Parade → Osaka"
+title: "Gion Matsuri (Ato Matsuri) → Osaka"
 date_display: "Fri, July 24"
 location: "Kyoto → Osaka"
 hero_image: "https://www.japan-guide.com/g18/3942_top.jpg"
 hero_alt: "Gion Matsuri - one of Japan's most famous festivals"
 highlights:
-  - Float Parade
-  - Paid Seating
+  - Ato Matsuri Parade
+  - 9:30 AM Start
   - Dotonbori
 reservations:
-  - name: Gion Matsuri Paid Seating
-    note: Recommended — guarantees front-row views with shade
+  - name: Gion Matsuri seating (Ato Matsuri)
+    note: Parade starts 9:30 AM — confirm seat details if booked
 ---
 
 <img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
 
 <div class="alert alert-info">
 <p class="alert-title">Big Day — Parade + City Change</p>
-<p>Morning: Gion Matsuri parade (paid seating). Afternoon: train to Osaka. Evening: Dotonbori street food. Pack the night before!</p>
+<p>Morning: Gion Matsuri <strong>Ato Matsuri</strong> parade, starting 9:30 AM. Afternoon: train to Osaka. Evening: Dotonbori street food. Pack the night before!</p>
 </div>
 
-## Morning — GION MATSURI PARADE
+## Morning — GION MATSURI (ATO MATSURI)
 
 <div class="activity-block">
-<div class="activity-time">☀️ Morning — THE PARADE (paid seating)</div>
+<div class="activity-time">☀️ 9:30 AM — The Parade</div>
 
 <div class="activity-card">
 <h3>Kyoto Hotel Check-out</h3>
@@ -32,13 +32,13 @@ reservations:
 </div>
 
 <div class="activity-card">
-<h3>Gion Matsuri Yamaboko Junko</h3>
-<p>The main event! Giant decorated floats (yamaboko) are pulled through the streets. Some are several stories tall with musicians inside.</p>
-<p><strong>Route:</strong> The parade goes along Shijo-dori and Kawaramachi-dori</p>
-<p><strong>Timing:</strong> Parade typically runs ~9:00 AM - 12:00 PM</p>
-<p><strong>Your seats:</strong> Paid seating guarantees front-row views with shade — no need to arrive hours early or stand in July heat.</p>
+<h3>Gion Matsuri Ato Matsuri — Yamaboko Junko</h3>
+<p>The "after" parade on July 24. Giant decorated floats (yamaboko) are pulled through the streets — a smaller, more intimate procession than the July 17 Saki Matsuri, with its own set of floats.</p>
+<p><strong>Route:</strong> The Ato Matsuri runs in the reverse direction of the earlier parade, along Karasuma and Shijo-dori</p>
+<p><strong>Start time:</strong> 9:30 AM — be in your spot a bit early</p>
+<p><strong>Heat tip:</strong> Bring water, fans, and sun protection — even a morning parade in July is hot. Shaded seating helps a lot if you have it.</p>
 <div class="activity-meta">
-<a href="https://maps.google.com/?q=Shijo+Kawaramachi+Kyoto">📍 Parade Area</a>
+<a href="https://maps.google.com/?q=Karasuma+Oike+Kyoto">📍 Parade Area</a>
 </div>
 </div>
 
@@ -112,8 +112,8 @@ reservations:
 ## Reservations
 
 <div class="alert alert-warning">
-<p class="alert-title">Gion Matsuri Paid Seating — Book Ahead</p>
-<p>Guarantees front-row parade views with shade. Check the official Gion Matsuri website for booking info.</p>
+<p class="alert-title">Gion Matsuri Ato Matsuri Seating</p>
+<p>Parade starts <strong>9:30 AM on July 24</strong>. If you've booked paid/reserved seating, confirm the exact section and arrival time. Otherwise, stake out a shaded spot along the route early.</p>
 </div>
 
 ---

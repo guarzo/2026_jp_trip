@@ -6,150 +6,150 @@ permalink: /reservations/
 
 # Reservation Tracker
 
-Update status as reservations are made.
+Current status of all bookings.
 
 ---
 
-## Must-Book (Critical)
-
-<div class="reservation-card critical">
-  <div class="reservation-header">
-    <h3>Ghibli Museum</h3>
-    <span class="status status-pending">Pending</span>
-  </div>
-  <div class="reservation-details">
-    <div class="detail"><strong>Trip Date:</strong> Sun, July 19 (Day 2)</div>
-    <div class="detail"><strong>Book By:</strong> Check official site for July release</div>
-    <div class="detail"><strong>Owner:</strong> —</div>
-  </div>
-  <p class="reservation-note">Advance reservation only. No tickets sold at the museum. Book an 11 AM or 12 PM slot for jet-lag friendly timing.</p>
-</div>
-
-<div class="reservation-card critical">
-  <div class="reservation-header">
-    <h3>Pokemon Cafe Osaka</h3>
-    <span class="status status-pending">Pending</span>
-  </div>
-  <div class="reservation-details">
-    <div class="detail"><strong>Trip Date:</strong> Sun, July 26 (Day 9)</div>
-    <div class="detail"><strong>Book By:</strong> June 25, 2026 at 6 PM JST</div>
-    <div class="detail"><strong>Owner:</strong> —</div>
-  </div>
-  <p class="reservation-note">Opens 31 days ahead at 6 PM JST. Book for all 4 family members.</p>
-</div>
-
----
-
-## Strongly Recommended
+## ✅ Booked & Confirmed
 
 <div class="reservation-card recommended">
   <div class="reservation-header">
-    <h3>Mt. Fuji Train Seats (Shinjuku ⇄ Kawaguchiko)</h3>
-    <span class="status status-pending">Pending</span>
+    <h3>Micro Pig Cafe (Asakusa)</h3>
+    <span class="status status-booked">Booked</span>
   </div>
   <div class="reservation-details">
-    <div class="detail"><strong>Trip Date:</strong> Wed, July 29 (Day 12)</div>
-    <div class="detail"><strong>Book By:</strong> As soon as the date locks</div>
+    <div class="detail"><strong>Trip Date:</strong> Sun, July 19 (Day 2)</div>
+    <div class="detail"><strong>Time:</strong> 12:00 PM · 1 hour · 4 adults</div>
     <div class="detail"><strong>Owner:</strong> —</div>
   </div>
-  <p class="reservation-note">Direct Fuji Excursion limited express requires mandatory seat reservations and runs only a few times daily — book round-trip. Highway bus from Busta Shinjuku is the cheaper backup (reserve online, ~¥2,000). Aim for the earliest departure for the best Fuji views.</p>
+  <p class="reservation-note">1-hour micro pig experience. Arrive a few minutes early. <a href="https://www.klook.com/en-US/activity/174931-micro-pig-cafe-experience-in-aasakusa/">Klook listing</a>.</p>
 </div>
 
 <div class="reservation-card recommended">
   <div class="reservation-header">
     <h3>teamLab Planets</h3>
-    <span class="status status-pending">Pending</span>
+    <span class="status status-booked">Booked</span>
   </div>
   <div class="reservation-details">
     <div class="detail"><strong>Trip Date:</strong> Mon, July 20 (Day 3)</div>
-    <div class="detail"><strong>Book By:</strong> 1-2 weeks ahead</div>
+    <div class="detail"><strong>Time:</strong> 11:30 AM (confirm on booking)</div>
     <div class="detail"><strong>Owner:</strong> —</div>
   </div>
-  <p class="reservation-note">Timed entry required. Not sold on-site. Closing permanently in 2027 — last chance! Book a 10 AM slot.</p>
-</div>
-
-<div class="reservation-card recommended">
-  <div class="reservation-header">
-    <h3>Gion Matsuri Paid Seating</h3>
-    <span class="status status-pending">Pending</span>
-  </div>
-  <div class="reservation-details">
-    <div class="detail"><strong>Trip Date:</strong> Fri, July 24 (Day 7)</div>
-    <div class="detail"><strong>Book By:</strong> Check official Gion Matsuri site</div>
-    <div class="detail"><strong>Owner:</strong> —</div>
-  </div>
-  <p class="reservation-note">Guaranteed front-row parade views with shade. Recommended for family comfort in July heat.</p>
-</div>
-
-<div class="reservation-card recommended">
-  <div class="reservation-header">
-    <h3>Asakusa Sumo Show + Chankonabe</h3>
-    <span class="status status-pending">Pending</span>
-  </div>
-  <div class="reservation-details">
-    <div class="detail"><strong>Trip Date:</strong> Sat, July 18 (Day 1)</div>
-    <div class="detail"><strong>Book By:</strong> A few weeks ahead on Klook</div>
-    <div class="detail"><strong>Owner:</strong> —</div>
-  </div>
-  <p class="reservation-note">Fixed evening show time. Dinner included. <a href="https://www.klook.com/en-US/activity/109994-asakusa-sumo-club-sumo-show-admission-chankonabe-tokyo/">Klook listing</a>.</p>
-</div>
-
-<div class="reservation-card recommended">
-  <div class="reservation-header">
-    <h3>Micro Pig Cafe (Asakusa)</h3>
-    <span class="status status-pending">Pending</span>
-  </div>
-  <div class="reservation-details">
-    <div class="detail"><strong>Trip Date:</strong> Sat, July 18 (Day 1)</div>
-    <div class="detail"><strong>Book By:</strong> 1–2 weeks ahead on Klook</div>
-    <div class="detail"><strong>Owner:</strong> —</div>
-  </div>
-  <p class="reservation-note">Late-afternoon timed slot (~5 PM) bridges check-in to Sensoji. <a href="https://www.klook.com/en-US/activity/174931-micro-pig-cafe-experience-in-aasakusa/">Klook listing</a>.</p>
+  <p class="reservation-note">Timed entry. Closing permanently in 2027 — glad we got it. Double-check the exact entry time on your confirmation.</p>
 </div>
 
 <div class="reservation-card recommended">
   <div class="reservation-header">
     <h3>Capyneko Cafe (Harajuku)</h3>
-    <span class="status status-pending">Pending</span>
+    <span class="status status-booked">Booked</span>
   </div>
   <div class="reservation-details">
     <div class="detail"><strong>Trip Date:</strong> Mon, July 20 (Day 3)</div>
-    <div class="detail"><strong>Book By:</strong> 1–2 weeks ahead on Klook</div>
+    <div class="detail"><strong>Time:</strong> 4:00 PM · 50 min · 4 people</div>
     <div class="detail"><strong>Owner:</strong> —</div>
   </div>
-  <p class="reservation-note">Capybara + cat interaction cafe. Pick an afternoon slot that lines up with the Harajuku block. <a href="https://www.klook.com/en-US/activity/207318-interaction-with-capybaras-and-cats-capyneko-cafe-harajuku/">Klook listing</a>.</p>
+  <p class="reservation-note">Capybara + cat interaction cafe. Do the Harajuku/Takeshita block before 4:00. <a href="https://www.klook.com/en-US/activity/207318-interaction-with-capybaras-and-cats-capyneko-cafe-harajuku/">Klook listing</a>.</p>
 </div>
+
+<div class="reservation-card recommended">
+  <div class="reservation-header">
+    <h3>Kyoto Riverside Terrace Dinner</h3>
+    <span class="status status-booked">Booked</span>
+  </div>
+  <div class="reservation-details">
+    <div class="detail"><strong>Trip Date:</strong> Thu, July 23 (Day 6)</div>
+    <div class="detail"><strong>Time:</strong> 7:00 PM · 4 people · course meal</div>
+    <div class="detail"><strong>Reservation ID:</strong> GSLCJ3</div>
+    <div class="detail"><strong>Tel:</strong> 075-365-0777</div>
+  </div>
+  <p class="reservation-note">Course meal on a riverside terrace (yuka). 140-25 Nishiishigaki-dori Shijo Sagaru Saito-cho, Shimogyo-ku, Kyoto 600-8012.</p>
+</div>
+
+<div class="reservation-card critical">
+  <div class="reservation-header">
+    <h3>Mt. Fuji Guided Day Tour</h3>
+    <span class="status status-booked">Booked</span>
+  </div>
+  <div class="reservation-details">
+    <div class="detail"><strong>Trip Date:</strong> Wed, July 29 (Day 12)</div>
+    <div class="detail"><strong>Time:</strong> 8:30 AM pickup · ~11 hours · paid</div>
+    <div class="detail"><strong>Owner:</strong> —</div>
+  </div>
+  <p class="reservation-note">Lake Kawaguchi, Mt. Fuji, and Chureito Pagoda. Re-confirm the meeting point and what's included a day or two ahead. No train booking needed — transport is part of the tour.</p>
+</div>
+
+---
+
+## 🟡 Still To Book
+
+<div class="reservation-card recommended">
+  <div class="reservation-header">
+    <h3>Shinkansen: Tokyo → Kyoto</h3>
+    <span class="status status-pending">Pending</span>
+  </div>
+  <div class="reservation-details">
+    <div class="detail"><strong>Trip Date:</strong> Tue, July 21 (Day 4)</div>
+    <div class="detail"><strong>Book By:</strong> Reserved seats via SmartEX or JR counter</div>
+    <div class="detail"><strong>Owner:</strong> —</div>
+  </div>
+  <p class="reservation-note">Nozomi, ~2h15m. Reserve 4 seats together. Right side (seats A-C) for Mt. Fuji views.</p>
+</div>
+
+<div class="reservation-card recommended">
+  <div class="reservation-header">
+    <h3>Shinkansen: Shin-Osaka → Tokyo</h3>
+    <span class="status status-pending">Pending</span>
+  </div>
+  <div class="reservation-details">
+    <div class="detail"><strong>Trip Date:</strong> Tue, July 28 (Day 11)</div>
+    <div class="detail"><strong>Book By:</strong> Reserved seats via SmartEX or JR counter</div>
+    <div class="detail"><strong>Owner:</strong> —</div>
+  </div>
+  <p class="reservation-note">Nozomi, ~2h30m. Reserve 4 seats together.</p>
+</div>
+
+<div class="reservation-card recommended">
+  <div class="reservation-header">
+    <h3>Gion Matsuri Seating (Ato Matsuri)</h3>
+    <span class="status status-pending">Optional</span>
+  </div>
+  <div class="reservation-details">
+    <div class="detail"><strong>Trip Date:</strong> Fri, July 24 (Day 7)</div>
+    <div class="detail"><strong>Start:</strong> 9:30 AM parade</div>
+    <div class="detail"><strong>Owner:</strong> —</div>
+  </div>
+  <p class="reservation-note">If booking reserved/paid seating, confirm the section and arrival time. Otherwise stake out a shaded spot along the route early.</p>
+</div>
+
+---
+
+## ❌ No Longer Happening
+
+These were sold out or fully booked and have been removed from the itinerary:
+
+- **Sumo Show + Chankonabe** (was Day 1) — replaced by a relaxed Asakusa evening
+- **Ghibli Museum** (was Day 2) — replaced by an Asakusa jet-lag day + Micro Pig Cafe
+- **Nintendo Museum** (was Day 6) — Arashiyama + Manga Museum day stands on its own
+- **Pokemon Cafe Osaka** (was Day 9) — Pokemon Center + card hunting remains
 
 ---
 
 ## Booking Calendar
 
-Set reminders for these dates:
+Remaining to-dos:
 
 <div class="booking-timeline">
   <div class="timeline-item">
-    <div class="timeline-date">When date locks</div>
-    <div class="timeline-action">Book Mt. Fuji train seats — Fuji Excursion express, round-trip (or reserve highway bus)</div>
+    <div class="timeline-date">Before the trip</div>
+    <div class="timeline-action">Reserve shinkansen seats: Tokyo→Kyoto (Jul 21) and Shin-Osaka→Tokyo (Jul 28) via SmartEX</div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">June 25, 2026</div>
-    <div class="timeline-action">Book Pokemon Cafe Osaka (6 PM JST)</div>
+    <div class="timeline-date">A day or two before Jul 29</div>
+    <div class="timeline-action">Re-confirm Mt. Fuji tour meeting point + inclusions</div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">Early July 2026</div>
-    <div class="timeline-action">Book teamLab Planets (timed entry, 10 AM slot)</div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-date">TBD</div>
-    <div class="timeline-action">Book Ghibli Museum (check when July dates release)</div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-date">TBD</div>
-    <div class="timeline-action">Book Gion Matsuri paid seating (check official site)</div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-date">Early July 2026</div>
-    <div class="timeline-action">Book Klook items: Sumo show + chankonabe (Day 1), Micro Pig Cafe (Day 1), Capyneko Cafe (Day 3)</div>
+    <div class="timeline-date">Optional</div>
+    <div class="timeline-action">Gion Matsuri (Ato Matsuri) reserved seating — confirm if booking</div>
   </div>
 </div>
 
@@ -157,34 +157,32 @@ Set reminders for these dates:
 
 ## Confirmation Numbers
 
-Once booked, update here:
-
 <div class="confirmation-box">
-  <h4>Mt. Fuji Train Seats (Shinjuku ⇄ Kawaguchiko)</h4>
+  <h4>Mt. Fuji Guided Tour</h4>
   <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
-  <p><strong>Date/Time:</strong> Wed 7/29, out ___:___ / return ___:___</p>
+  <p><strong>Date/Time:</strong> Wed 7/29, 8:30 AM pickup (~11 hrs)</p>
 </div>
 
 <div class="confirmation-box">
-  <h4>Ghibli Museum</h4>
-  <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
-  <p><strong>Date/Time:</strong> Sun 7/19, ___:___ (aim for 11 AM or 12 PM)</p>
+  <h4>Kyoto Terrace Dinner</h4>
+  <p><strong>Reservation ID:</strong> <span class="conf-number">GSLCJ3</span></p>
+  <p><strong>Date/Time:</strong> Thu 7/23, 7:00 PM · Tel 075-365-0777</p>
 </div>
 
 <div class="confirmation-box">
-  <h4>Pokemon Cafe Osaka</h4>
+  <h4>Micro Pig Cafe</h4>
   <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
-  <p><strong>Date/Time:</strong> Sun 7/26, ___:___</p>
+  <p><strong>Date/Time:</strong> Sun 7/19, 12:00 PM</p>
 </div>
 
 <div class="confirmation-box">
   <h4>teamLab Planets</h4>
   <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
-  <p><strong>Date/Time:</strong> Mon 7/20, ___:___ (aim for 10 AM)</p>
+  <p><strong>Date/Time:</strong> Mon 7/20, 11:30 AM</p>
 </div>
 
 <div class="confirmation-box">
-  <h4>Gion Matsuri Paid Seating</h4>
+  <h4>Capyneko Cafe</h4>
   <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
-  <p><strong>Date/Time:</strong> Fri 7/24, morning</p>
+  <p><strong>Date/Time:</strong> Mon 7/20, 4:00 PM</p>
 </div>

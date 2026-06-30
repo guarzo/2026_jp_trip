@@ -73,7 +73,7 @@ Keep business purchases separate from personal:
 
 | Store | Location | Best For | Notes |
 |-------|----------|----------|-------|
-| **Pokemon Center OSAKA DX** | Daimaru Shinsaibashi | Full stock + Cafe | Day 9 planned |
+| **Pokemon Center OSAKA DX** | Daimaru Shinsaibashi | Full stock, sealed product | Day 9 planned |
 
 ### Retail Stores (Sealed Product at MSRP)
 
@@ -190,7 +190,7 @@ Before you go, note typical US/home prices for comparison:
 |-----|------|----------|-------|
 | 3 | Mon 7/20 | Shibuya | Pokemon Center SHIBUYA (first stop, price discovery) |
 | 8 | Sat 7/25 | Namba | Card shop recon — note locations, prices, stock levels |
-| 9 | Sun 7/26 | Osaka | **Main hunting day** — PC Osaka DX + Pokemon Cafe + Nipponbashi shops |
+| 9 | Sun 7/26 | Osaka | **Main hunting day** — PC Osaka DX + Nipponbashi shops |
 | 11 | Tue 7/28 | Ikebukuro + Akihabara | Pokemon Center MEGA + Hareruya 2 + Akihabara card sweep |
 
 ---

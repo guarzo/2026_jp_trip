@@ -13,6 +13,17 @@ highlights:
 
 <img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
 
+<div class="alert alert-info">
+<p class="alert-title">💡 Optional idea: Kyoto guided tour (NOT booked)</p>
+<p>Kyoto is where a guide adds the most — the temples and shrines come alive with context. Best fit is this day. <strong>What to ask operators about:</strong></p>
+<ul>
+<li><strong>Morning history &amp; temples walk</strong> — Fushimi Inari + Higashiyama, starting ~8 AM to beat heat <em>and</em> crowds (private recommended for a family of 4)</li>
+<li><strong>Evening Gion &amp; geisha-district culture walk</strong> — cooler, atmospheric alternative</li>
+<li><strong>Hands-on option</strong> — tea ceremony or kimono experience the teens might enjoy</li>
+</ul>
+<p>A guide can pace the day with AC breaks and tailor stops to the kids. Slot it in place of the self-guided morning below if we book one.</p>
+</div>
+
 ## Morning
 
 <div class="activity-block">
@@ -69,10 +80,9 @@ highlights:
 </div>
 
 <div class="activity-card">
-<h3>Kawadoko River Dining</h3>
-<p>July is the season for Kawadoko — dining on wooden platforms built over the river! This is a uniquely Kyoto summer experience. Pontocho alley has several restaurants with Kawadoko terraces extending over the Kamogawa River.</p>
-<p><strong>What to expect:</strong> Enjoy dinner while sitting over the flowing water with a cool river breeze. Restaurants serve a range from casual to kaiseki (multi-course). The atmosphere at dusk is magical.</p>
-<p><strong>Tip:</strong> Reservations recommended for Kawadoko seating, especially on weekends. Ask for "Kawadoko" (川床) when booking.</p>
+<h3>Pontocho Alley Dinner</h3>
+<p>As it cools, wander Pontocho — a narrow lantern-lit alley packed with restaurants between the river and Kiyamachi. A great casual dinner spot tonight.</p>
+<p><strong>Note:</strong> Save your big riverside <em>yuka/kawadoko</em> terrace dinner for Day 6 (Jul 23) — that one's booked. Tonight, just pick a spot that looks good and walk in.</p>
 <div class="activity-meta">
 <a href="https://maps.google.com/?q=Pontocho+Kyoto">📍 Pontocho</a>
 </div>

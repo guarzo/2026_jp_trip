@@ -7,14 +7,9 @@ hero_image: "https://www.japan-guide.com/g22/3004_03.jpg"
 hero_alt: "Sensoji Temple in Asakusa - welcome to Tokyo!"
 highlights:
   - Arrival Day
-  - Micro Pig Cafe
+  - Konbini First Bite
   - Sensoji Temple
-  - Sumo Show + Chankonabe
-reservations:
-  - name: Micro Pig Cafe (Asakusa)
-    note: Timed entry — book afternoon slot in advance
-  - name: Asakusa Sumo Club show + chankonabe
-    note: Fixed show time — book ahead via Klook
+  - Asakusa Dinner
 ---
 
 <img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
@@ -41,22 +36,12 @@ reservations:
 <p><strong>Must-try:</strong> Onigiri, egg sandwich, melon pan, Japanese iced coffee</p>
 </div>
 
-<div class="activity-card">
-<h3>🐷 Micro Pig Cafe (Asakusa)</h3>
-<p>Short, low-key animal cafe experience right in Asakusa — a fun, AC-cooled jet-lag-friendly stop on the way to Sensoji. Book a late-afternoon timed slot via Klook.</p>
-<p><strong>Tip:</strong> Pick a slot ~5 PM so you can roll straight into Sensoji + dinner. Plan for ~30 min inside.</p>
-<div class="activity-meta">
-<a href="https://www.klook.com/en-US/activity/174931-micro-pig-cafe-experience-in-aasakusa/">🎟️ Klook listing</a>
-<span>⏱️ ~30 min</span>
-</div>
-</div>
-
 </div>
 
 ## Evening
 
 <div class="activity-block">
-<div class="activity-time">🌙 Evening — Sensoji + Sumo Show</div>
+<div class="activity-time">🌙 Evening — Sensoji</div>
 
 <div class="activity-card">
 <h3>Sensoji Temple</h3>
@@ -69,18 +54,9 @@ reservations:
 </div>
 
 <div class="activity-card">
-<h3>🥋 Asakusa Sumo Club — Show + Chankonabe Dinner</h3>
-<p>Live sumo demonstration with retired wrestlers, audience interaction, and the traditional chankonabe hot pot dinner sumo wrestlers eat to bulk up. Perfect Day-1 anchor: in Asakusa already, structured timing, and dinner is handled.</p>
-<p><strong>Why this works for Day 1:</strong> No decisions to make jet-lagged, AC venue, and an actually memorable "we're in Japan" first night.</p>
-<div class="activity-meta">
-<a href="https://www.klook.com/en-US/activity/109994-asakusa-sumo-club-sumo-show-admission-chankonabe-tokyo/">🎟️ Klook listing</a>
-<span>⏱️ ~1.5–2 hr (includes meal)</span>
-</div>
-</div>
-
-<div class="activity-card">
-<h3>Fallback: Dinner Near Sensoji</h3>
-<p><strong>If jet lag wins or the sumo show doesn't book:</strong> The Asakusa area has excellent traditional restaurants (sukiyaki, tempura, sushi) — or no shame in grabbing konbini food and calling it early. You have 12 more days for sit-down meals!</p>
+<h3>Dinner Near Sensoji</h3>
+<p>Asakusa has excellent traditional restaurants — sukiyaki, tempura, sushi, or unagi. Pick something easy and close; you're jet-lagged and there are 12 more days for big sit-down meals.</p>
+<p><strong>No-fuss option:</strong> No shame in grabbing konbini or a quick bowl of ramen and calling it an early night.</p>
 </div>
 
 </div>
@@ -96,7 +72,6 @@ reservations:
 
 ---
 
-## Reservations
+## No Reservations Needed
 
-- **Micro Pig Cafe (Asakusa)** — book a late-afternoon slot on [Klook](https://www.klook.com/en-US/activity/174931-micro-pig-cafe-experience-in-aasakusa/)
-- **Asakusa Sumo Club show + chankonabe** — fixed show times, book ahead on [Klook](https://www.klook.com/en-US/activity/109994-asakusa-sumo-club-sumo-show-admission-chankonabe-tokyo/)
+Arrival day is intentionally loose. The Micro Pig Cafe is booked for tomorrow (Day 2) — tonight is just Sensoji and a relaxed first dinner.

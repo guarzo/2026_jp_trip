@@ -16,8 +16,8 @@ Click any day for full details, maps, and family notes.
     <span class="itinerary-day-date">Sat 7/18</span>
   </div>
   <div class="itinerary-content">
-    <h3><a href="{{ '/days/day-01/' | relative_url }}">Arrive Tokyo + Sensoji + Sumo Show</a></h3>
-    <p>Land at 2:15 PM, micro pig cafe, Sensoji evening, sumo show + chankonabe dinner</p>
+    <h3><a href="{{ '/days/day-01/' | relative_url }}">Arrive Tokyo + Sensoji</a></h3>
+    <p>Land at 2:15 PM, konbini first bite, Sensoji evening, relaxed Asakusa dinner</p>
     <span class="itinerary-location">Tokyo</span>
   </div>
 </li>
@@ -28,9 +28,9 @@ Click any day for full details, maps, and family notes.
     <span class="itinerary-day-date">Sun 7/19</span>
   </div>
   <div class="itinerary-content">
-    <h3><a href="{{ '/days/day-02/' | relative_url }}">Ghibli Museum + Kichijoji</a></h3>
-    <p>Jet lag recovery day — late morning museum, park, relaxed afternoon</p>
-    <span class="itinerary-location">Tokyo (Mitaka)</span>
+    <h3><a href="{{ '/days/day-02/' | relative_url }}">Asakusa + Micro Pig Cafe</a></h3>
+    <p>Jet lag recovery — Micro Pig Cafe (noon), Sumida riverside, Skytree, easy day near the hotel</p>
+    <span class="itinerary-location">Tokyo (Asakusa)</span>
   </div>
 </li>
 
@@ -76,8 +76,8 @@ Click any day for full details, maps, and family notes.
     <span class="itinerary-day-date">Thu 7/23</span>
   </div>
   <div class="itinerary-content">
-    <h3><a href="{{ '/days/day-06/' | relative_url }}">Arashiyama + Nintendo + Manga</a></h3>
-    <p>Bamboo grove, monkey park, Nintendo Museum, manga museum</p>
+    <h3><a href="{{ '/days/day-06/' | relative_url }}">Arashiyama + Manga + Terrace Dinner</a></h3>
+    <p>Bamboo grove, monkey park, manga museum, booked riverside terrace dinner (7 PM)</p>
     <span class="itinerary-location">Kyoto</span>
   </div>
 </li>
@@ -88,8 +88,8 @@ Click any day for full details, maps, and family notes.
     <span class="itinerary-day-date">Fri 7/24</span>
   </div>
   <div class="itinerary-content">
-    <h3><a href="{{ '/days/day-07/' | relative_url }}">Gion Matsuri Parade → Osaka</a></h3>
-    <p>Morning float procession (paid seats!), train to Osaka, Dotonbori evening</p>
+    <h3><a href="{{ '/days/day-07/' | relative_url }}">Gion Matsuri (Ato Matsuri) → Osaka</a></h3>
+    <p>Morning float parade (9:30 AM start), train to Osaka, Dotonbori evening</p>
     <span class="itinerary-location">Kyoto → Osaka</span>
   </div>
 </li>
@@ -112,8 +112,8 @@ Click any day for full details, maps, and family notes.
     <span class="itinerary-day-date">Sun 7/26</span>
   </div>
   <div class="itinerary-content">
-    <h3><a href="{{ '/days/day-09/' | relative_url }}">Pokemon Center + Cafe + Card Hunting</a></h3>
-    <p>Pokemon Center Osaka DX, Pokemon Cafe, Nipponbashi card shops</p>
+    <h3><a href="{{ '/days/day-09/' | relative_url }}">Pokemon Center + Card Hunting</a></h3>
+    <p>Pokemon Center Osaka DX, Shinsaibashi, Nipponbashi card shops, arcades</p>
     <span class="itinerary-location">Osaka</span>
   </div>
 </li>
@@ -148,9 +148,9 @@ Click any day for full details, maps, and family notes.
     <span class="itinerary-day-date">Wed 7/29</span>
   </div>
   <div class="itinerary-content">
-    <h3><a href="{{ '/days/day-12/' | relative_url }}">Mt. Fuji Day Trip (Kawaguchiko)</a></h3>
-    <p>Early start for Fuji views — Chureito Pagoda, Lake Kawaguchi, ropeway, Fuji-Q/onsen backup</p>
-    <span class="itinerary-location">Tokyo → Kawaguchiko → Tokyo</span>
+    <h3><a href="{{ '/days/day-12/' | relative_url }}">Mt. Fuji Day Tour (Kawaguchiko)</a></h3>
+    <p>Booked guided tour (8:30 AM, ~11 hrs) — Lake Kawaguchi, Chureito Pagoda, Mt. Fuji views</p>
+    <span class="itinerary-location">Tokyo → Mt. Fuji → Tokyo</span>
   </div>
 </li>
 

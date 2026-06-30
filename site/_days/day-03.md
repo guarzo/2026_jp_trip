@@ -12,9 +12,9 @@ highlights:
   - Harajuku
 reservations:
   - name: teamLab Planets
-    note: Timed entry required — book 1-2 weeks ahead
+    note: BOOKED — Jul 20, 11:30 AM (confirm time)
   - name: Capyneko Cafe (Harajuku)
-    note: Timed entry — book afternoon slot via Klook
+    note: BOOKED — Jul 20, 4:00 PM, 50 min, 4 people
 ---
 
 <img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
@@ -24,14 +24,15 @@ reservations:
 <p>This may be our last chance to experience it. The immersive digital art is unlike anything else — and perfect AC escape from July heat.</p>
 </div>
 
-## Morning
+## Late Morning
 
 <div class="activity-block">
-<div class="activity-time">🌅 Morning (~10 AM timed entry)</div>
+<div class="activity-time">🌅 Late Morning — 11:30 AM timed entry (booked)</div>
 
 <div class="activity-card">
 <h3>teamLab Planets</h3>
 <p>An immersive, barefoot walk through digital art installations. You wade through water, walk through flowers, and float in infinity mirror rooms. Everyone in the family will love this.</p>
+<p><strong>Booked:</strong> July 20, 11:30 AM entry — <em>double-check the exact time on your confirmation.</em></p>
 <p><strong>What to know:</strong></p>
 <ul>
 <li>You go barefoot — wear easy-on/off shoes</li>
@@ -52,7 +53,7 @@ reservations:
 ## Afternoon
 
 <div class="activity-block">
-<div class="activity-time">☀️ Afternoon (head to Shibuya ~12:30 PM)</div>
+<div class="activity-time">☀️ Afternoon (head to Shibuya ~2 PM after teamLab)</div>
 
 <div class="activity-card">
 <h3>Shibuya Crossing + Hachiko</h3>
@@ -82,12 +83,12 @@ reservations:
 </div>
 
 <div class="activity-card">
-<h3>🐹 Capyneko Cafe (Harajuku)</h3>
-<p>Interactive cafe with capybaras and cats — calm, AC, and a perfect midday heat-shelter after walking Takeshita Street. Book a timed slot via Klook.</p>
-<p><strong>Tip:</strong> Slots are short (~30–45 min). Pick one that lines up with your Harajuku window so it slots in between Takeshita Street and Kiddy Land.</p>
+<h3>🐹 Capyneko Cafe (Harajuku) — 4:00 PM (booked)</h3>
+<p>Interactive cafe with capybaras and cats — calm, AC, and a perfect late-afternoon heat-shelter after walking Takeshita Street.</p>
+<p><strong>Booked:</strong> July 20, 4:00 PM · 50-minute interaction · 4 people. Plan the Harajuku/Takeshita block <em>before</em> 4:00 and do Kiddy Land after.</p>
 <div class="activity-meta">
 <a href="https://www.klook.com/en-US/activity/207318-interaction-with-capybaras-and-cats-capyneko-cafe-harajuku/">🎟️ Klook listing</a>
-<span>⏱️ ~30–45 min</span>
+<span>⏱️ 50 min</span>
 </div>
 </div>
 
@@ -128,7 +129,11 @@ reservations:
 ## Reservations
 
 <div class="alert alert-warning">
-<p class="alert-title">teamLab Planets — Book Ahead</p>
-<p>Timed entry required. Book 1-2 weeks before the trip. Not sold on-site.</p>
-<p><strong>Recommended:</strong> 10 AM entry to leave afternoon free for Shibuya.</p>
+<p class="alert-title">teamLab Planets — BOOKED (11:30 AM)</p>
+<p>Reserved for July 20, 11:30 AM. Closing permanently in 2027 — glad we got it. <em>Confirm the exact entry time on your booking.</em></p>
+</div>
+
+<div class="alert alert-warning">
+<p class="alert-title">Capyneko Cafe — BOOKED (4:00 PM)</p>
+<p>July 20, 4:00 PM · 50-minute capybara + cat interaction · 4 people. <a href="https://www.klook.com/en-US/activity/207318-interaction-with-capybaras-and-cats-capyneko-cafe-harajuku/">Klook listing</a>.</p>
 </div>

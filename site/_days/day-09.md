@@ -1,15 +1,12 @@
 ---
 day_number: 9
-title: "Pokemon Center + Cafe + Card Hunting"
+title: "Pokemon Center + Card Hunting"
 date_display: "Sun, July 26"
 location: "Osaka"
 highlights:
   - Pokemon Center
-  - Pokemon Cafe
   - Card Shops
-reservations:
-  - name: Pokemon Cafe Osaka
-    note: MUST book 31 days ahead (June 25) at 6 PM JST
+  - Arcades
 ---
 
 ## Morning
@@ -34,10 +31,11 @@ reservations:
 </div>
 
 <div class="activity-card">
-<h3>Pokemon Cafe</h3>
-<p>Same building as Pokemon Center DX! Themed food and drinks, character appearances at tables. A highlight for the whole family.</p>
+<h3>Daimaru Shinsaibashi + Shinsaibashi-suji</h3>
+<p>You're already in the department store — take advantage of the AC. Browse the floors, then spill out onto the covered Shinsaibashi-suji shopping arcade right outside, which runs all the way toward Dotonbori.</p>
+<p><strong>Lunch:</strong> Plenty of options in the depachika (basement food hall) or along the arcade before the afternoon card hunt.</p>
 <div class="activity-meta">
-<span>⏱️ ~1.5 hours</span>
+<a href="https://maps.google.com/?q=Shinsaibashi+suji+Shopping+Street">📍 Shinsaibashi-suji</a>
 </div>
 </div>
 
@@ -84,6 +82,11 @@ reservations:
 <p>Head back toward Dotonbori or find a local spot. You've earned a good meal!</p>
 </div>
 
+<div class="alert alert-info">
+<p class="alert-title">💡 Optional idea: Osaka street-food tour (NOT booked)</p>
+<p>Osaka is a food city, and a guided <strong>evening street-food crawl</strong> is the best fun-per-yen tour of the trip — a guide steers you to the right stalls and explains each dish. This evening (after card hunting) is the natural slot; Day 7's arrival-night Dotonbori stays our own casual first pass. <strong>What to ask operators about:</strong> "small-group Dotonbori / Namba evening street-food tour — does it include Shinsekai / kushikatsu?" If we book it, it replaces the self-guided dinner above.</p>
+</div>
+
 </div>
 
 ---
@@ -101,11 +104,6 @@ Before you go out today:
 
 ---
 
-## Reservations
+## No Reservations Needed
 
-<div class="alert alert-warning">
-<p class="alert-title">Pokemon Cafe Osaka — MUST BOOK AHEAD</p>
-<p>Reservation required. Opens 31 days ahead at 6 PM JST.</p>
-<p><strong>Booking date:</strong> June 25, 2026 at 6 PM JST</p>
-<p>Book for all 4 family members!</p>
-</div>
+Just show up and shop! (Pokemon Cafe didn't work out this trip — it was fully booked — so today is Pokemon Center + card shops + arcades.)

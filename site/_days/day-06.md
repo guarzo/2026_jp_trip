@@ -7,8 +7,12 @@ hero_image: "https://www.japan-guide.com/g18/3912_top.jpg"
 hero_alt: "Togetsukyo Bridge and the scenic Arashiyama district"
 highlights:
   - Bamboo Grove
-  - Nintendo Museum
+  - Monkey Park
   - Manga Museum
+  - Riverside Terrace Dinner
+reservations:
+  - name: Riverside terrace dinner ("B")
+    note: BOOKED — Jul 23, 7:00 PM, 4 people, course meal · Res# GSLCJ3
 ---
 
 <img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
@@ -47,29 +51,6 @@ highlights:
 
 </div>
 
-## Midday
-
-<div class="activity-block">
-<div class="activity-time">🎮 Midday (~12:00-2:30 PM)</div>
-
-<div class="activity-card">
-<h3>Nintendo Museum</h3>
-<p>A museum dedicated to Nintendo's history — from playing cards to Game Boy to Switch and beyond. Interactive exhibits let you play with Nintendo's inventions through the decades. Located in Ogura (southern Kyoto), about 30 minutes from central Kyoto by train.</p>
-<p><strong>Highlights:</strong></p>
-<ul>
-<li>Hands-on exhibits with classic and modern Nintendo games</li>
-<li>History of Nintendo from 1889 to today</li>
-<li>Exclusive merchandise at the museum shop</li>
-</ul>
-<p><strong>Getting there:</strong> Take the Kintetsu Kyoto Line from Kyoto Station to Ogura Station (~15 min), then walk ~5 min.</p>
-<div class="activity-meta">
-<a href="https://maps.google.com/?q=Nintendo+Museum+Ogura+Kyoto">📍 Get Directions</a>
-<span>⏱️ 1.5-2 hours</span>
-</div>
-</div>
-
-</div>
-
 ## Afternoon
 
 <div class="activity-block">
@@ -94,18 +75,26 @@ highlights:
 
 </div>
 
-## Evening
+## Evening — RIVERSIDE TERRACE DINNER
 
 <div class="activity-block">
-<div class="activity-time">🌙 Evening</div>
+<div class="activity-time">🌙 7:00 PM — Booked Terrace Dinner</div>
 
 <div class="activity-card">
-<h3>Riverside Walk + Rest Night</h3>
-<p>As it cools down, take a relaxed walk along the Kamogawa River. Locals sit on the banks to enjoy the evening breeze.</p>
-<p><strong>Tomorrow:</strong> Gion Matsuri parade morning, then on to Osaka! Consider doing laundry tonight and packing up.</p>
+<h3>🍽️ Riverside Terrace Dinner (yuka/kawadoko)</h3>
+<p>The Kyoto summer highlight: a course meal served on a terrace over the river. July is peak <em>yuka</em> season, with a cool breeze off the water and a magical atmosphere at dusk.</p>
+<p><strong>Booked:</strong> July 23, 7:00 PM · 4 people · course meal prepared on the terrace</p>
+<p><strong>Reservation ID:</strong> GSLCJ3 · <strong>Tel:</strong> 075-365-0777</p>
+<p><strong>Address:</strong> 140-25 Nishiishigaki-dori Shijo Sagaru Saito-cho, Shimogyo-ku, Kyoto 600-8012 (Kiyamachi/Shijo area, ~10 min from Gion)</p>
 <div class="activity-meta">
-<a href="https://maps.google.com/?q=Kamogawa+River+Sanjo">📍 Kamogawa River</a>
+<a href="https://maps.google.com/?q=140-25+Nishiishigaki-dori+Shijo+Sagaru+Saito-cho+Shimogyo+Kyoto">📍 Get Directions</a>
+<span>⏱️ ~2 hours</span>
 </div>
+</div>
+
+<div class="activity-card">
+<h3>After Dinner</h3>
+<p>An easy stroll along the Kamogawa River to settle in. <strong>Tomorrow:</strong> Gion Matsuri (Ato Matsuri) in the morning, then on to Osaka — consider doing laundry tonight and packing up.</p>
 </div>
 
 </div>
@@ -124,10 +113,10 @@ From central Kyoto, several options:
 ## Reservations
 
 <div class="alert alert-warning">
-<p class="alert-title">Nintendo Museum — Lottery Tickets (Book in April!)</p>
-<p>Tickets are sold via a <strong>lottery system</strong>, not standard reservations. For July visits, enter the lottery <strong>April 1-30, 2026</strong> on the <a href="https://museum-tickets.nintendo.com/en">Nintendo Museum ticketing site</a>. Results announced ~May 1. If you don't win, leftover tickets go on first-come sale mid-May.</p>
-<p><strong>Requirements:</strong> Nintendo Account (free), credit card for payment, ID checked at entry. Tickets are date+time specific.</p>
-<p><strong>Action:</strong> Create Nintendo Accounts now, enter lottery April 1!</p>
+<p class="alert-title">Riverside Terrace Dinner — BOOKED</p>
+<p><strong>July 23, 7:00 PM · 4 people · course meal on the terrace.</strong></p>
+<p><strong>Reservation ID:</strong> GSLCJ3 · <strong>Tel:</strong> 075-365-0777</p>
+<p>140-25 Nishiishigaki-dori Shijo Sagaru Saito-cho, Shimogyo-ku, Kyoto 600-8012. Arrive a few minutes early; call the restaurant if you're running late.</p>
 </div>
 
 **Manga Museum:** No reservation needed — just show up!
@@ -138,7 +127,6 @@ From central Kyoto, several options:
 
 - Arashiyama is best early morning before peak heat
 - Monkey park has tree cover for shade
-- Nintendo Museum is a unique midday stop between outdoor and indoor activities
 - Manga Museum is the perfect AC escape for afternoon heat
-- Teens get monkeys, Nintendo history, AND 300,000 manga volumes in one day
-- Evening is light — good pace before tomorrow's big festival day
+- Teens get monkeys AND 300,000 manga volumes to dig through
+- Evening rewards the day with a booked riverside terrace dinner before tomorrow's festival

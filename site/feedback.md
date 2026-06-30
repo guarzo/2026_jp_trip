@@ -13,10 +13,19 @@ Use this page to discuss the trip, vote on decisions, and share ideas!
 
 ## Decided
 
-### ~~PokePark KANTO~~ → Mt. Fuji Day Trip (Day 12)
+### Booking Update (late June 2026)
+
+<div class="alert alert-warning">
+<p class="alert-title">Several things changed — sold out or newly booked</p>
+<p><strong>Off the table (fully booked):</strong> Asakusa Sumo Show, Ghibli Museum, Nintendo Museum, and Pokemon Cafe Osaka.</p>
+<p><strong>Newly booked / confirmed:</strong> Micro Pig Cafe moved to Day 2 (Jul 19, 12 PM); teamLab Planets Day 3 at 11:30 AM; Capyneko Cafe Day 3 at 4 PM; Kyoto riverside terrace dinner Day 6 (Jul 23, 7 PM, GSLCJ3); Mt. Fuji guided tour Day 12 (Jul 29, 8:30 AM); hotels KOKO Asakusa (Jul 18–21) and Nikko Princess Kyoto (Jul 21–24).</p>
+<p><strong>Knock-on changes:</strong> Day 1 is now a relaxed Sensoji evening; Day 2 is an Asakusa jet-lag day anchored by the pig cafe; Day 9 is Pokemon Center + card hunting (no cafe).</p>
+</div>
+
+### ~~PokePark KANTO~~ → Mt. Fuji Day Tour (Day 12)
 
 <div class="alert alert-info">
-<p><strong>Decision:</strong> Swapped the PokePark KANTO day for a Mt. Fuji day trip to Kawaguchiko on Day 12 (July 29). Views are the priority — Kawaguchiko is the closest base to the mountain and gives the best odds of seeing it. Early start to beat the summer haze; Chureito Pagoda + Lake Kawaguchi for views, with Fuji-Q coasters / onsen as a teen-friendly bad-weather backup. Book the direct express train seats (mandatory reservation) once the date locks.</p>
+<p><strong>Decision:</strong> Dropped PokePark KANTO and booked a guided Mt. Fuji day tour to Kawaguchiko on Day 12 (July 29) — 8:30 AM pickup, ~11 hours, covering Lake Kawaguchi, Chureito Pagoda, and Mt. Fuji views. The early start helps beat the summer haze. (The tour's "cherry blossoms" name is just its stock title — no blossoms in July.)</p>
 </div>
 
 ### ~~Universal Studios Japan~~ — Skip
@@ -25,22 +34,22 @@ Use this page to discuss the trip, vote on decisions, and share ideas!
 <p><strong>Decision:</strong> We're skipping USJ this trip. Day 10 is now a relaxed Nara day trip (deer park + giant Buddha).</p>
 </div>
 
-### ~~Pokemon Cafe~~ — Osaka (Day 9)
+### ~~Pokemon Cafe~~ — Cancelled (was Day 9)
 
 <div class="alert alert-info">
-<p><strong>Decision:</strong> Pokemon Cafe Osaka on Day 9 (July 26), paired with Pokemon Center Osaka DX. Book June 25 at 6 PM JST.</p>
+<p><strong>Update:</strong> Pokemon Cafe Osaka was fully booked, so it's off. Day 9 stays Pokemon Center Osaka DX + Nipponbashi card hunting.</p>
 </div>
 
-### ~~teamLab Planets~~ — Added (Day 3)
+### ~~teamLab Planets~~ — Booked (Day 3, 11:30 AM)
 
 <div class="alert alert-info">
-<p><strong>Decision:</strong> Added to Day 3 (July 20) morning, before Shibuya/Harajuku afternoon. Closing permanently in 2027!</p>
+<p><strong>Decision:</strong> Booked for Day 3 (July 20) at 11:30 AM, before the Shibuya/Harajuku afternoon. Closing permanently in 2027!</p>
 </div>
 
-### ~~Gion Matsuri Seating~~ — Paid Seats (Day 7)
+### ~~Gion Matsuri~~ — Ato Matsuri (Day 7, 9:30 AM)
 
 <div class="alert alert-info">
-<p><strong>Decision:</strong> Booking paid seating for July 24 parade. Guaranteed views with shade, no need to arrive hours early with the kids.</p>
+<p><strong>Decision:</strong> Day 7 is the Ato Matsuri parade on July 24, starting 9:30 AM, then the train to Osaka. Confirm reserved seating if booking.</p>
 </div>
 
 ---

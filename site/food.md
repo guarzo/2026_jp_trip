@@ -64,7 +64,7 @@ Specific places we want to try (add as we research):
 
 | Restaurant | Area | What | Priority | Booked? |
 |------------|------|------|----------|---------|
-| Pokemon Cafe | Nihombashi | Themed cafe | High | Pending |
+| Micro Pig Cafe | Asakusa | Animal cafe (snacks/drinks) | High | ✅ Jul 19, 12 PM |
 | | | | | |
 | | | | | |
 
@@ -72,14 +72,13 @@ Specific places we want to try (add as we research):
 
 | Restaurant | Area | What | Priority | Booked? |
 |------------|------|------|----------|---------|
-| Kawadoko restaurant (TBD) | Pontocho | River platform dining — July seasonal! | High | Pending |
+| Riverside terrace dinner | Kiyamachi/Shijo | Yuka terrace course meal — July seasonal! | High | ✅ Jul 23, 7 PM (GSLCJ3) |
 | | | | | |
 
 ### Osaka
 
 | Restaurant | Area | What | Priority | Booked? |
 |------------|------|------|----------|---------|
-| Pokemon Cafe | Shinsaibashi | Themed cafe | High | Pending |
 | Dotonbori street food | Namba | Everything | High | Walk-up |
 | | | | | |
 
