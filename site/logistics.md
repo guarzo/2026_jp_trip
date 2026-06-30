@@ -61,32 +61,33 @@ All transportation and accommodation details in one place.
       <span class="segment-date">Tue, July 21 (Day 4)</span>
     </div>
     <div class="segment-route">
-      <span>Tokyo Station</span>
+      <span>Shinagawa</span>
       <span class="arrow">→</span>
       <span>Kyoto Station</span>
     </div>
     <div class="segment-details">
-      <p><strong>Train:</strong> Nozomi Shinkansen</p>
-      <p><strong>Duration:</strong> ~2 hours 15 min</p>
-      <p><strong>Reserved Seats:</strong> Recommended for family of 4</p>
-      <p><strong>Tip:</strong> Right side (seats A-C) for Mt. Fuji views!</p>
+      <p><strong>Train:</strong> Hikari 639 — <span class="status status-booked">Booked</span></p>
+      <p><strong>Time:</strong> 10:40 → 13:12 (~2h 30m)</p>
+      <p><strong>Seats:</strong> 4 reserved</p>
+      <p><strong>Note:</strong> Departs Shinagawa (not Tokyo Station). Right side for Mt. Fuji views.</p>
     </div>
   </div>
 
   <div class="logistics-segment">
     <div class="segment-header">
-      <h4>Kyoto → Osaka</h4>
+      <h4>Kyoto → Shin-Osaka</h4>
       <span class="segment-date">Fri, July 24 (Day 7)</span>
     </div>
     <div class="segment-route">
       <span>Kyoto Station</span>
       <span class="arrow">→</span>
-      <span>Osaka/Namba</span>
+      <span>Shin-Osaka</span>
     </div>
     <div class="segment-details">
-      <p><strong>Train:</strong> JR Special Rapid or Hankyu Line</p>
-      <p><strong>Duration:</strong> ~30-50 min</p>
-      <p><strong>Note:</strong> No shinkansen needed — regular trains are fine!</p>
+      <p><strong>Train:</strong> Nozomi 31 — <span class="status status-booked">Booked</span></p>
+      <p><strong>Time:</strong> 14:25 → 14:39 (14 min)</p>
+      <p><strong>Seats:</strong> 4 reserved</p>
+      <p><strong>Note:</strong> Then Midosuji subway from Shin-Osaka to Namba (~10 min).</p>
     </div>
   </div>
 
@@ -98,12 +99,13 @@ All transportation and accommodation details in one place.
     <div class="segment-route">
       <span>Shin-Osaka</span>
       <span class="arrow">→</span>
-      <span>Tokyo Station</span>
+      <span>Shinagawa</span>
     </div>
     <div class="segment-details">
-      <p><strong>Train:</strong> Nozomi Shinkansen</p>
-      <p><strong>Duration:</strong> ~2 hours 30 min</p>
-      <p><strong>Reserved Seats:</strong> Recommended</p>
+      <p><strong>Train:</strong> Nozomi 10 — <span class="status status-booked">Booked</span></p>
+      <p><strong>Time:</strong> 10:30 → 12:49 (~2h 20m)</p>
+      <p><strong>Seats:</strong> 4 reserved</p>
+      <p><strong>Note:</strong> Arrives Shinagawa — Yamanote line to Ikebukuro for Pokemon Center MEGA.</p>
     </div>
   </div>
 </div>

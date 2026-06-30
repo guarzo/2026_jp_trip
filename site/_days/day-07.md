@@ -62,13 +62,13 @@ reservations:
 
 <div class="activity-card">
 <h3>Train to Osaka</h3>
-<p>After the parade ends (~noon), grab lunch and catch a train to Osaka.</p>
-<p><strong>Options:</strong></p>
-<ul>
-<li><strong>JR Special Rapid</strong> — Kyoto → Osaka Station (~30 min)</li>
-<li><strong>Hankyu Line</strong> — Kawaramachi → Umeda (~45 min)</li>
-</ul>
-<p><strong>Tip:</strong> No shinkansen needed — regular trains are fine for this route!</p>
+<p>After the parade ends (~noon), grab lunch near the station and catch the booked shinkansen to Shin-Osaka.</p>
+<p><strong>Booked:</strong> Nozomi 31 · Kyoto 14:25 → Shin-Osaka 14:39 (Jul 24) · 4 reserved seats — just 14 minutes!</p>
+<p><strong>Then:</strong> From Shin-Osaka, take the Midosuji subway line (~10 min) to your Namba-area hotel.</p>
+<div class="activity-meta">
+<span>🚄 Kyoto → Shin-Osaka</span>
+<span>⏱️ 14 min</span>
+</div>
 </div>
 
 <div class="activity-card">

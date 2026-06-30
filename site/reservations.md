@@ -80,33 +80,50 @@ Current status of all bookings.
 
 ---
 
-## 🟡 Still To Book
+## 🚄 Trains — Booked
 
 <div class="reservation-card recommended">
   <div class="reservation-header">
     <h3>Shinkansen: Tokyo → Kyoto</h3>
-    <span class="status status-pending">Pending</span>
+    <span class="status status-booked">Booked</span>
   </div>
   <div class="reservation-details">
     <div class="detail"><strong>Trip Date:</strong> Tue, July 21 (Day 4)</div>
-    <div class="detail"><strong>Book By:</strong> Reserved seats via SmartEX or JR counter</div>
-    <div class="detail"><strong>Owner:</strong> —</div>
+    <div class="detail"><strong>Train:</strong> Hikari 639 · Shinagawa 10:40 → Kyoto 13:12</div>
+    <div class="detail"><strong>Seats:</strong> 4 reserved</div>
   </div>
-  <p class="reservation-note">Nozomi, ~2h15m. Reserve 4 seats together. Right side (seats A-C) for Mt. Fuji views.</p>
+  <p class="reservation-note">Departs <strong>Shinagawa</strong>, not Tokyo Station. Right side for Mt. Fuji views. Buy ekiben at Shinagawa.</p>
+</div>
+
+<div class="reservation-card recommended">
+  <div class="reservation-header">
+    <h3>Shinkansen: Kyoto → Shin-Osaka</h3>
+    <span class="status status-booked">Booked</span>
+  </div>
+  <div class="reservation-details">
+    <div class="detail"><strong>Trip Date:</strong> Fri, July 24 (Day 7)</div>
+    <div class="detail"><strong>Train:</strong> Nozomi 31 · Kyoto 14:25 → Shin-Osaka 14:39</div>
+    <div class="detail"><strong>Seats:</strong> 4 reserved</div>
+  </div>
+  <p class="reservation-note">Quick 14-min hop after the Gion parade. Midosuji subway from Shin-Osaka to Namba.</p>
 </div>
 
 <div class="reservation-card recommended">
   <div class="reservation-header">
     <h3>Shinkansen: Shin-Osaka → Tokyo</h3>
-    <span class="status status-pending">Pending</span>
+    <span class="status status-booked">Booked</span>
   </div>
   <div class="reservation-details">
     <div class="detail"><strong>Trip Date:</strong> Tue, July 28 (Day 11)</div>
-    <div class="detail"><strong>Book By:</strong> Reserved seats via SmartEX or JR counter</div>
-    <div class="detail"><strong>Owner:</strong> —</div>
+    <div class="detail"><strong>Train:</strong> Nozomi 10 · Shin-Osaka 10:30 → Shinagawa 12:49</div>
+    <div class="detail"><strong>Seats:</strong> 4 reserved</div>
   </div>
-  <p class="reservation-note">Nozomi, ~2h30m. Reserve 4 seats together.</p>
+  <p class="reservation-note">Arrives <strong>Shinagawa</strong> — Yamanote line to Ikebukuro for Pokemon Center MEGA.</p>
 </div>
+
+---
+
+## 🟡 Optional / Still To Decide
 
 <div class="reservation-card recommended">
   <div class="reservation-header">
@@ -140,16 +157,16 @@ Remaining to-dos:
 
 <div class="booking-timeline">
   <div class="timeline-item">
-    <div class="timeline-date">Before the trip</div>
-    <div class="timeline-action">Reserve shinkansen seats: Tokyo→Kyoto (Jul 21) and Shin-Osaka→Tokyo (Jul 28) via SmartEX</div>
-  </div>
-  <div class="timeline-item">
     <div class="timeline-date">A day or two before Jul 29</div>
     <div class="timeline-action">Re-confirm Mt. Fuji tour meeting point + inclusions</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">Optional</div>
     <div class="timeline-action">Gion Matsuri (Ato Matsuri) reserved seating — confirm if booking</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">Still open</div>
+    <div class="timeline-action">Book Osaka hotel (Jul 24–28) and final Tokyo hotel (Jul 28–30)</div>
   </div>
 </div>
 

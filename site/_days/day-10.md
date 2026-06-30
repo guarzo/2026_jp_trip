@@ -13,6 +13,12 @@ highlights:
 
 <img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
 
+<div class="alert alert-info">
+<p class="alert-title">💡 Optional idea: Nara guided morning (NOT booked)</p>
+<p>Tōdai-ji and the Great Buddha carry real history (Japan's 8th-century first capital) that a guide brings to life — the deer need no explanation. Keep it to a <strong>half-day morning</strong> so the afternoon stays the loose decompression day it's meant to be.</p>
+<p><strong>Best angle here:</strong> Nara is known for <strong>free volunteer "goodwill guides"</strong> (student/community guides practicing English) — great value for a 4th tour. <strong>What to ask/search:</strong> "Nara volunteer goodwill guide, Tōdai-ji + Nara Park morning, family of 4" — and confirm it's running for our date.</p>
+</div>
+
 ## Getting There
 
 <div class="activity-block">

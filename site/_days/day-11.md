@@ -20,12 +20,12 @@ highlights:
 
 <div class="activity-card">
 <h3>Shinkansen to Tokyo</h3>
-<p>Back to Tokyo! Take the bullet train from Shin-Osaka Station.</p>
-<p><strong>Duration:</strong> ~2.5 hours to Tokyo Station</p>
-<p><strong>Tip:</strong> Get an ekiben (train bento) for the ride!</p>
+<p>Back to Tokyo! Take the booked bullet train from Shin-Osaka. <strong>Confirmed.</strong></p>
+<p><strong>Booked:</strong> Nozomi 10 · Shin-Osaka 10:30 → Shinagawa 12:49 (Jul 28) · 4 reserved seats</p>
+<p><strong>Note:</strong> Arrives <strong>Shinagawa</strong>, not Tokyo Station — convenient for Ikebukuro (Pokemon Center MEGA) via the Yamanote line. Grab an ekiben at Shin-Osaka for the ride!</p>
 <div class="activity-meta">
-<span>🚄 Shin-Osaka → Tokyo</span>
-<span>⏱️ ~2h 30m</span>
+<span>🚄 Shin-Osaka → Shinagawa</span>
+<span>⏱️ ~2h 20m</span>
 </div>
 </div>
 

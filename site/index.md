@@ -51,12 +51,12 @@ title: Home
 
 <div class="alert alert-info">
   <p class="alert-title">Confirmed</p>
-  <p>Micro Pig Cafe (Day 2, Jul 19 · 12 PM) · teamLab Planets (Day 3, Jul 20 · 11:30 AM) · Capyneko Cafe (Day 3, Jul 20 · 4 PM) · Kyoto riverside terrace dinner (Day 6, Jul 23 · 7 PM, GSLCJ3) · Pokemon Center Osaka (Day 9) · Mt. Fuji guided tour (Day 12, Jul 29 · 8:30 AM) · Hotels: KOKO Asakusa, Nikko Princess Kyoto.</p>
+  <p>Micro Pig Cafe (Day 2, Jul 19 · 12 PM) · teamLab Planets (Day 3, Jul 20 · 11:30 AM) · Capyneko Cafe (Day 3, Jul 20 · 4 PM) · Kyoto riverside terrace dinner (Day 6, Jul 23 · 7 PM, GSLCJ3) · Pokemon Center Osaka (Day 9) · Mt. Fuji guided tour (Day 12, Jul 29 · 8:30 AM) · All 3 shinkansen (Jul 21, 24, 28) · Hotels: KOKO Asakusa, Nikko Princess Kyoto.</p>
 </div>
 
 <div class="alert alert-warning">
   <p class="alert-title">Still To Book</p>
-  <p>Shinkansen reserved seats: Tokyo → Kyoto (Day 4, Jul 21) and Shin-Osaka → Tokyo (Day 11, Jul 28). Book via SmartEX or at a JR counter.</p>
+  <p>Osaka hotel (Jul 24–28) and final Tokyo hotel (Jul 28–30). Optional: Gion Matsuri reserved seating; guided tours (see Days 2, 5, 9, 10).</p>
 </div>
 
 <div class="alert alert-info">

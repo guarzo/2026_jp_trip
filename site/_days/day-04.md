@@ -20,19 +20,20 @@ highlights:
 
 <div class="activity-card">
 <h3>Shinkansen to Kyoto</h3>
-<p>Take the bullet train from Tokyo Station to Kyoto Station. Book reserved seats for a family of 4 — worth it for comfort and guaranteed seating together.</p>
-<p><strong>Duration:</strong> ~2 hours 15 minutes on the Nozomi (fastest)</p>
-<p><strong>Tip:</strong> Sit on the right side (seats A-C) for potential Mt. Fuji views!</p>
+<p>Take the bullet train to Kyoto Station. <strong>Booked &amp; confirmed.</strong></p>
+<p><strong>Booked:</strong> Hikari 639 · Shinagawa 10:40 → Kyoto 13:12 (Jul 21) · 4 reserved seats</p>
+<p><strong>Note:</strong> This departs from <strong>Shinagawa Station, not Tokyo Station</strong> — from the Asakusa hotel, allow ~40 min to get to Shinagawa (Asakusa Line direct, or via Yamanote). Aim to arrive 20–30 min early.</p>
+<p><strong>Tip:</strong> Sit on the <strong>right side</strong> in the direction of travel (toward Kyoto) for potential Mt. Fuji views, roughly 40–45 min in near Shin-Fuji.</p>
 <div class="activity-meta">
-<span>🚄 Tokyo → Kyoto</span>
-<span>⏱️ ~2h 15m</span>
+<span>🚄 Shinagawa → Kyoto</span>
+<span>⏱️ ~2h 30m</span>
 </div>
 </div>
 
 <div class="activity-card">
 <h3>Ekiben (Train Bento)</h3>
-<p>Buy a bento box at Tokyo Station before boarding — eating ekiben on the shinkansen is a quintessential Japan experience!</p>
-<p><strong>Where:</strong> "Ekiben" shops are everywhere in Tokyo Station, especially near the shinkansen gates.</p>
+<p>Buy a bento box <strong>at Shinagawa Station</strong> before boarding — eating ekiben on the shinkansen is a quintessential Japan experience!</p>
+<p><strong>Where:</strong> Ekiben shops are inside the Shinagawa shinkansen gates and on the concourse.</p>
 </div>
 
 </div>
@@ -69,9 +70,12 @@ highlights:
 
 ---
 
-## No Reservations Needed
+## Train — Booked
 
-Just book your shinkansen reserved seats via the SmartEX app or at the JR ticket counter.
+<div class="alert alert-warning">
+<p class="alert-title">Shinkansen — BOOKED &amp; CONFIRMED</p>
+<p><strong>Hikari 639 · Shinagawa 10:40 → Kyoto 13:12 · Jul 21 · 4 reserved seats.</strong> Departs <strong>Shinagawa</strong>, not Tokyo Station — leave the Asakusa hotel with time to spare.</p>
+</div>
 
 ---
 
