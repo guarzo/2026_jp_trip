@@ -65,7 +65,7 @@ Click any day for full details, maps, and family notes.
   </div>
   <div class="itinerary-content">
     <h3><a href="{{ '/days/day-05/' | relative_url }}">Fushimi Inari + Higashiyama</a></h3>
-    <p>Torii gates hike, Kiyomizu-dera, Gion evening walk</p>
+    <p>Booked guided tour w/ Hiroyuki (10 AM from hotel) — torii gates hike, Kiyomizu-dera, Gion evening walk</p>
     <span class="itinerary-location">Kyoto</span>
   </div>
 </li>
@@ -113,7 +113,7 @@ Click any day for full details, maps, and family notes.
   </div>
   <div class="itinerary-content">
     <h3><a href="{{ '/days/day-09/' | relative_url }}">Pokemon Center + Card Hunting</a></h3>
-    <p>Pokemon Center Osaka DX, Shinsaibashi, Nipponbashi card shops, arcades</p>
+    <p>Pokemon Center Osaka DX, Shinsaibashi, Nipponbashi card shops, arcades, evening pop culture & food tour w/ Kazu (4:30 PM)</p>
     <span class="itinerary-location">Osaka</span>
   </div>
 </li>
@@ -149,7 +149,7 @@ Click any day for full details, maps, and family notes.
   </div>
   <div class="itinerary-content">
     <h3><a href="{{ '/days/day-12/' | relative_url }}">Mt. Fuji Day Tour (Kawaguchiko)</a></h3>
-    <p>Booked guided tour (8:30 AM, ~11 hrs) — Lake Kawaguchi, Chureito Pagoda, Mt. Fuji views</p>
+    <p>Booked guided tour (7:00 AM hotel pickup, ~11 hrs) — Lake Kawaguchi, Chureito Pagoda, Mt. Fuji views</p>
     <span class="itinerary-location">Tokyo → Mt. Fuji → Tokyo</span>
   </div>
 </li>

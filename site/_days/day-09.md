@@ -82,9 +82,9 @@ highlights:
 <p>Head back toward Dotonbori or find a local spot. You've earned a good meal!</p>
 </div>
 
-<div class="alert alert-info">
-<p class="alert-title">💡 Optional idea: Osaka street-food tour (NOT booked)</p>
-<p>Osaka is a food city, and a guided <strong>evening street-food crawl</strong> is the best fun-per-yen tour of the trip — a guide steers you to the right stalls and explains each dish. This evening (after card hunting) is the natural slot; Day 7's arrival-night Dotonbori stays our own casual first pass. <strong>What to ask operators about:</strong> "small-group Dotonbori / Namba evening street-food tour — does it include Shinsekai / kushikatsu?" If we book it, it replaces the self-guided dinner above.</p>
+<div class="alert alert-warning">
+<p class="alert-title">✅ Booked: Osaka pop culture & food tour with Kazu — 4:30 PM</p>
+<p>Guide <strong>Kazu</strong> leads an evening pop culture + street-food tour starting at <strong>4:30 PM</strong>. This replaces the self-guided dinner and much of the evening below, so front-load the card hunting and arcades into the morning/early afternoon and wrap up in time to meet Kazu. <strong>Before the day:</strong> confirm the meeting point and whether food/entries are included (bring cash either way).</p>
 </div>
 
 </div>
@@ -104,6 +104,9 @@ Before you go out today:
 
 ---
 
-## No Reservations Needed
+## Reservations
 
-Just show up and shop! (Pokemon Cafe didn't work out this trip — it was fully booked — so today is Pokemon Center + card shops + arcades.)
+<div class="alert alert-warning">
+<p class="alert-title">Osaka Pop Culture & Food Tour — BOOKED</p>
+<p>Sun, July 26 · <strong>4:30 PM</strong> · guide Kazu · 4 people. Wrap card shops + arcades by mid-afternoon to make the start. Re-confirm the meeting point the day before. Everything else today is show-up-and-go.</p>
+</div>

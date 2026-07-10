@@ -13,15 +13,9 @@ highlights:
 
 <img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
 
-<div class="alert alert-info">
-<p class="alert-title">💡 Optional idea: Kyoto guided tour (NOT booked)</p>
-<p>Kyoto is where a guide adds the most — the temples and shrines come alive with context. Best fit is this day. <strong>What to ask operators about:</strong></p>
-<ul>
-<li><strong>Morning history &amp; temples walk</strong> — Fushimi Inari + Higashiyama, starting ~8 AM to beat heat <em>and</em> crowds (private recommended for a family of 4)</li>
-<li><strong>Evening Gion &amp; geisha-district culture walk</strong> — cooler, atmospheric alternative</li>
-<li><strong>Hands-on option</strong> — tea ceremony or kimono experience the teens might enjoy</li>
-</ul>
-<p>A guide can pace the day with AC breaks and tailor stops to the kids. Slot it in place of the self-guided morning below if we book one.</p>
+<div class="alert alert-warning">
+<p class="alert-title">✅ Booked: Kyoto guided tour with Hiroyuki — 10:00 AM from hotel</p>
+<p>Private guide <strong>Hiroyuki</strong> meets us at Hotel Nikko Princess at <strong>10:00 AM</strong> and leads today's Kyoto highlights with local context and AC-paced breaks. The self-guided plan below is the backbone — Hiroyuki will tailor stops and pacing to the group and the heat. <strong>Before the day:</strong> re-confirm the lobby meeting time and grab his contact number.</p>
 </div>
 
 ## Morning

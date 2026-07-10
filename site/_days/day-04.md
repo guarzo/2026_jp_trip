@@ -81,4 +81,4 @@ highlights:
 
 ## Packing Tip
 
-If you're staying at a MIMARU, grab groceries near the hotel for breakfast supplies — the kitchen saves time and money in the mornings.
+Grab breakfast supplies from a konbini near the hotel the night before — a quick in-room breakfast saves time and money before a busy Kyoto morning.

@@ -20,8 +20,8 @@ highlights:
 <div class="activity-time">✈️ Arrive 2:15 PM (DL295 from Atlanta)</div>
 
 <div class="activity-card">
-<h3>Airport → Hotel</h3>
-<p>Clear customs, pick up eSIMs if not already activated, get IC cards (Suica/Pasmo) for trains, and head to the hotel.</p>
+<h3>Haneda (HND) → Hotel</h3>
+<p>Clear customs at Haneda, pick up eSIMs if not already activated, get IC cards (Suica/Pasmo) for trains, and head to the hotel. Easiest route to Asakusa: Keikyu Airport Line → Toei Asakusa Line direct (~40 min, no transfer).</p>
 <p><strong>Get Yen:</strong> Exchange dollars to yen at the airport — highly recommended! Many temples, shrines, and smaller shops are cash-only. Airport ATMs (7-Eleven) also work great with foreign cards.</p>
 </div>
 

@@ -49,28 +49,36 @@ permalink: /emergency/
 
 Show these to taxi drivers. Tap "Copy" to paste into maps.
 
-### Tokyo Hotel (Jul 18-21, Jul 28-30)
+### Tokyo Hotel #1 (Jul 18-21)
 
-**TBD** *(update once booked)*
+**KOKO Hotel Residence Asakusa Tawaramachi** — Asakusa (Tawaramachi)
 
-<div class="japanese-text" id="tokyo-hotel">
-— Update with hotel address in Japanese once booked —
+<div class="japanese-text" id="tokyo-hotel-1">
+〒111-0042 東京都台東区寿2丁目8-12
 </div>
 
 ### Kyoto Hotel (Jul 21-24)
 
-**TBD** *(update once booked)*
+**Hotel Nikko Princess Kyoto** — Shijo-Karasuma / downtown
 
 <div class="japanese-text" id="kyoto-hotel">
-— Update with hotel address in Japanese once booked —
+〒600-8096 京都市下京区烏丸高辻東入高橋町630番地
 </div>
 
 ### Osaka Hotel (Jul 24-28)
 
-**TBD** *(update once booked)*
+**Osaka Excel Hotel Tokyu** — Hommachi (Chuo-ku), at Hommachi Station
 
 <div class="japanese-text" id="osaka-hotel">
-— Update with hotel address in Japanese once booked —
+〒541-0056 大阪府大阪市中央区久太郎町4-1-15（南御堂境内）
+</div>
+
+### Tokyo Hotel #2 (Jul 28-30)
+
+**Hotel Metropolitan Tokyo Ikebukuro** — Ikebukuro Station
+
+<div class="japanese-text" id="tokyo-hotel-2">
+〒171-8505 東京都豊島区西池袋1-6-1
 </div>
 
 ---
