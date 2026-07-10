@@ -4,7 +4,7 @@ title: "Departure Day"
 date_display: "Thu, July 30"
 location: "Tokyo → Home"
 hero_image: "https://www.japan-guide.com/g18/2164_12.jpg"
-hero_alt: "Narita Express - heading home"
+hero_alt: "Heading home from Haneda"
 highlights:
   - Packing
   - Airport
@@ -60,19 +60,14 @@ highlights:
 <div class="activity-time">✈️ Afternoon — Airport Time</div>
 
 <div class="activity-card">
-<h3>Airport Transfer</h3>
-<p>Head to the airport with plenty of time. Target arrival: 12:00-12:30 PM.</p>
-<p><strong>To Narita (NRT):</strong></p>
+<h3>Ikebukuro → Haneda (HND)</h3>
+<p>DL294 departs from <strong>Haneda (HND)</strong>. Head to the airport with plenty of time. Target arrival: 12:00-12:30 PM.</p>
+<p><strong>From Hotel Metropolitan Ikebukuro:</strong></p>
 <ul>
-<li>Narita Express from Tokyo/Shinjuku (~1 hour)</li>
-<li>Limousine Bus from hotels/stations</li>
-<li>Allow 3 hours before international flights</li>
-</ul>
-<p><strong>To Haneda (HND):</strong></p>
-<ul>
-<li>Tokyo Monorail from Hamamatsucho (~15 min)</li>
-<li>Keikyu Line from Shinagawa (~15 min)</li>
-<li>Allow 2.5 hours before international flights</li>
+<li>JR to Hamamatsucho, then Tokyo Monorail to Haneda (~45 min total), or</li>
+<li>JR to Shinagawa, then Keikyu Line to Haneda (~45 min total)</li>
+<li>Airport Limousine Bus also runs from Ikebukuro — simplest with luggage</li>
+<li>Allow 2.5–3 hours before this international flight</li>
 </ul>
 </div>
 

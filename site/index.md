@@ -51,17 +51,17 @@ title: Home
 
 <div class="alert alert-info">
   <p class="alert-title">Confirmed</p>
-  <p>Micro Pig Cafe (Day 2, Jul 19 · 12 PM) · teamLab Planets (Day 3, Jul 20 · 11:30 AM) · Capyneko Cafe (Day 3, Jul 20 · 4 PM) · Kyoto riverside terrace dinner (Day 6, Jul 23 · 7 PM, GSLCJ3) · Pokemon Center Osaka (Day 9) · Mt. Fuji guided tour (Day 12, Jul 29 · 8:30 AM) · All 3 shinkansen (Jul 21, 24, 28) · Hotels: KOKO Asakusa, Nikko Princess Kyoto.</p>
+  <p>Micro Pig Cafe (Day 2, Jul 19 · 12 PM) · teamLab Planets (Day 3, Jul 20 · 11:30 AM) · Capyneko Cafe (Day 3, Jul 20 · 4 PM) · Kyoto guided tour w/ Hiroyuki (Day 5, Jul 22 · 10 AM) · Kyoto riverside terrace dinner (Day 6, Jul 23 · 7 PM, GSLCJ3) · Osaka pop culture &amp; food tour w/ Kazu (Day 9, Jul 26 · 4:30 PM) · Pokemon Center Osaka (Day 9) · Mt. Fuji guided tour w/ Yoshi (Day 12, Jul 29 · 7 AM) · All 3 shinkansen (Jul 21, 24, 28) · Hotels: KOKO Asakusa, Nikko Princess Kyoto, Osaka Excel Tokyu, Metropolitan Ikebukuro.</p>
 </div>
 
-<div class="alert alert-warning">
-  <p class="alert-title">Still To Book</p>
-  <p>Osaka hotel (Jul 24–28) and final Tokyo hotel (Jul 28–30). Optional: Gion Matsuri reserved seating; guided tours (see Days 2, 5, 9, 10).</p>
+<div class="alert alert-info">
+  <p class="alert-title">All Booked ✅</p>
+  <p>Nothing outstanding — all hotels, tours, trains, and Gion Matsuri seating are booked. Confirmation numbers live in the booking apps.</p>
 </div>
 
 <div class="alert alert-info">
   <p class="alert-title">Gion Matsuri (Day 7 — July 24)</p>
-  <p>Ato Matsuri parade starts 9:30 AM. Confirm seat details if you've reserved; otherwise stake out a shaded spot early.</p>
+  <p>Ato Matsuri parade starts 9:30 AM. Booked front-row grandstand — Block 15, South side, Row A, Seats 24–27 (Order 467885962). Arrive early to find Block 15.</p>
 </div>
 
 <div class="alert alert-info">
@@ -74,8 +74,8 @@ title: Home
 | Dates | Location | Nights | Highlights |
 |-------|----------|--------|------------|
 | Jul 18–21 | **Tokyo** | 3 | Sensoji, Micro Pig Cafe, teamLab Planets, Capyneko, Pokemon Center |
-| Jul 21–24 | **Kyoto** | 3 | Fushimi Inari, Arashiyama, Manga Museum, terrace dinner, Gion Matsuri |
-| Jul 24–28 | **Osaka** | 4 | Dotonbori, Tenjin Matsuri, Pokemon Center DX, Nara deer |
+| Jul 21–24 | **Kyoto** | 3 | Fushimi Inari, guided tour, Arashiyama, Manga Museum, terrace dinner, Gion Matsuri |
+| Jul 24–28 | **Osaka** | 4 | Dotonbori, Tenjin Matsuri, Pokemon Center DX, pop culture & food tour, Nara deer |
 | Jul 28–30 | **Tokyo** | 2 | Pokemon Center MEGA, Akihabara, Mt. Fuji guided tour |
 | Jul 30 | **Depart** | — | Relaxed morning, DL294 at 3:15 PM |
 
@@ -83,8 +83,8 @@ title: Home
 
 | | Flight | Route | Departs | Arrives |
 |--|--------|-------|---------|---------|
-| **Out** | DL295 | Atlanta → Tokyo | Fri Jul 17, 11:15 AM | **Sat Jul 18, 2:15 PM** |
-| **Return** | DL294 | Tokyo → Atlanta | Thu Jul 30, 3:15 PM | Thu Jul 30, 3:05 PM |
+| **Out** | DL295 | Atlanta → Tokyo (HND) | Fri Jul 17, 11:15 AM | **Sat Jul 18, 2:15 PM** |
+| **Return** | DL294 | Tokyo (HND) → Atlanta | Thu Jul 30, 3:15 PM | Thu Jul 30, 3:05 PM |
 
 <div class="offline-banner">
   📴 You're offline — cached pages still available

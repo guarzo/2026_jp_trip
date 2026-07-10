@@ -10,12 +10,12 @@ highlights:
   - Guided Tour
 reservations:
   - name: Mt. Fuji guided day tour
-    note: BOOKED — Jul 29, 8:30 AM pickup, ~11 hours, paid
+    note: BOOKED — Jul 29, 7:00 AM hotel pickup, guide Yoshi, ~11 hours, paid
 ---
 
 <div class="alert alert-warning">
-<p class="alert-title">Booked Guided Tour — 8:30 AM Start</p>
-<p>This is a full-day guided tour (~11 hours) covering Lake Kawaguchi, Mt. Fuji, and a pagoda viewpoint. The early start is ideal — mornings give the best odds of seeing the mountain before summer haze and afternoon cloud roll in.</p>
+<p class="alert-title">Booked Guided Tour — 7:00 AM Start (Guide: Yoshi)</p>
+<p>This is a full-day private guided tour (~11 hours) with guide <strong>Yoshi</strong>, covering Lake Kawaguchi, Mt. Fuji, and a pagoda viewpoint. Pickup is from the hotel (Metropolitan Ikebukuro). The early start is ideal — mornings give the best odds of seeing the mountain before summer haze and afternoon cloud roll in.</p>
 </div>
 
 <div class="alert alert-info">
@@ -26,18 +26,18 @@ reservations:
 ## Before You Go
 
 <div class="activity-block">
-<div class="activity-time">🌅 Early — Pickup at 8:30 AM</div>
+<div class="activity-time">🌅 Early — Hotel Pickup at 7:00 AM</div>
 
 <div class="activity-card">
 <h3>Tour Pickup</h3>
-<p><strong>Booked:</strong> July 29, 8:30 AM pickup · ~11 hours · paid in full.</p>
+<p><strong>Booked:</strong> July 29, 7:00 AM hotel pickup · guide Yoshi · ~11 hours · paid in full.</p>
 <p><strong>Confirm before the day:</strong></p>
 <ul>
-<li>Exact meeting point / pickup location and how early to arrive</li>
+<li>Exact meeting point at the hotel and how early to be in the lobby</li>
 <li>What's included (lunch? entry fees? ropeway?) vs. what to bring cash for</li>
-<li>Whether hotel pickup applies or it's a central meeting spot</li>
+<li>Yoshi's contact number in case of a morning mix-up</li>
 </ul>
-<p><strong>Eat first:</strong> Grab a konbini breakfast the night before or early that morning — an 8:30 departure comes quick.</p>
+<p><strong>Eat first:</strong> Grab a konbini breakfast the night before or early that morning — a 7:00 AM departure comes quick.</p>
 </div>
 
 </div>
@@ -99,8 +99,8 @@ reservations:
 <div class="activity-time">🌙 Evening — Back in Tokyo</div>
 
 <div class="activity-card">
-<h3>Return (~7:30 PM, give or take)</h3>
-<p>An ~11-hour tour from 8:30 AM lands you back in Tokyo in the evening. You'll be tired — grab an easy dinner near the hotel.</p>
+<h3>Return (~6:00 PM, give or take)</h3>
+<p>An ~11-hour tour from 7:00 AM lands you back in Tokyo in the early evening. You'll be tired — grab an easy dinner near the hotel.</p>
 <p><strong>Tomorrow is departure day</strong> — get a head start on packing tonight!</p>
 <ul>
 <li>Organize cards (sleeved, toploaded) and check luggage space</li>
@@ -117,7 +117,7 @@ reservations:
 
 <div class="alert alert-warning">
 <p class="alert-title">Mt. Fuji Guided Tour — BOOKED & PAID</p>
-<p><strong>July 29 · 8:30 AM pickup · ~11 hours.</strong> Re-confirm the meeting point and inclusions a day or two ahead. No train booking needed — transport is part of the tour.</p>
+<p><strong>July 29 · 7:00 AM hotel pickup · guide Yoshi · ~11 hours.</strong> Re-confirm the meeting point and inclusions a day or two ahead. No train booking needed — transport is part of the tour.</p>
 </div>
 
 ---
@@ -137,6 +137,6 @@ reservations:
 ## Why This Day Works
 
 - Someone else handles all the driving and logistics — easy after a busy trip
-- Early 8:30 AM start beats the worst of the summer haze
+- Early 7:00 AM start beats the worst of the summer haze
 - Hits the iconic views (Lake Kawaguchi + Chureito Pagoda) in one day
 - Relaxed evening return sets up an easy departure day tomorrow

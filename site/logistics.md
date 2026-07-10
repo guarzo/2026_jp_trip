@@ -23,9 +23,9 @@ All transportation and accommodation details in one place.
     <div class="segment-details">
       <p><strong>Flight:</strong> Delta DL295</p>
       <p><strong>Departure:</strong> Atlanta (ATL) — 11:15 AM, Fri Jul 17</p>
-      <p><strong>Arrival:</strong> Tokyo — 2:15 PM, Sat Jul 18 (next day)</p>
+      <p><strong>Arrival:</strong> Tokyo Haneda (HND) — 2:15 PM, Sat Jul 18 (next day)</p>
       <p><strong>Duration:</strong> ~14 hours</p>
-      <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
+      <p><strong>Confirmation:</strong> <span class="conf-number">In app</span></p>
     </div>
   </div>
 </div>
@@ -40,10 +40,10 @@ All transportation and accommodation details in one place.
     </div>
     <div class="segment-details">
       <p><strong>Flight:</strong> Delta DL294</p>
-      <p><strong>Departure:</strong> Tokyo — 3:15 PM, Thu Jul 30</p>
+      <p><strong>Departure:</strong> Tokyo Haneda (HND) — 3:15 PM, Thu Jul 30</p>
       <p><strong>Arrival:</strong> Atlanta (ATL) — 3:05 PM, Thu Jul 30 (same day)</p>
       <p><strong>Duration:</strong> ~13 hours</p>
-      <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
+      <p><strong>Confirmation:</strong> <span class="conf-number">In app</span></p>
     </div>
   </div>
 </div>
@@ -69,6 +69,7 @@ All transportation and accommodation details in one place.
       <p><strong>Train:</strong> Hikari 639 — <span class="status status-booked">Booked</span></p>
       <p><strong>Time:</strong> 10:40 → 13:12 (~2h 30m)</p>
       <p><strong>Seats:</strong> 4 reserved</p>
+      <p><strong>Paid:</strong> US$430.12 (4 seats)</p>
       <p><strong>Note:</strong> Departs Shinagawa (not Tokyo Station). Right side for Mt. Fuji views.</p>
     </div>
   </div>
@@ -87,7 +88,8 @@ All transportation and accommodation details in one place.
       <p><strong>Train:</strong> Nozomi 31 — <span class="status status-booked">Booked</span></p>
       <p><strong>Time:</strong> 14:25 → 14:39 (14 min)</p>
       <p><strong>Seats:</strong> 4 reserved</p>
-      <p><strong>Note:</strong> Then Midosuji subway from Shin-Osaka to Namba (~10 min).</p>
+      <p><strong>Paid:</strong> US$90.96 (4 seats)</p>
+      <p><strong>Note:</strong> Then Midosuji subway from Shin-Osaka to Hommachi (hotel), ~10 min.</p>
     </div>
   </div>
 
@@ -105,6 +107,7 @@ All transportation and accommodation details in one place.
       <p><strong>Train:</strong> Nozomi 10 — <span class="status status-booked">Booked</span></p>
       <p><strong>Time:</strong> 10:30 → 12:49 (~2h 20m)</p>
       <p><strong>Seats:</strong> 4 reserved</p>
+      <p><strong>Paid:</strong> US$457.00 (4 seats)</p>
       <p><strong>Note:</strong> Arrives Shinagawa — Yamanote line to Ikebukuro for Pokemon Center MEGA.</p>
     </div>
   </div>
@@ -159,15 +162,24 @@ We only have 2 long shinkansen trips (Tokyo↔Kyoto, Osaka↔Tokyo). The JR Pass
       <p><strong>Status:</strong> <span class="status status-booked">Booked</span></p>
       <p><strong>Area:</strong> Asakusa (Tawaramachi) — near Sensoji, Micro Pig Cafe, Sumida River</p>
       <p><strong>Dates:</strong> Jul 18–21 (3 nights)</p>
-      <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
+      <p><strong>Confirmation:</strong> <span class="conf-number">In app</span></p>
       <p><strong>Check-in:</strong> 3:00 PM | <strong>Check-out:</strong> 11:00 AM</p>
     </div>
   </div>
 </div>
 
-<div class="alert alert-info">
-  <p class="alert-title">Final Tokyo stay (Jul 28–30) — still TBD</p>
-  <p>The last 2 nights after returning from Osaka aren't booked yet. Asakusa keeps it consistent with the first stay; Ikebukuro/Shinjuku would cut the Day 11 Pokemon Center MEGA and Day 12 Mt. Fuji tour commutes.</p>
+<div class="logistics-card">
+  <h3><span class="icon">🏨</span> Booked Hotel — Final Stay (Jul 28–30)</h3>
+  <div class="hotel-card">
+    <h4>Hotel Metropolitan Tokyo Ikebukuro</h4>
+    <div class="segment-details">
+      <p><strong>Status:</strong> <span class="status status-booked">Booked</span></p>
+      <p><strong>Area:</strong> Ikebukuro — directly at Ikebukuro Station, next to Pokemon Center MEGA (Day 11) and easy for the Day 12 Mt. Fuji pickup</p>
+      <p><strong>Dates:</strong> Jul 28–30 (2 nights)</p>
+      <p><strong>Confirmation:</strong> <span class="conf-number">In app</span></p>
+      <p><strong>Check-in:</strong> 3:00 PM | <strong>Check-out:</strong> 11:00 AM</p>
+    </div>
+  </div>
 </div>
 
 ---
@@ -184,7 +196,7 @@ We only have 2 long shinkansen trips (Tokyo↔Kyoto, Osaka↔Tokyo). The JR Pass
       <p><strong>Status:</strong> <span class="status status-booked">Booked</span></p>
       <p><strong>Area:</strong> Shijo-Karasuma / downtown — central, walkable to Gion & Nishiki</p>
       <p><strong>Dates:</strong> Jul 21–24 (3 nights)</p>
-      <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
+      <p><strong>Confirmation:</strong> <span class="conf-number">In app</span></p>
       <p><strong>Check-in:</strong> 3:00 PM | <strong>Check-out:</strong> 11:00 AM</p>
     </div>
   </div>
@@ -199,33 +211,16 @@ We only have 2 long shinkansen trips (Tokyo↔Kyoto, Osaka↔Tokyo). The JR Pass
 <div class="logistics-card">
   <h3><span class="icon">🏨</span> Booked Hotel</h3>
   <div class="hotel-card">
-    <h4>TBD</h4>
+    <h4>Osaka Excel Hotel Tokyu</h4>
     <div class="segment-details">
-      <p><strong>Status:</strong> <span class="status status-pending">Pending</span></p>
-      <p><strong>Confirmation:</strong> <span class="conf-number">—</span></p>
+      <p><strong>Status:</strong> <span class="status status-booked">Booked</span></p>
+      <p><strong>Area:</strong> Hommachi (Chuo-ku) — at Hommachi Station on the Midosuji line, ~1 stop north of Shinsaibashi; central and walkable to Shinsaibashi/Dotonbori</p>
+      <p><strong>Dates:</strong> Jul 24–28 (4 nights)</p>
+      <p><strong>Confirmation:</strong> <span class="conf-number">In app</span></p>
       <p><strong>Check-in:</strong> 3:00 PM | <strong>Check-out:</strong> 11:00 AM</p>
     </div>
   </div>
 </div>
-
-**Recommended Options:**
-
-| Hotel | Area | Why | Link |
-|-------|------|-----|------|
-| **MIMARU Osaka Namba Station** | Namba | 4 min walk to Namba, near Dotonbori & card shops, 100+ board games! | [Book](https://mimaruhotels.com/en/hotel/namba-station/) |
-| **MIMARU Osaka Namba North** | Namba | Slightly quieter, still walkable to everything | [Book](https://mimaruhotels.com/en/hotel/namba-north/) |
-
----
-
-### Why MIMARU?
-
-MIMARU apartment hotels are ideal for families because:
-- **Spacious rooms** (35-60 m²) with separate sleeping/living areas
-- **Full kitchens** — cook breakfast, save money, accommodate dietary needs
-- **Washer/dryer** — pack lighter, do laundry mid-trip
-- **Family-friendly** — bunk beds, kids play areas, board games
-- **Great locations** — near stations and attractions
-- **English-speaking staff** from 35+ countries
 
 ---
 
@@ -235,8 +230,8 @@ MIMARU apartment hotels are ideal for families because:
 |---------|-------|--------|----------|
 | Tokyo 1 | Jul 18-21 | 3 | KOKO Hotel Residence Asakusa Tawaramachi |
 | Kyoto | Jul 21-24 | 3 | Hotel Nikko Princess Kyoto |
-| Osaka | Jul 24-28 | 4 | TBD |
-| Tokyo 2 | Jul 28-30 | 2 | TBD |
+| Osaka | Jul 24-28 | 4 | Osaka Excel Hotel Tokyu |
+| Tokyo 2 | Jul 28-30 | 2 | Hotel Metropolitan Tokyo Ikebukuro |
 | **Total** | | **12** | |
 
 ---
@@ -257,29 +252,28 @@ MIMARU apartment hotels are ideal for families because:
 
 ## Airport Transfers
 
-### Arrival (July 18)
+### Arrival (July 18) — Haneda (HND)
 
-**Narita (NRT) to Tokyo:**
-- Narita Express to Tokyo/Shinjuku (~1 hour)
-- Limousine Bus to various hotels
+DL295 lands at **Haneda (HND)** at 2:15 PM. First stay is KOKO Hotel Asakusa (Tawaramachi):
 
-**Haneda (HND) to Tokyo:**
-- Tokyo Monorail to Hamamatsucho (~15 min)
-- Keikyu Line to Shinagawa (~15 min)
+- **Keikyu Airport Line → Toei Asakusa Line (direct):** Haneda to Asakusa Station with no transfer (~40 min) — the easiest route to the hotel
+- **Tokyo Monorail to Hamamatsucho,** then transfer if heading elsewhere (~15 min to Hamamatsucho)
+- **Airport Limousine Bus / taxi** — simplest with luggage after a 14-hour flight, but slower in traffic
+
+**At Haneda on arrival:** exchange dollars to yen, pick up/activate IC cards (Suica/Pasmo), and confirm your eSIM is live before leaving the terminal.
 
 ### Departure (July 30)
 
-**DL294 departs 3:15 PM — be at airport by 12:00-12:30 PM**
+### Departure (July 30) — Haneda (HND)
+
+**DL294 departs Haneda 3:15 PM — be at airport by 12:00-12:30 PM**
 
 **At the airport (Japan side):**
 - Tax-free purchases will be verified against passport records
 - Keep all tax-free paperwork accessible until after US customs
 - Allow extra time if checking inventory-heavy suitcases
 
-**Tokyo to Narita (NRT):**
-- Narita Express from Tokyo Station (~1 hour)
-- Allow 3 hours before international flights
-
-**Tokyo to Haneda (HND):**
-- Tokyo Monorail or Keikyu Line (~30 min)
-- Allow 2.5 hours before international flights
+**Ikebukuro (final hotel) to Haneda (HND):**
+- Keikyu / Tokyo Monorail via a quick JR hop to Hamamatsucho or Shinagawa (~45–60 min door-to-door)
+- Airport Limousine Bus runs from major hubs — simplest with luggage
+- Allow 2.5–3 hours before this international flight

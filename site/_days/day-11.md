@@ -31,7 +31,7 @@ highlights:
 
 <div class="activity-card">
 <h3>Hotel Check-in</h3>
-<p>Drop bags at the hotel and head out. You have a fun afternoon ahead!</p>
+<p>Drop bags at the Hotel Metropolitan Tokyo Ikebukuro (right at Ikebukuro Station, next to Pokemon Center MEGA) and head out. You have a fun afternoon ahead!</p>
 </div>
 
 </div>

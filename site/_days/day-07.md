@@ -11,7 +11,7 @@ highlights:
   - Dotonbori
 reservations:
   - name: Gion Matsuri seating (Ato Matsuri)
-    note: Parade starts 9:30 AM — confirm seat details if booked
+    note: BOOKED — paid front-row grandstand, Block 15 South Row A Seats 24-27, Order 467885962
 ---
 
 <img src="{{ page.hero_image }}" alt="{{ page.hero_alt }}" class="day-hero">
@@ -35,8 +35,9 @@ reservations:
 <h3>Gion Matsuri Ato Matsuri — Yamaboko Junko</h3>
 <p>The "after" parade on July 24. Giant decorated floats (yamaboko) are pulled through the streets — a smaller, more intimate procession than the July 17 Saki Matsuri, with its own set of floats.</p>
 <p><strong>Route:</strong> The Ato Matsuri runs in the reverse direction of the earlier parade, along Karasuma and Shijo-dori</p>
-<p><strong>Start time:</strong> 9:30 AM — be in your spot a bit early</p>
-<p><strong>Heat tip:</strong> Bring water, fans, and sun protection — even a morning parade in July is hot. Shaded seating helps a lot if you have it.</p>
+<p><strong>Our seats:</strong> Paid front-row grandstand — Block 15, South side, Row A, Seats 24–27 (Order 467885962). Find Block 15 and be seated a bit before 9:30 AM.</p>
+<p><strong>Start time:</strong> 9:30 AM parade</p>
+<p><strong>Heat tip:</strong> Bring water, fans, and sun protection — even a morning parade in July is hot. The grandstand may be in sun, so hats and a handheld fan help.</p>
 <div class="activity-meta">
 <a href="https://maps.google.com/?q=Karasuma+Oike+Kyoto">📍 Parade Area</a>
 </div>
@@ -73,8 +74,7 @@ reservations:
 
 <div class="activity-card">
 <h3>Osaka Hotel Check-in</h3>
-<p>Head to Namba area hotel, drop bags, freshen up.</p>
-<p>If you're at a MIMARU, grab groceries for breakfast supplies — the kitchen saves time and money!</p>
+<p>Head to the Osaka Excel Hotel Tokyu (at Hommachi Station on the Midosuji line, central Chuo-ku), drop bags, freshen up.</p>
 </div>
 
 </div>
@@ -112,8 +112,8 @@ reservations:
 ## Reservations
 
 <div class="alert alert-warning">
-<p class="alert-title">Gion Matsuri Ato Matsuri Seating</p>
-<p>Parade starts <strong>9:30 AM on July 24</strong>. If you've booked paid/reserved seating, confirm the exact section and arrival time. Otherwise, stake out a shaded spot along the route early.</p>
+<p class="alert-title">Gion Matsuri Ato Matsuri Seating — BOOKED</p>
+<p>Paid <strong>front-row grandstand</strong> seats for the <strong>9:30 AM July 24</strong> parade. <strong>Block 15 · South side · Row A · Seats 24, 25, 26, 27</strong> (4 together). Order No. <strong>467885962</strong> (registered under Thomas Gamble / +1 404-863-5754). Arrive early to find Block 15 and settle in before the start — bring water, fans, and sun protection.</p>
 </div>
 
 ---
