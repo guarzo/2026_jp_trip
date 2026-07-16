@@ -18,7 +18,7 @@ Use this page to discuss the trip, vote on decisions, and share ideas!
 <div class="alert alert-warning">
 <p class="alert-title">Several things changed — sold out or newly booked</p>
 <p><strong>Off the table (fully booked):</strong> Asakusa Sumo Show, Ghibli Museum, Nintendo Museum, and Pokemon Cafe Osaka.</p>
-<p><strong>Newly booked / confirmed:</strong> Micro Pig Cafe moved to Day 2 (Jul 19, 12 PM); teamLab Planets Day 3 at 11:30 AM; Capyneko Cafe Day 3 at 4 PM; Kyoto riverside terrace dinner Day 6 (Jul 23, 7 PM, GSLCJ3); Mt. Fuji guided tour Day 12 (Jul 29, 8:30 AM); hotels KOKO Asakusa (Jul 18–21) and Nikko Princess Kyoto (Jul 21–24).</p>
+<p><strong>Newly booked / confirmed:</strong> Micro Pig Cafe moved to Day 2 (Jul 19, 12 PM); teamLab Planets Day 3 at 11:30 AM; Capyneko Cafe Day 3 at 4 PM; Kyoto riverside terrace dinner Day 6 (Jul 23, 7 PM, GSLCJ3); Mt. Fuji guided tour Day 12 (Jul 29, 8:30 AM); hotel stays at hotel MONday Asakusa (Jul 18–21) and Nikko Princess Kyoto (Jul 21–24).</p>
 <p><strong>Knock-on changes:</strong> Day 1 is now a relaxed Sensoji evening; Day 2 is an Asakusa jet-lag day anchored by the pig cafe; Day 9 is Pokemon Center + card hunting (no cafe).</p>
 </div>
 

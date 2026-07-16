@@ -8,8 +8,9 @@ hero_alt: "Shibuya Crossing - the world's busiest pedestrian intersection"
 highlights:
   - teamLab Planets
   - Pokemon Center
+  - IGGY CAFE
   - Capyneko Cafe
-  - Harajuku
+  - Meiji Jingu
 reservations:
   - name: teamLab Planets
     note: BOOKED — Jul 20, 11:30 AM (confirm time)
@@ -66,26 +67,28 @@ reservations:
 <div class="activity-card">
 <h3>Pokemon Center SHIBUYA</h3>
 <p>Located in Shibuya PARCO (floors 5-6). Great first "big hit" Pokemon stop! Trendy exclusives and limited items.</p>
+<p><strong>Timing:</strong> Keep this visit focused so you have time for IGGY CAFE and can leave Shibuya around 3:30 PM for the booked Capyneko slot.</p>
 <p><strong>Tip:</strong> This is your first "price discovery" day — note prices for comparison with Osaka later.</p>
 <div class="activity-meta">
 <a href="https://maps.google.com/?q=Pokemon+Center+Shibuya+PARCO">📍 Get Directions</a>
-<span>⏱️ 1-2 hours</span>
+<span>⏱️ ~30-40 min</span>
 </div>
 </div>
 
 <div class="activity-card">
-<h3>Harajuku / Takeshita Street</h3>
-<p>Walk from Shibuya to Harajuku (or take one stop). Explore Takeshita Street for wild fashion, crepes, and people-watching.</p>
-<p><strong>Good for:</strong> Unique shops, street fashion, cafes, teen culture — the kids will love this!</p>
+<h3>☕ IGGY CAFE — Shibuya PARCO</h3>
+<p>Stop at IGGY CAFE on the 6th floor of Shibuya PARCO while you're already in the building for the Pokemon Center. Make this a quick late lunch, drink, or dessert stop rather than a long sit-down meal.</p>
+<p><strong>Timing:</strong> Aim to finish the PARCO block and leave for Harajuku by about 3:30 PM.</p>
 <div class="activity-meta">
-<a href="https://maps.google.com/?q=Takeshita+Street+Harajuku">📍 Takeshita Street</a>
+<a href="https://maps.google.com/?q=IGGY+CAFE+Shibuya+PARCO">📍 Get Directions</a>
+<span>⏱️ ~30 min</span>
 </div>
 </div>
 
 <div class="activity-card">
 <h3>🐹 Capyneko Cafe (Harajuku) — 4:00 PM (booked)</h3>
-<p>Interactive cafe with capybaras and cats — calm, AC, and a perfect late-afternoon heat-shelter after walking Takeshita Street.</p>
-<p><strong>Booked:</strong> July 20, 4:00 PM · 50-minute interaction · 4 people. Plan the Harajuku/Takeshita block <em>before</em> 4:00 and do Kiddy Land after.</p>
+<p>Interactive cafe with capybaras and cats — calm, AC, and a perfect late-afternoon heat-shelter after the Shibuya block.</p>
+<p><strong>Booked:</strong> July 20, 4:00 PM · 50-minute interaction · 4 people. Arrive a little early after coming from Shibuya PARCO.</p>
 <div class="activity-meta">
 <a href="https://www.klook.com/en-US/activity/207318-interaction-with-capybaras-and-cats-capyneko-cafe-harajuku/">🎟️ Klook listing</a>
 <span>⏱️ 50 min</span>
@@ -93,11 +96,12 @@ reservations:
 </div>
 
 <div class="activity-card">
-<h3>Kiddy Land (Omotesando)</h3>
-<p>A short walk from Takeshita Street on Omotesando avenue. Multi-floor toy store packed with character goods — Pokemon, Sanrio, Ghibli, Disney, and Japanese pop culture. The best place in Harajuku for kids!</p>
-<p><strong>Tip:</strong> Even just browsing is a blast. Budget some time here — it's hard to leave empty-handed.</p>
+<h3>Meiji Jingu Shrine</h3>
+<p>After Capyneko, head directly to Meiji Jingu for a peaceful walk through the forested approach and a visit to the main shrine. This is a calming contrast to Shibuya and keeps the route concentrated around Harajuku.</p>
+<p><strong>Timing:</strong> Aim to enter around 5:10 PM and finish by about 6:10 PM. Do not linger elsewhere first because the shrine closes around sunset.</p>
 <div class="activity-meta">
-<a href="https://maps.google.com/?q=Kiddyland+Harajuku">📍 Get Directions</a>
+<a href="https://maps.google.com/?q=Meiji+Jingu+Tokyo">📍 Get Directions</a>
+<span>⏱️ ~1 hour</span>
 </div>
 </div>
 
@@ -109,8 +113,13 @@ reservations:
 <div class="activity-time">🌙 Evening</div>
 
 <div class="activity-card">
+<h3>Optional Harajuku Browsing</h3>
+<p>If everyone still has energy after Meiji Jingu, browse Takeshita Street or Kiddy Land on Omotesando. Treat this as optional rather than rushing the shrine or the booked cafe.</p>
+</div>
+
+<div class="activity-card">
 <h3>Dinner + Pack for Kyoto</h3>
-<p>Dinner in Shibuya or back at the hotel area. After dinner, pack up — tomorrow you're taking the shinkansen to Kyoto!</p>
+<p>Dinner in Harajuku, Shibuya, or back near the hotel. After dinner, pack up — tomorrow you're taking the shinkansen to Kyoto!</p>
 <p><strong>Tip:</strong> Pack a small day bag separately for the train — you'll want snacks and entertainment accessible.</p>
 </div>
 

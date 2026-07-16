@@ -51,10 +51,10 @@ Show these to taxi drivers. Tap "Copy" to paste into maps.
 
 ### Tokyo Hotel #1 (Jul 18-21)
 
-**KOKO Hotel Residence Asakusa Tawaramachi** — Asakusa (Tawaramachi)
+**hotel MONday Asakusa** — Asakusa
 
 <div class="japanese-text" id="tokyo-hotel-1">
-〒111-0042 東京都台東区寿2丁目8-12
+〒111-0032 東京都台東区浅草2丁目26-7
 </div>
 
 ### Kyoto Hotel (Jul 21-24)

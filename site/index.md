@@ -51,7 +51,7 @@ title: Home
 
 <div class="alert alert-info">
   <p class="alert-title">Confirmed</p>
-  <p>Micro Pig Cafe (Day 2, Jul 19 · 12 PM) · teamLab Planets (Day 3, Jul 20 · 11:30 AM) · Capyneko Cafe (Day 3, Jul 20 · 4 PM) · Kyoto guided tour w/ Hiroyuki (Day 5, Jul 22 · 10 AM) · Kyoto riverside terrace dinner (Day 6, Jul 23 · 7 PM, GSLCJ3) · Osaka pop culture &amp; food tour w/ Kazu (Day 9, Jul 26 · 4:30 PM) · Pokemon Center Osaka (Day 9) · Mt. Fuji guided tour w/ Yoshi (Day 12, Jul 29 · 7 AM) · All 3 shinkansen (Jul 21, 24, 28) · Hotels: KOKO Asakusa, Nikko Princess Kyoto, Osaka Excel Tokyu, Metropolitan Ikebukuro.</p>
+  <p>Micro Pig Cafe (Day 2, Jul 19 · 12 PM) · teamLab Planets (Day 3, Jul 20 · 11:30 AM) · Capyneko Cafe (Day 3, Jul 20 · 4 PM) · Kyoto guided tour w/ Hiroyuki (Day 5, Jul 22 · 10 AM) · Kyoto riverside terrace dinner (Day 6, Jul 23 · 7 PM, GSLCJ3) · Osaka pop culture &amp; food tour w/ Kazu (Day 9, Jul 26 · 4:30 PM) · Pokemon Center Osaka (Day 9) · Mt. Fuji guided tour w/ Yoshi (Day 12, Jul 29 · 7 AM) · All 3 shinkansen (Jul 21, 24, 28) · Hotels: hotel MONday Asakusa, Nikko Princess Kyoto, Osaka Excel Tokyu, Metropolitan Ikebukuro.</p>
 </div>
 
 <div class="alert alert-info">

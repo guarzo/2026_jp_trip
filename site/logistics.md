@@ -157,13 +157,17 @@ We only have 2 long shinkansen trips (Tokyo↔Kyoto, Osaka↔Tokyo). The JR Pass
 <div class="logistics-card">
   <h3><span class="icon">🏨</span> Booked Hotel — First Stay (Jul 18–21)</h3>
   <div class="hotel-card">
-    <h4>KOKO Hotel Residence Asakusa Tawaramachi</h4>
+    <h4>hotel MONday Asakusa</h4>
     <div class="segment-details">
       <p><strong>Status:</strong> <span class="status status-booked">Booked</span></p>
-      <p><strong>Area:</strong> Asakusa (Tawaramachi) — near Sensoji, Micro Pig Cafe, Sumida River</p>
-      <p><strong>Dates:</strong> Jul 18–21 (3 nights)</p>
-      <p><strong>Confirmation:</strong> <span class="conf-number">In app</span></p>
-      <p><strong>Check-in:</strong> 3:00 PM | <strong>Check-out:</strong> 11:00 AM</p>
+      <p><strong>Area:</strong> Asakusa — near Sensoji, Micro Pig Cafe, and Tsukuba Express Asakusa Station</p>
+      <p><strong>Dates:</strong> Sat, Jul 18–Tue, Jul 21 (3 nights)</p>
+      <p><strong>Guests:</strong> 4 adults · 2 rooms</p>
+      <p><strong>Booked through:</strong> Expedia · booked by Daniela</p>
+      <p><strong>Hotel confirmation:</strong> <span class="conf-number">20***************</span></p>
+      <p><strong>Expedia itinerary:</strong> <span class="conf-number">7207**********</span></p>
+      <p><strong>Check-in:</strong> 3:00 PM | <strong>Check-out:</strong> 10:00 AM</p>
+      <p><strong>Changes/cancellation:</strong> Only Daniela, the person who booked the stay, can change or cancel it.</p>
     </div>
   </div>
 </div>
@@ -228,7 +232,7 @@ We only have 2 long shinkansen trips (Tokyo↔Kyoto, Osaka↔Tokyo). The JR Pass
 
 | Segment | Dates | Nights | Location |
 |---------|-------|--------|----------|
-| Tokyo 1 | Jul 18-21 | 3 | KOKO Hotel Residence Asakusa Tawaramachi |
+| Tokyo 1 | Jul 18-21 | 3 | hotel MONday Asakusa |
 | Kyoto | Jul 21-24 | 3 | Hotel Nikko Princess Kyoto |
 | Osaka | Jul 24-28 | 4 | Osaka Excel Hotel Tokyu |
 | Tokyo 2 | Jul 28-30 | 2 | Hotel Metropolitan Tokyo Ikebukuro |
@@ -254,9 +258,10 @@ We only have 2 long shinkansen trips (Tokyo↔Kyoto, Osaka↔Tokyo). The JR Pass
 
 ### Arrival (July 18) — Haneda (HND)
 
-DL295 lands at **Haneda (HND)** at 2:15 PM. First stay is KOKO Hotel Asakusa (Tawaramachi):
+DL295 lands at **Haneda (HND)** at 2:15 PM. First stay is hotel MONday Asakusa:
 
-- **Keikyu Airport Line → Toei Asakusa Line (direct):** Haneda to Asakusa Station with no transfer (~40 min) — the easiest route to the hotel
+- **Keikyu Airport Line → Toei Asakusa Line (direct):** Haneda to Asakusa Station with no transfer (~40 min), then take a short taxi or walk about 15–20 minutes to the hotel
+- **Nearest stations:** Tsukuba Express Asakusa Station (A1 exit, ~6 min walk) or Tokyo Metro Ginza Line Asakusa Station (Exit 1, ~11 min walk)
 - **Tokyo Monorail to Hamamatsucho,** then transfer if heading elsewhere (~15 min to Hamamatsucho)
 - **Airport Limousine Bus / taxi** — simplest with luggage after a 14-hour flight, but slower in traffic
 

@@ -41,7 +41,7 @@ Click any day for full details, maps, and family notes.
   </div>
   <div class="itinerary-content">
     <h3><a href="{{ '/days/day-03/' | relative_url }}">teamLab Planets + Shibuya</a></h3>
-    <p>Immersive art morning, Pokemon Center Shibuya, Capyneko Cafe + Harajuku afternoon</p>
+    <p>Immersive art morning, Shibuya Crossing, Pokemon Center + IGGY CAFE, Capyneko Cafe, and Meiji Jingu</p>
     <span class="itinerary-location">Tokyo (Toyosu + Shibuya)</span>
   </div>
 </li>

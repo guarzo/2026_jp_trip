@@ -21,7 +21,7 @@ highlights:
 
 <div class="activity-card">
 <h3>Haneda (HND) → Hotel</h3>
-<p>Clear customs at Haneda, pick up eSIMs if not already activated, get IC cards (Suica/Pasmo) for trains, and head to the hotel. Easiest route to Asakusa: Keikyu Airport Line → Toei Asakusa Line direct (~40 min, no transfer).</p>
+<p>Clear customs at Haneda, pick up eSIMs if not already activated, get IC cards (Suica/Pasmo) for trains, and head to hotel MONday Asakusa. Take the Keikyu Airport Line → Toei Asakusa Line direct to Asakusa Station (~40 min, no transfer), then take a short taxi or walk about 15–20 minutes to the hotel.</p>
 <p><strong>Get Yen:</strong> Exchange dollars to yen at the airport — highly recommended! Many temples, shrines, and smaller shops are cash-only. Airport ATMs (7-Eleven) also work great with foreign cards.</p>
 </div>
 
