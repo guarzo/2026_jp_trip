@@ -29,6 +29,21 @@ Current status of all bookings.
 
 <div class="reservation-card recommended">
   <div class="reservation-header">
+    <h3>Hotel Metropolitan Tokyo Ikebukuro</h3>
+    <span class="status status-booked">Booked</span>
+  </div>
+  <div class="reservation-details">
+    <div class="detail"><strong>Stay:</strong> Tue, July 28 at 3:00 PM → Thu, July 30 at 12:00 PM</div>
+    <div class="detail"><strong>Booking:</strong> 2 nights · 4 adults · 2 rooms · Expedia</div>
+    <div class="detail"><strong>Hotel confirmation:</strong> <span class="conf-number">20***************</span></div>
+    <div class="detail"><strong>Expedia itinerary:</strong> <span class="conf-number">7207**********</span></div>
+    <div class="detail"><strong>Booked by:</strong> Daniela</div>
+  </div>
+  <p class="reservation-note">Only Daniela, the person who booked the stay, can change or cancel this reservation. The confirmed noon checkout is later than the planned airport departure, so leave the hotel around 10:45–11:00 AM.</p>
+</div>
+
+<div class="reservation-card recommended">
+  <div class="reservation-header">
     <h3>Micro Pig Cafe (Asakusa)</h3>
     <span class="status status-booked">Booked</span>
   </div>

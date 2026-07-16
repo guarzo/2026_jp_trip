@@ -179,9 +179,13 @@ We only have 2 long shinkansen trips (Tokyo↔Kyoto, Osaka↔Tokyo). The JR Pass
     <div class="segment-details">
       <p><strong>Status:</strong> <span class="status status-booked">Booked</span></p>
       <p><strong>Area:</strong> Ikebukuro — directly at Ikebukuro Station, next to Pokemon Center MEGA (Day 11) and easy for the Day 12 Mt. Fuji pickup</p>
-      <p><strong>Dates:</strong> Jul 28–30 (2 nights)</p>
-      <p><strong>Confirmation:</strong> <span class="conf-number">In app</span></p>
-      <p><strong>Check-in:</strong> 3:00 PM | <strong>Check-out:</strong> 11:00 AM</p>
+      <p><strong>Dates:</strong> Tue, Jul 28–Thu, Jul 30 (2 nights)</p>
+      <p><strong>Guests:</strong> 4 adults · 2 rooms</p>
+      <p><strong>Booked through:</strong> Expedia · booked by Daniela</p>
+      <p><strong>Hotel confirmation:</strong> <span class="conf-number">20***************</span></p>
+      <p><strong>Expedia itinerary:</strong> <span class="conf-number">7207**********</span></p>
+      <p><strong>Check-in:</strong> 3:00 PM | <strong>Check-out:</strong> 12:00 PM</p>
+      <p><strong>Changes/cancellation:</strong> Only Daniela, the person who booked the stay, can change or cancel it.</p>
     </div>
   </div>
 </div>

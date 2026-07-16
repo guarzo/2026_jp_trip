@@ -41,7 +41,8 @@ highlights:
 </div>
 
 <div class="activity-card">
-<h3>Hotel Check-out</h3>
+<h3>Hotel Check-out — Depart Around 10:45–11:00 AM</h3>
+<p><strong>Confirmed checkout deadline:</strong> 12:00 PM. Leave earlier so you can reach Haneda around 12:00–12:30 PM for the 3:15 PM international flight.</p>
 <p>Double-check the room before leaving:</p>
 <ul>
 <li>Check all drawers and closets</li>
