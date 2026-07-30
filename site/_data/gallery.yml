@@ -1,0 +1,9 @@
+days:
+  - date: "2026-07-18"
+    day_number: 1
+    items:
+      - { file: "sample-photo", type: photo }
+  - date: "2026-07-19"
+    day_number: 2
+    items:
+      - { file: "sample-video", type: video }
