@@ -132,9 +132,11 @@ shadows). Mobile-first, matching the rest of the site. No new fonts or colors.
 ## Service worker note
 
 `site/sw.js` caches pages for offline use. The gallery's ~500 images should NOT
-be force-cached (would bloat the cache and slow install). v1: leave gallery
+be force-cached (would bloat the cache and slow install): leave the gallery
 media out of the precache list; images load on demand and are opportunistically
-cached by the browser. Confirm the sw precache list is static and unaffected.
+cached by the browser. The `/gallery/` page route itself, however, SHOULD be
+added to the precache list (and the cache version bumped so the new list takes
+effect). Apart from adding this one route, the precache list stays static.
 
 ## Out of scope (v1)
 

@@ -123,7 +123,7 @@ def build_video(src, base, force):
     if force or newer(src, thumb):
         subprocess.run(
             ["ffmpeg", "-y", "-i", src, "-vf",
-             f"thumbnail,scale='min({THUMB_MAX},iw)':-2", "-frames:v", "1", thumb],
+             f"thumbnail,scale={THUMB_MAX}:{THUMB_MAX}:force_original_aspect_ratio=decrease", "-frames:v", "1", thumb],
             check=True, stdin=subprocess.DEVNULL,
             stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
         )

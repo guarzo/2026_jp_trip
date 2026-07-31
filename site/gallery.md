@@ -40,7 +40,7 @@ permalink: /gallery/
   </section>
 {% endfor %}
 
-<div class="lightbox" id="lightbox" hidden>
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Photo and video viewer" hidden>
   <button class="lightbox-close" aria-label="Close">&times;</button>
   <button class="lightbox-prev" aria-label="Previous">&larr;</button>
   <div class="lightbox-stage" id="lightbox-stage"></div>
