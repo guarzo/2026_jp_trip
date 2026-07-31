@@ -18,7 +18,12 @@ import subprocess
 import sys
 from datetime import date
 
-from PIL import Image, ImageOps
+from PIL import Image, ImageFile, ImageOps
+
+# Some real-world JPEGs in the trip media set are missing trailing bytes
+# (truncated but otherwise near-complete). Allow Pillow to decode as much as
+# it can rather than raising, so these files can still be recovered.
+ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SITE = os.path.dirname(HERE)                      # .../site
@@ -119,6 +124,7 @@ def main():
     days = {}
     files = sorted(os.listdir(args.source))
     total = 0
+    skipped = 0
     for name in files:
         m = NAME_RE.match(name)
         if not m:
@@ -126,12 +132,17 @@ def main():
         base, dd, ext = m.group(1), m.group(2), m.group(3).lower()
         src = os.path.join(args.source, name)
         dstr = f"2026-07-{dd}"
-        if ext in PHOTO_EXT:
-            build_photo(src, base, args.force)
-            days.setdefault(dstr, []).append((base, "photo"))
-        elif ext in VIDEO_EXT:
-            build_video(src, base, args.force)
-            days.setdefault(dstr, []).append((base, "video"))
+        try:
+            if ext in PHOTO_EXT:
+                build_photo(src, base, args.force)
+                days.setdefault(dstr, []).append((base, "photo"))
+            elif ext in VIDEO_EXT:
+                build_video(src, base, args.force)
+                days.setdefault(dstr, []).append((base, "video"))
+        except Exception as e:
+            skipped += 1
+            print(f"WARNING: skipping {name}: {e}")
+            continue
         total += 1
         print(f"[{total}] {name}")
 
@@ -144,7 +155,7 @@ def main():
     else:
         print(f"Manifest exists, kept as-is (use --regen-manifest to overwrite): {MANIFEST}")
 
-    print(f"Done. Processed {total} files across {len(days)} days.")
+    print(f"Done. Processed {total} files across {len(days)} days. Skipped {skipped} file(s).")
 
 
 if __name__ == "__main__":
