@@ -189,4 +189,110 @@
     });
   });
 
+  // ============================================
+  // Gallery Lightbox
+  // ============================================
+  (function initGallery() {
+    const lightbox = document.getElementById('lightbox');
+    if (!lightbox) return;
+    const stage = document.getElementById('lightbox-stage');
+    const thumbs = Array.from(document.querySelectorAll('.gallery-thumb'));
+    if (!thumbs.length) return;
+
+    // Group thumbs by day so prev/next stays within a day.
+    const byDay = {};
+    thumbs.forEach(function(t) {
+      const d = t.dataset.day;
+      (byDay[d] = byDay[d] || []).push(t);
+    });
+
+    let currentDay = null;
+    let currentIndex = 0;
+    let lastFocused = null;
+
+    function render(thumb) {
+      stage.innerHTML = '';
+      const type = thumb.dataset.type;
+      const src = thumb.dataset.full;
+      if (type === 'video') {
+        const v = document.createElement('video');
+        v.src = src; v.controls = true; v.autoplay = true; v.playsInline = true;
+        stage.appendChild(v);
+      } else {
+        const img = document.createElement('img');
+        img.src = src; img.alt = thumb.querySelector('img').alt;
+        stage.appendChild(img);
+      }
+    }
+
+    function open(thumb) {
+      currentDay = thumb.dataset.day;
+      currentIndex = byDay[currentDay].indexOf(thumb);
+      render(thumb);
+      lightbox.hidden = false;
+      document.body.classList.add('lightbox-open');
+      lastFocused = thumb;
+      // Move focus into the dialog so keyboard/screen-reader users land inside it.
+      lightbox.querySelector('.lightbox-close').focus();
+    }
+
+    function close() {
+      lightbox.hidden = true;
+      stage.innerHTML = '';
+      document.body.classList.remove('lightbox-open');
+      // Restore focus to the thumbnail that opened the lightbox.
+      if (lastFocused) { lastFocused.focus(); lastFocused = null; }
+    }
+
+    function step(delta) {
+      const group = byDay[currentDay];
+      currentIndex = (currentIndex + delta + group.length) % group.length;
+      render(group[currentIndex]);
+    }
+
+    thumbs.forEach(function(t) {
+      t.addEventListener('click', function() { open(t); });
+    });
+    lightbox.querySelector('.lightbox-close').addEventListener('click', close);
+    lightbox.querySelector('.lightbox-prev').addEventListener('click', function() { step(-1); });
+    lightbox.querySelector('.lightbox-next').addEventListener('click', function() { step(1); });
+    lightbox.addEventListener('click', function(e) { if (e.target === lightbox) close(); });
+    document.addEventListener('keydown', function(e) {
+      if (lightbox.hidden) return;
+      if (e.key === 'Escape') { close(); return; }
+      if (e.key === 'ArrowLeft') { step(-1); return; }
+      if (e.key === 'ArrowRight') { step(1); return; }
+      // Trap Tab focus within the dialog's controls.
+      if (e.key === 'Tab') {
+        const focusable = Array.from(
+          lightbox.querySelectorAll('button:not([disabled])')
+        ).filter(function(el) { return el.offsetParent !== null; });
+        if (!focusable.length) return;
+        const first = focusable[0];
+        const last = focusable[focusable.length - 1];
+        if (e.shiftKey && document.activeElement === first) {
+          e.preventDefault(); last.focus();
+        } else if (!e.shiftKey && document.activeElement === last) {
+          e.preventDefault(); first.focus();
+        }
+      }
+    });
+
+    // Touch swipe: horizontal drag beyond threshold navigates within the day.
+    const SWIPE_THRESHOLD = 50;
+    let touchStartX = 0, touchStartY = 0;
+    lightbox.addEventListener('touchstart', function(e) {
+      const t = e.changedTouches[0];
+      touchStartX = t.clientX; touchStartY = t.clientY;
+    }, { passive: true });
+    lightbox.addEventListener('touchend', function(e) {
+      const t = e.changedTouches[0];
+      const dx = t.clientX - touchStartX;
+      const dy = t.clientY - touchStartY;
+      // Ignore primarily-vertical or below-threshold gestures.
+      if (Math.abs(dx) < SWIPE_THRESHOLD || Math.abs(dx) <= Math.abs(dy)) return;
+      step(dx < 0 ? 1 : -1);
+    }, { passive: true });
+  })();
+
 })();

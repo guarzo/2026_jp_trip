@@ -41,6 +41,10 @@ title: Home
     <span class="quick-link-icon">🍜</span>
     <span class="quick-link-label">Food</span>
   </a>
+  <a href="{{ '/gallery/' | relative_url }}" class="quick-link">
+    <span class="quick-link-icon">📷</span>
+    <span class="quick-link-label">Gallery</span>
+  </a>
   <a href="{{ '/emergency/' | relative_url }}" class="quick-link">
     <span class="quick-link-icon">🆘</span>
     <span class="quick-link-label">Emergency</span>
